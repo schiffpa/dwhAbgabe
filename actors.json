@@ -1,0 +1,10094 @@
+[
+    {
+        "actor": "Tim Robbins",
+        "rating": 9.3
+    },
+    {
+        "actor": "Bob Gunton",
+        "rating": 9.3
+    },
+    {
+        "actor": "William Sadler",
+        "rating": 9.3
+    },
+    {
+        "actor": "Marlon Brando",
+        "rating": 9.2
+    },
+    {
+        "actor": "Richard S. Castellano",
+        "rating": 9.2
+    },
+    {
+        "actor": "Robert Duvall",
+        "rating": 9
+    },
+    {
+        "actor": "Diane Keaton",
+        "rating": 9
+    },
+    {
+        "actor": "Ali Astin",
+        "rating": 8.9
+    },
+    {
+        "actor": "David Aston",
+        "rating": 8.9
+    },
+    {
+        "actor": "Amanda Plummer",
+        "rating": 8.9
+    },
+    {
+        "actor": "Laura Lovelace",
+        "rating": 8.9
+    },
+    {
+        "actor": "Caroline Goodall",
+        "rating": 8.9
+    },
+    {
+        "actor": "Noel Appleby",
+        "rating": 8.85
+    },
+    {
+        "actor": "Eli Wallach",
+        "rating": 8.8
+    },
+    {
+        "actor": "Elliot Page",
+        "rating": 8.8
+    },
+    {
+        "actor": "Lee Van Cleef",
+        "rating": 8.8
+    },
+    {
+        "actor": "Aldo Giuffr\u00e8",
+        "rating": 8.8
+    },
+    {
+        "actor": "Sally Field",
+        "rating": 8.8
+    },
+    {
+        "actor": "Alan Howard",
+        "rating": 8.8
+    },
+    {
+        "actor": "Rebecca Williams",
+        "rating": 8.8
+    },
+    {
+        "actor": "Michael Conner Humphreys",
+        "rating": 8.8
+    },
+    {
+        "actor": "Zach Grenier",
+        "rating": 8.8
+    },
+    {
+        "actor": "Meat Loaf",
+        "rating": 8.8
+    },
+    {
+        "actor": "Sala Baker",
+        "rating": 8.75
+    },
+    {
+        "actor": "Billy Dee Williams",
+        "rating": 8.7
+    },
+    {
+        "actor": "Carrie-Anne Moss",
+        "rating": 8.7
+    },
+    {
+        "actor": "John Bach",
+        "rating": 8.7
+    },
+    {
+        "actor": "Bruce Allpress",
+        "rating": 8.7
+    },
+    {
+        "actor": "Mari Natsuki",
+        "rating": 8.6
+    },
+    {
+        "actor": "Al Pacino",
+        "rating": 8.6
+    },
+    {
+        "actor": "Takashi Nait\u00f4",
+        "rating": 8.6
+    },
+    {
+        "actor": "Ellen Burstyn",
+        "rating": 8.6
+    },
+    {
+        "actor": "David Morse",
+        "rating": 8.6
+    },
+    {
+        "actor": "Lee Sun-kyun",
+        "rating": 8.6
+    },
+    {
+        "actor": "Miyu Irino",
+        "rating": 8.6
+    },
+    {
+        "actor": "Michael Clarke Duncan",
+        "rating": 8.6
+    },
+    {
+        "actor": "Peter Cushing",
+        "rating": 8.6
+    },
+    {
+        "actor": "Cho Yeo-jeong",
+        "rating": 8.6
+    },
+    {
+        "actor": "Giustino Durano",
+        "rating": 8.6
+    },
+    {
+        "actor": "Giorgio Cantarini",
+        "rating": 8.6
+    },
+    {
+        "actor": "Bonnie Hunt",
+        "rating": 8.6
+    },
+    {
+        "actor": "Rumi Hiiragi",
+        "rating": 8.6
+    },
+    {
+        "actor": "Nicoletta Braschi",
+        "rating": 8.6
+    },
+    {
+        "actor": "Danny Aiello",
+        "rating": 8.5
+    },
+    {
+        "actor": "Frances Conroy",
+        "rating": 8.5
+    },
+    {
+        "actor": "Zazie Beetz",
+        "rating": 8.5
+    },
+    {
+        "actor": "Melissa Benoist",
+        "rating": 8.5
+    },
+    {
+        "actor": "Lea Thompson",
+        "rating": 8.5
+    },
+    {
+        "actor": "Edward Furlong",
+        "rating": 8.5
+    },
+    {
+        "actor": "Robert Patrick",
+        "rating": 8.5
+    },
+    {
+        "actor": "Billy Bob Thornton",
+        "rating": 8.4
+    },
+    {
+        "actor": "Harry Dean Stanton",
+        "rating": 8.4
+    },
+    {
+        "actor": "Jack Nicholson",
+        "rating": 8.4
+    },
+    {
+        "actor": "Shelley Duvall",
+        "rating": 8.4
+    },
+    {
+        "actor": "Danny Lloyd",
+        "rating": 8.4
+    },
+    {
+        "actor": "Gael Garc\u00eda Bernal",
+        "rating": 8.4
+    },
+    {
+        "actor": "Benjamin Bratt",
+        "rating": 8.4
+    },
+    {
+        "actor": "Paul Reiser",
+        "rating": 8.4
+    },
+    {
+        "actor": "Elissa Knight",
+        "rating": 8.4
+    },
+    {
+        "actor": "Shameik Moore",
+        "rating": 8.4
+    },
+    {
+        "actor": "Veronica Cartwright",
+        "rating": 8.4
+    },
+    {
+        "actor": "Anthony Gonzalez",
+        "rating": 8.4
+    },
+    {
+        "actor": "Jeff Garlin",
+        "rating": 8.4
+    },
+    {
+        "actor": "Tom Skerritt",
+        "rating": 8.4
+    },
+    {
+        "actor": "Alanna Ubach",
+        "rating": 8.4
+    },
+    {
+        "actor": "Ben Burtt",
+        "rating": 8.4
+    },
+    {
+        "actor": "Daniel Mays",
+        "rating": 8.3
+    },
+    {
+        "actor": "George MacKay",
+        "rating": 8.3
+    },
+    {
+        "actor": "Dean-Charles Chapman",
+        "rating": 8.3
+    },
+    {
+        "actor": "Mary Elizabeth Mastrantonio",
+        "rating": 8.3
+    },
+    {
+        "actor": "Carrie Henn",
+        "rating": 8.3
+    },
+    {
+        "actor": "Nafise Jafar-Mohammadi",
+        "rating": 8.3
+    },
+    {
+        "actor": "Bahare Seddiqi",
+        "rating": 8.3
+    },
+    {
+        "actor": "Eli Roth",
+        "rating": 8.3
+    },
+    {
+        "actor": "Mohammad Amir Naji",
+        "rating": 8.3
+    },
+    {
+        "actor": "James Cosmo",
+        "rating": 8.3
+    },
+    {
+        "actor": "Sandy Nelson",
+        "rating": 8.3
+    },
+    {
+        "actor": "Sean Lawlor",
+        "rating": 8.3
+    },
+    {
+        "actor": "James Robinson",
+        "rating": 8.3
+    },
+    {
+        "actor": "Gerry Robert Byrne",
+        "rating": 8.3
+    },
+    {
+        "actor": "Steven Bauer",
+        "rating": 8.3
+    },
+    {
+        "actor": "Amir Farrokh Hashemian",
+        "rating": 8.3
+    },
+    {
+        "actor": "Akihiro Miwa",
+        "rating": 8.2
+    },
+    {
+        "actor": "Tatsuya Gash\u00fbin",
+        "rating": 8.2
+    },
+    {
+        "actor": "Viggo Mortensen",
+        "rating": 8.2
+    },
+    {
+        "actor": "Jennifer Morrison",
+        "rating": 8.2
+    },
+    {
+        "actor": "Nick Nolte",
+        "rating": 8.2
+    },
+    {
+        "actor": "Sebastian Maniscalco",
+        "rating": 8.2
+    },
+    {
+        "actor": "Anushka Shetty",
+        "rating": 8.2
+    },
+    {
+        "actor": "Joan Cusack",
+        "rating": 8.2
+    },
+    {
+        "actor": "Max von Sydow",
+        "rating": 8.2
+    },
+    {
+        "actor": "Bob Peterson",
+        "rating": 8.2
+    },
+    {
+        "actor": "Chieko Baish\u00f4",
+        "rating": 8.2
+    },
+    {
+        "actor": "Jordan Nagai",
+        "rating": 8.2
+    },
+    {
+        "actor": "Takuya Kimura",
+        "rating": 8.2
+    },
+    {
+        "actor": "Edward Asner",
+        "rating": 8.2
+    },
+    {
+        "actor": "Paul Gleason",
+        "rating": 8.2
+    },
+    {
+        "actor": "Reginald VelJohnson",
+        "rating": 8.2
+    },
+    {
+        "actor": "Bonnie Bedelia",
+        "rating": 8.2
+    },
+    {
+        "actor": "Sigourney Weaver",
+        "rating": 8.17
+    },
+    {
+        "actor": "Heath Ledger",
+        "rating": 8.15
+    },
+    {
+        "actor": "Michael Biehn",
+        "rating": 8.15
+    },
+    {
+        "actor": "Leonardo DiCaprio",
+        "rating": 8.14
+    },
+    {
+        "actor": "Mario Casas",
+        "rating": 8.1
+    },
+    {
+        "actor": "Kevin McKidd",
+        "rating": 8.1
+    },
+    {
+        "actor": "C. Thomas Howell",
+        "rating": 8.1
+    },
+    {
+        "actor": "Justin Chambers",
+        "rating": 8.1
+    },
+    {
+        "actor": "Jose Coronado",
+        "rating": 8.1
+    },
+    {
+        "actor": "B\u00e1rbara Lennie",
+        "rating": 8.1
+    },
+    {
+        "actor": "Patrick Stewart",
+        "rating": 8.1
+    },
+    {
+        "actor": "Sathyaraj",
+        "rating": 8.1
+    },
+    {
+        "actor": "Dafne Keen",
+        "rating": 8.1
+    },
+    {
+        "actor": "Craig Ferguson",
+        "rating": 8.1
+    },
+    {
+        "actor": "Rana Daggubati",
+        "rating": 8.1
+    },
+    {
+        "actor": "Prabhas",
+        "rating": 8.1
+    },
+    {
+        "actor": "Vivica A. Fox",
+        "rating": 8.1
+    },
+    {
+        "actor": "Lucy Liu",
+        "rating": 8.1
+    },
+    {
+        "actor": "Richard Kind",
+        "rating": 8.1
+    },
+    {
+        "actor": "Alan Rickman",
+        "rating": 8.1
+    },
+    {
+        "actor": "David Clennon",
+        "rating": 8.1
+    },
+    {
+        "actor": "T.K. Carter",
+        "rating": 8.1
+    },
+    {
+        "actor": "Wilford Brimley",
+        "rating": 8.1
+    },
+    {
+        "actor": "Alexander Gould",
+        "rating": 8.1
+    },
+    {
+        "actor": "Ana Wagener",
+        "rating": 8.1
+    },
+    {
+        "actor": "Caitriona Balfe",
+        "rating": 8.1
+    },
+    {
+        "actor": "Christopher Walken",
+        "rating": 8.1
+    },
+    {
+        "actor": "Tyler Perry",
+        "rating": 8.1
+    },
+    {
+        "actor": "Amy Poehler",
+        "rating": 8.1
+    },
+    {
+        "actor": "Sarah Roemer",
+        "rating": 8.1
+    },
+    {
+        "actor": "Graham Norton",
+        "rating": 8.1
+    },
+    {
+        "actor": "Jacob Warner",
+        "rating": 8.1
+    },
+    {
+        "actor": "Richard Pyros",
+        "rating": 8.1
+    },
+    {
+        "actor": "Mary Gibbs",
+        "rating": 8.1
+    },
+    {
+        "actor": "Rachel House",
+        "rating": 8.1
+    },
+    {
+        "actor": "Phyllis Smith",
+        "rating": 8.1
+    },
+    {
+        "actor": "Kerry Washington",
+        "rating": 8.05
+    },
+    {
+        "actor": "Laurence Fishburne",
+        "rating": 8.05
+    },
+    {
+        "actor": "Judy Garland",
+        "rating": 8
+    },
+    {
+        "actor": "Roy Scheider",
+        "rating": 8
+    },
+    {
+        "actor": "Robert Shaw",
+        "rating": 8
+    },
+    {
+        "actor": "Lorraine Gary",
+        "rating": 8
+    },
+    {
+        "actor": "Rory Kinnear",
+        "rating": 8
+    },
+    {
+        "actor": "Matthew Goode",
+        "rating": 8
+    },
+    {
+        "actor": "James Gammon",
+        "rating": 8
+    },
+    {
+        "actor": "Peter Weller",
+        "rating": 8
+    },
+    {
+        "actor": "Harry Connick Jr.",
+        "rating": 8
+    },
+    {
+        "actor": "Ariel Winter",
+        "rating": 8
+    },
+    {
+        "actor": "David Selby",
+        "rating": 8
+    },
+    {
+        "actor": "Mark Arnold",
+        "rating": 8
+    },
+    {
+        "actor": "Paul Winfield",
+        "rating": 8
+    },
+    {
+        "actor": "Gabe Gomez",
+        "rating": 8
+    },
+    {
+        "actor": "Wade Williams",
+        "rating": 8
+    },
+    {
+        "actor": "Lisa Renee Pitts",
+        "rating": 8
+    },
+    {
+        "actor": "Mitsuo Iwata",
+        "rating": 8
+    },
+    {
+        "actor": "Nozomu Sasaki",
+        "rating": 8
+    },
+    {
+        "actor": "Ramya Krishnan",
+        "rating": 8
+    },
+    {
+        "actor": "Mami Koyama",
+        "rating": 8
+    },
+    {
+        "actor": "Tessh\u00f4 Genda",
+        "rating": 8
+    },
+    {
+        "actor": "Lynn Adrianna Freedman",
+        "rating": 8
+    },
+    {
+        "actor": "Gwilym Lee",
+        "rating": 8
+    },
+    {
+        "actor": "Lucy Boynton",
+        "rating": 8
+    },
+    {
+        "actor": "Michael Benyaer",
+        "rating": 8
+    },
+    {
+        "actor": "Bert Lahr",
+        "rating": 8
+    },
+    {
+        "actor": "Robby Benson",
+        "rating": 8
+    },
+    {
+        "actor": "Ginnifer Goodwin",
+        "rating": 8
+    },
+    {
+        "actor": "Ray Bolger",
+        "rating": 8
+    },
+    {
+        "actor": "Frank Morgan",
+        "rating": 8
+    },
+    {
+        "actor": "Angela Lansbury",
+        "rating": 8
+    },
+    {
+        "actor": "Jesse Corti",
+        "rating": 8
+    },
+    {
+        "actor": "Mads Mikkelsen",
+        "rating": 8
+    },
+    {
+        "actor": "Lou Romano",
+        "rating": 8
+    },
+    {
+        "actor": "Rex Everhart",
+        "rating": 8
+    },
+    {
+        "actor": "Devon Aoki",
+        "rating": 8
+    },
+    {
+        "actor": "Alexis Bledel",
+        "rating": 8
+    },
+    {
+        "actor": "Powers Boothe",
+        "rating": 8
+    },
+    {
+        "actor": "Tim Allen",
+        "rating": 8
+    },
+    {
+        "actor": "Mahershala Ali",
+        "rating": 7.97
+    },
+    {
+        "actor": "Joe Pesci",
+        "rating": 7.9
+    },
+    {
+        "actor": "Harvey Keitel",
+        "rating": 7.9
+    },
+    {
+        "actor": "Edward G. Robinson",
+        "rating": 7.9
+    },
+    {
+        "actor": "Fiona Shaw",
+        "rating": 7.9
+    },
+    {
+        "actor": "Terrence Howard",
+        "rating": 7.9
+    },
+    {
+        "actor": "Pam Ferris",
+        "rating": 7.9
+    },
+    {
+        "actor": "Taika Waititi",
+        "rating": 7.9
+    },
+    {
+        "actor": "Marco Rodr\u00edguez",
+        "rating": 7.9
+    },
+    {
+        "actor": "Anne Baxter",
+        "rating": 7.9
+    },
+    {
+        "actor": "Clint Eastwood",
+        "rating": 7.9
+    },
+    {
+        "actor": "Michael Papajohn",
+        "rating": 7.9
+    },
+    {
+        "actor": "Yul Brynner",
+        "rating": 7.9
+    },
+    {
+        "actor": "Charlton Heston",
+        "rating": 7.9
+    },
+    {
+        "actor": "Julia Greer",
+        "rating": 7.9
+    },
+    {
+        "actor": "Aya Hisakawa",
+        "rating": 7.9
+    },
+    {
+        "actor": "Leonard Nimoy",
+        "rating": 7.9
+    },
+    {
+        "actor": "Toshio Furukawa",
+        "rating": 7.9
+    },
+    {
+        "actor": "Amira Casar",
+        "rating": 7.9
+    },
+    {
+        "actor": "Mark Ruffalo",
+        "rating": 7.9
+    },
+    {
+        "actor": "Thomasin McKenzie",
+        "rating": 7.9
+    },
+    {
+        "actor": "Roman Griffin Davis",
+        "rating": 7.9
+    },
+    {
+        "actor": "Armie Hammer",
+        "rating": 7.9
+    },
+    {
+        "actor": "Azhy Robertson",
+        "rating": 7.9
+    },
+    {
+        "actor": "Michael Stuhlbarg",
+        "rating": 7.9
+    },
+    {
+        "actor": "Colin Firth",
+        "rating": 7.87
+    },
+    {
+        "actor": "Brian Dennehy",
+        "rating": 7.85
+    },
+    {
+        "actor": "John Travolta",
+        "rating": 7.85
+    },
+    {
+        "actor": "Ian Holm",
+        "rating": 7.85
+    },
+    {
+        "actor": "Minnie Driver",
+        "rating": 7.85
+    },
+    {
+        "actor": "Faune Chambers Watkins",
+        "rating": 7.8
+    },
+    {
+        "actor": "Lydia Wilson",
+        "rating": 7.8
+    },
+    {
+        "actor": "Rudy Youngblood",
+        "rating": 7.8
+    },
+    {
+        "actor": "Dalia Hern\u00e1ndez",
+        "rating": 7.8
+    },
+    {
+        "actor": "Jonathan Brewer",
+        "rating": 7.8
+    },
+    {
+        "actor": "Morris Birdyellowhead",
+        "rating": 7.8
+    },
+    {
+        "actor": "Tim Ivey",
+        "rating": 7.8
+    },
+    {
+        "actor": "Saoirse Ronan",
+        "rating": 7.8
+    },
+    {
+        "actor": "Eliza Scanlen",
+        "rating": 7.8
+    },
+    {
+        "actor": "Scott Adsit",
+        "rating": 7.8
+    },
+    {
+        "actor": "Alan Tudyk",
+        "rating": 7.8
+    },
+    {
+        "actor": "Jay Baruchel",
+        "rating": 7.8
+    },
+    {
+        "actor": "Gena Rowlands",
+        "rating": 7.8
+    },
+    {
+        "actor": "America Ferrera",
+        "rating": 7.8
+    },
+    {
+        "actor": "Art Parkinson",
+        "rating": 7.8
+    },
+    {
+        "actor": "Ryan Potter",
+        "rating": 7.8
+    },
+    {
+        "actor": "Daniel Henney",
+        "rating": 7.8
+    },
+    {
+        "actor": "Brenda Vaccaro",
+        "rating": 7.8
+    },
+    {
+        "actor": "Zac Mattoon O'Brien",
+        "rating": 7.8
+    },
+    {
+        "actor": "Domonkos N\u00e9meth",
+        "rating": 7.8
+    },
+    {
+        "actor": "Henry Kingsmill",
+        "rating": 7.8
+    },
+    {
+        "actor": "Billy Zane",
+        "rating": 7.8
+    },
+    {
+        "actor": "Starletta DuPois",
+        "rating": 7.8
+    },
+    {
+        "actor": "Glynis Johns",
+        "rating": 7.8
+    },
+    {
+        "actor": "Alex Sharp",
+        "rating": 7.8
+    },
+    {
+        "actor": "Lee Armstrong",
+        "rating": 7.8
+    },
+    {
+        "actor": "Jeremy Strong",
+        "rating": 7.8
+    },
+    {
+        "actor": "Talulah Riley",
+        "rating": 7.8
+    },
+    {
+        "actor": "Tim Roth",
+        "rating": 7.8
+    },
+    {
+        "actor": "Keiko Toda",
+        "rating": 7.8
+    },
+    {
+        "actor": "Kappei Yamaguchi",
+        "rating": 7.8
+    },
+    {
+        "actor": "Rei Sakuma",
+        "rating": 7.8
+    },
+    {
+        "actor": "Minami Takayama",
+        "rating": 7.8
+    },
+    {
+        "actor": "Fionn Whitehead",
+        "rating": 7.8
+    },
+    {
+        "actor": "Damien Bonnard",
+        "rating": 7.8
+    },
+    {
+        "actor": "Bill Duke",
+        "rating": 7.8
+    },
+    {
+        "actor": "Elpidia Carrillo",
+        "rating": 7.8
+    },
+    {
+        "actor": "Michelle Dockery",
+        "rating": 7.8
+    },
+    {
+        "actor": "Crispin Glover",
+        "rating": 7.8
+    },
+    {
+        "actor": "Aneurin Barnard",
+        "rating": 7.8
+    },
+    {
+        "actor": "Julia Ormond",
+        "rating": 7.8
+    },
+    {
+        "actor": "Annie Potts",
+        "rating": 7.8
+    },
+    {
+        "actor": "Tony Hale",
+        "rating": 7.8
+    },
+    {
+        "actor": "David Tomlinson",
+        "rating": 7.8
+    },
+    {
+        "actor": "Dick Van Dyke",
+        "rating": 7.8
+    },
+    {
+        "actor": "Roy Kinnear",
+        "rating": 7.8
+    },
+    {
+        "actor": "Peter Ostrum",
+        "rating": 7.8
+    },
+    {
+        "actor": "Gene Wilder",
+        "rating": 7.8
+    },
+    {
+        "actor": "Sacha Baron Cohen",
+        "rating": 7.8
+    },
+    {
+        "actor": "Joaquin Phoenix",
+        "rating": 7.77
+    },
+    {
+        "actor": "Michael Caine",
+        "rating": 7.77
+    },
+    {
+        "actor": "Chris Evans",
+        "rating": 7.76
+    },
+    {
+        "actor": "Carrie Fisher",
+        "rating": 7.76
+    },
+    {
+        "actor": "Mark Hamill",
+        "rating": 7.76
+    },
+    {
+        "actor": "Aaron Eckhart",
+        "rating": 7.75
+    },
+    {
+        "actor": "Daryl Hannah",
+        "rating": 7.75
+    },
+    {
+        "actor": "Scatman Crothers",
+        "rating": 7.75
+    },
+    {
+        "actor": "Daniel Radcliffe",
+        "rating": 7.72
+    },
+    {
+        "actor": "Robert Redford",
+        "rating": 7.7
+    },
+    {
+        "actor": "Jack Wallace",
+        "rating": 7.7
+    },
+    {
+        "actor": "Geoffrey Arend",
+        "rating": 7.7
+    },
+    {
+        "actor": "Tch\u00e9ky Karyo",
+        "rating": 7.7
+    },
+    {
+        "actor": "Youk the Bear",
+        "rating": 7.7
+    },
+    {
+        "actor": "Bart the Bear",
+        "rating": 7.7
+    },
+    {
+        "actor": "Bill McKinney",
+        "rating": 7.7
+    },
+    {
+        "actor": "George Tokoro",
+        "rating": 7.7
+    },
+    {
+        "actor": "Y\u00fbki Amami",
+        "rating": 7.7
+    },
+    {
+        "actor": "Adrian Quinton",
+        "rating": 7.7
+    },
+    {
+        "actor": "Jonno Davies",
+        "rating": 7.7
+    },
+    {
+        "actor": "Kazushige Nagashima",
+        "rating": 7.7
+    },
+    {
+        "actor": "Tomoko Yamaguchi",
+        "rating": 7.7
+    },
+    {
+        "actor": "John Lithgow",
+        "rating": 7.7
+    },
+    {
+        "actor": "Julie Andrews",
+        "rating": 7.7
+    },
+    {
+        "actor": "Gillian Anderson",
+        "rating": 7.7
+    },
+    {
+        "actor": "Robin Wright",
+        "rating": 7.7
+    },
+    {
+        "actor": "Ned Beatty",
+        "rating": 7.7
+    },
+    {
+        "actor": "Donna Murphy",
+        "rating": 7.7
+    },
+    {
+        "actor": "David Tennant",
+        "rating": 7.7
+    },
+    {
+        "actor": "Eric Sykes",
+        "rating": 7.7
+    },
+    {
+        "actor": "Dawn French",
+        "rating": 7.7
+    },
+    {
+        "actor": "Teri Hatcher",
+        "rating": 7.7
+    },
+    {
+        "actor": "Allison Williams",
+        "rating": 7.7
+    },
+    {
+        "actor": "Julian Dennison",
+        "rating": 7.7
+    },
+    {
+        "actor": "Ellen DeGeneres",
+        "rating": 7.7
+    },
+    {
+        "actor": "Albert Brooks",
+        "rating": 7.7
+    },
+    {
+        "actor": "Billy Crystal",
+        "rating": 7.7
+    },
+    {
+        "actor": "Michael Gambon",
+        "rating": 7.7
+    },
+    {
+        "actor": "Jennifer Saunders",
+        "rating": 7.7
+    },
+    {
+        "actor": "Ken Stott",
+        "rating": 7.67
+    },
+    {
+        "actor": "Richard Armitage",
+        "rating": 7.67
+    },
+    {
+        "actor": "Martin Freeman",
+        "rating": 7.67
+    },
+    {
+        "actor": "Richard Griffiths",
+        "rating": 7.67
+    },
+    {
+        "actor": "Sean Astin",
+        "rating": 7.67
+    },
+    {
+        "actor": "Ansel Elgort",
+        "rating": 7.65
+    },
+    {
+        "actor": "Tina Fey",
+        "rating": 7.65
+    },
+    {
+        "actor": "Christopher Plummer",
+        "rating": 7.65
+    },
+    {
+        "actor": "Keira Knightley",
+        "rating": 7.64
+    },
+    {
+        "actor": "Linda May",
+        "rating": 7.6
+    },
+    {
+        "actor": "Bindu De Stoppani",
+        "rating": 7.6
+    },
+    {
+        "actor": "Alex Palmer",
+        "rating": 7.6
+    },
+    {
+        "actor": "Su-an Kim",
+        "rating": 7.6
+    },
+    {
+        "actor": "Adriana Caselotti",
+        "rating": 7.6
+    },
+    {
+        "actor": "Jung Yu-mi",
+        "rating": 7.6
+    },
+    {
+        "actor": "Gong Yoo",
+        "rating": 7.6
+    },
+    {
+        "actor": "Marcus Hondro",
+        "rating": 7.6
+    },
+    {
+        "actor": "Jackie Minns",
+        "rating": 7.6
+    },
+    {
+        "actor": "Milo Ventimiglia",
+        "rating": 7.6
+    },
+    {
+        "actor": "Roy Atwell",
+        "rating": 7.6
+    },
+    {
+        "actor": "Saunders Triplets",
+        "rating": 7.6
+    },
+    {
+        "actor": "Robbie Coltrane",
+        "rating": 7.6
+    },
+    {
+        "actor": "Huck Milner",
+        "rating": 7.6
+    },
+    {
+        "actor": "Sarah Vowell",
+        "rating": 7.6
+    },
+    {
+        "actor": "Holly Hunter",
+        "rating": 7.6
+    },
+    {
+        "actor": "Maggie Smith",
+        "rating": 7.6
+    },
+    {
+        "actor": "Richard Harris",
+        "rating": 7.6
+    },
+    {
+        "actor": "Lindsay Duncan",
+        "rating": 7.6
+    },
+    {
+        "actor": "Jae Head",
+        "rating": 7.6
+    },
+    {
+        "actor": "Teeradon Supapunpinyo",
+        "rating": 7.6
+    },
+    {
+        "actor": "Chanon Santinatornkul",
+        "rating": 7.6
+    },
+    {
+        "actor": "Quinton Aaron",
+        "rating": 7.6
+    },
+    {
+        "actor": "Christopher Wolfe",
+        "rating": 7.6
+    },
+    {
+        "actor": "Michael Harding",
+        "rating": 7.6
+    },
+    {
+        "actor": "Charlie Pye Jr.",
+        "rating": 7.6
+    },
+    {
+        "actor": "Harry Melling",
+        "rating": 7.6
+    },
+    {
+        "actor": "June Foray",
+        "rating": 7.6
+    },
+    {
+        "actor": "Eisaya Hosuwan",
+        "rating": 7.6
+    },
+    {
+        "actor": "Freda Foh Shen",
+        "rating": 7.6
+    },
+    {
+        "actor": "Harvey Fierstein",
+        "rating": 7.6
+    },
+    {
+        "actor": "Gay DeForest",
+        "rating": 7.6
+    },
+    {
+        "actor": "Ken Leung",
+        "rating": 7.6
+    },
+    {
+        "actor": "Megan Liu",
+        "rating": 7.6
+    },
+    {
+        "actor": "Patricia Grier",
+        "rating": 7.6
+    },
+    {
+        "actor": "Eddie Collins",
+        "rating": 7.6
+    },
+    {
+        "actor": "Chutimon Chuengcharoensukying",
+        "rating": 7.6
+    },
+    {
+        "actor": "Brian Bedford",
+        "rating": 7.6
+    },
+    {
+        "actor": "Terry-Thomas",
+        "rating": 7.6
+    },
+    {
+        "actor": "Felix Wong",
+        "rating": 7.6
+    },
+    {
+        "actor": "John Cho",
+        "rating": 7.6
+    },
+    {
+        "actor": "John DiMaggio",
+        "rating": 7.6
+    },
+    {
+        "actor": "Anita Mui",
+        "rating": 7.6
+    },
+    {
+        "actor": "Lung Ti",
+        "rating": 7.6
+    },
+    {
+        "actor": "Kang-ho Song",
+        "rating": 7.6
+    },
+    {
+        "actor": "Pat Carroll",
+        "rating": 7.6
+    },
+    {
+        "actor": "Ry\u00f4 Horikawa",
+        "rating": 7.6
+    },
+    {
+        "actor": "Masako Nozawa",
+        "rating": 7.6
+    },
+    {
+        "actor": "Andrew Dice Clay",
+        "rating": 7.6
+    },
+    {
+        "actor": "Lady Gaga",
+        "rating": 7.6
+    },
+    {
+        "actor": "Sara Sohn",
+        "rating": 7.6
+    },
+    {
+        "actor": "Russell Brand",
+        "rating": 7.6
+    },
+    {
+        "actor": "Jodi Benson",
+        "rating": 7.6
+    },
+    {
+        "actor": "Alex Jayne Go",
+        "rating": 7.6
+    },
+    {
+        "actor": "Deborah Twiss",
+        "rating": 7.6
+    },
+    {
+        "actor": "Evan Peters",
+        "rating": 7.6
+    },
+    {
+        "actor": "Richard Ridings",
+        "rating": 7.6
+    },
+    {
+        "actor": "Terry Notary",
+        "rating": 7.6
+    },
+    {
+        "actor": "Garrett M. Brown",
+        "rating": 7.6
+    },
+    {
+        "actor": "Katherine Langford",
+        "rating": 7.6
+    },
+    {
+        "actor": "Nick Robinson",
+        "rating": 7.6
+    },
+    {
+        "actor": "Christopher Daniel Barnes",
+        "rating": 7.6
+    },
+    {
+        "actor": "Rene Auberjonois",
+        "rating": 7.6
+    },
+    {
+        "actor": "Rory MacGregor",
+        "rating": 7.6
+    },
+    {
+        "actor": "Keri Russell",
+        "rating": 7.6
+    },
+    {
+        "actor": "Gregor Fisher",
+        "rating": 7.6
+    },
+    {
+        "actor": "Peter Ustinov",
+        "rating": 7.6
+    },
+    {
+        "actor": "Roger Miller",
+        "rating": 7.6
+    },
+    {
+        "actor": "David Schneider",
+        "rating": 7.6
+    },
+    {
+        "actor": "Jukka Hiltunen",
+        "rating": 7.6
+    },
+    {
+        "actor": "Zoe Saldana",
+        "rating": 7.56
+    },
+    {
+        "actor": "Tom Hanks",
+        "rating": 7.56
+    },
+    {
+        "actor": "Christian Bale",
+        "rating": 7.56
+    },
+    {
+        "actor": "Jack Albertson",
+        "rating": 7.55
+    },
+    {
+        "actor": "Neil Patrick Harris",
+        "rating": 7.55
+    },
+    {
+        "actor": "Richard Gere",
+        "rating": 7.55
+    },
+    {
+        "actor": "Diego Luna",
+        "rating": 7.55
+    },
+    {
+        "actor": "Eddie Redmayne",
+        "rating": 7.55
+    },
+    {
+        "actor": "Andy Serkis",
+        "rating": 7.53
+    },
+    {
+        "actor": "Nobuhiko Okamoto",
+        "rating": 7.5
+    },
+    {
+        "actor": "Ivo Uukkivi",
+        "rating": 7.5
+    },
+    {
+        "actor": "Sarah Snook",
+        "rating": 7.5
+    },
+    {
+        "actor": "Christopher Kirby",
+        "rating": 7.5
+    },
+    {
+        "actor": "Richard Macklin",
+        "rating": 7.5
+    },
+    {
+        "actor": "Jason Boyd",
+        "rating": 7.5
+    },
+    {
+        "actor": "Christopher Sommers",
+        "rating": 7.5
+    },
+    {
+        "actor": "F. Murray Abraham",
+        "rating": 7.5
+    },
+    {
+        "actor": "Stuart Buchanan",
+        "rating": 7.5
+    },
+    {
+        "actor": "Jack Quaid",
+        "rating": 7.5
+    },
+    {
+        "actor": "Taylor St. Clair",
+        "rating": 7.5
+    },
+    {
+        "actor": "Daiki Yamashita",
+        "rating": 7.5
+    },
+    {
+        "actor": "Valeriia Karaman",
+        "rating": 7.5
+    },
+    {
+        "actor": "Logan Hawkes",
+        "rating": 7.5
+    },
+    {
+        "actor": "Kenta Miyake",
+        "rating": 7.5
+    },
+    {
+        "actor": "Ian McDiarmid",
+        "rating": 7.5
+    },
+    {
+        "actor": "Kieran Culkin",
+        "rating": 7.5
+    },
+    {
+        "actor": "Alison Pill",
+        "rating": 7.5
+    },
+    {
+        "actor": "Ben Whishaw",
+        "rating": 7.5
+    },
+    {
+        "actor": "Karin Konoval",
+        "rating": 7.5
+    },
+    {
+        "actor": "John Leguizamo",
+        "rating": 7.5
+    },
+    {
+        "actor": "Francesc Albiol",
+        "rating": 7.5
+    },
+    {
+        "actor": "Mirai Shida",
+        "rating": 7.5
+    },
+    {
+        "actor": "Abby Craden",
+        "rating": 7.5
+    },
+    {
+        "actor": "Steve Danielsen",
+        "rating": 7.5
+    },
+    {
+        "actor": "Lili Taylor",
+        "rating": 7.5
+    },
+    {
+        "actor": "Maurice Page",
+        "rating": 7.5
+    },
+    {
+        "actor": "Annie McEnroe",
+        "rating": 7.5
+    },
+    {
+        "actor": "Jefferson Hall",
+        "rating": 7.5
+    },
+    {
+        "actor": "Ron Livingston",
+        "rating": 7.5
+    },
+    {
+        "actor": "Melanie Vallejo",
+        "rating": 7.5
+    },
+    {
+        "actor": "Logan Marshall-Green",
+        "rating": 7.5
+    },
+    {
+        "actor": "Zachary Quinto",
+        "rating": 7.5
+    },
+    {
+        "actor": "Millicent Simmonds",
+        "rating": 7.5
+    },
+    {
+        "actor": "Juhan Ulfsak",
+        "rating": 7.5
+    },
+    {
+        "actor": "Amanda Wyss",
+        "rating": 7.5
+    },
+    {
+        "actor": "Heather Langenkamp",
+        "rating": 7.5
+    },
+    {
+        "actor": "Ronee Blakley",
+        "rating": 7.5
+    },
+    {
+        "actor": "John Saxon",
+        "rating": 7.5
+    },
+    {
+        "actor": "Noah Jupe",
+        "rating": 7.5
+    },
+    {
+        "actor": "Gonzalo Cunill",
+        "rating": 7.5
+    },
+    {
+        "actor": "Kurt Russell",
+        "rating": 7.5
+    },
+    {
+        "actor": "Lena Waithe",
+        "rating": 7.5
+    },
+    {
+        "actor": "Olivia Cooke",
+        "rating": 7.5
+    },
+    {
+        "actor": "Ruby Rose",
+        "rating": 7.5
+    },
+    {
+        "actor": "Riccardo Scamarcio",
+        "rating": 7.5
+    },
+    {
+        "actor": "Rachel Hurd-Wood",
+        "rating": 7.5
+    },
+    {
+        "actor": "Ray Romano",
+        "rating": 7.5
+    },
+    {
+        "actor": "James Caan",
+        "rating": 7.5
+    },
+    {
+        "actor": "Goran Visnjic",
+        "rating": 7.5
+    },
+    {
+        "actor": "Julia Roberts",
+        "rating": 7.5
+    },
+    {
+        "actor": "Jon Bernthal",
+        "rating": 7.48
+    },
+    {
+        "actor": "Ryan Gosling",
+        "rating": 7.48
+    },
+    {
+        "actor": "Judi Dench",
+        "rating": 7.47
+    },
+    {
+        "actor": "Jonah Hill",
+        "rating": 7.47
+    },
+    {
+        "actor": "Matthew McConaughey",
+        "rating": 7.46
+    },
+    {
+        "actor": "Jason Bateman",
+        "rating": 7.45
+    },
+    {
+        "actor": "Choi Woo-sik",
+        "rating": 7.45
+    },
+    {
+        "actor": "Marisa Tomei",
+        "rating": 7.45
+    },
+    {
+        "actor": "Robert Downey Jr.",
+        "rating": 7.43
+    },
+    {
+        "actor": "Harrison Ford",
+        "rating": 7.43
+    },
+    {
+        "actor": "Tom Holland",
+        "rating": 7.43
+    },
+    {
+        "actor": "Bill Nighy",
+        "rating": 7.43
+    },
+    {
+        "actor": "Joseph Gordon-Levitt",
+        "rating": 7.42
+    },
+    {
+        "actor": "Rachel McAdams",
+        "rating": 7.42
+    },
+    {
+        "actor": "Brad Pitt",
+        "rating": 7.41
+    },
+    {
+        "actor": "Sun Zhi Hua-Hilton",
+        "rating": 7.4
+    },
+    {
+        "actor": "Rupert Grint",
+        "rating": 7.4
+    },
+    {
+        "actor": "Eileen Dunwoodie",
+        "rating": 7.4
+    },
+    {
+        "actor": "Bel\u00e9n Rueda",
+        "rating": 7.4
+    },
+    {
+        "actor": "John Krasinski",
+        "rating": 7.4
+    },
+    {
+        "actor": "Michael Nyqvist",
+        "rating": 7.4
+    },
+    {
+        "actor": "Alfie Allen",
+        "rating": 7.4
+    },
+    {
+        "actor": "August Diehl",
+        "rating": 7.4
+    },
+    {
+        "actor": "Barret Oliver",
+        "rating": 7.4
+    },
+    {
+        "actor": "Gerald McRaney",
+        "rating": 7.4
+    },
+    {
+        "actor": "Chris Eastman",
+        "rating": 7.4
+    },
+    {
+        "actor": "Darryl Cooksey",
+        "rating": 7.4
+    },
+    {
+        "actor": "Kristin Scott Thomas",
+        "rating": 7.4
+    },
+    {
+        "actor": "Fernando Cayo",
+        "rating": 7.4
+    },
+    {
+        "actor": "Valerie Pachner",
+        "rating": 7.4
+    },
+    {
+        "actor": "Julia Louis-Dreyfus",
+        "rating": 7.4
+    },
+    {
+        "actor": "Maria Simon",
+        "rating": 7.4
+    },
+    {
+        "actor": "Karin Neuh\u00e4user",
+        "rating": 7.4
+    },
+    {
+        "actor": "Roger Pr\u00edncep",
+        "rating": 7.4
+    },
+    {
+        "actor": "Satoshi Tsumabuki",
+        "rating": 7.4
+    },
+    {
+        "actor": "Mesfin Lamengo",
+        "rating": 7.4
+    },
+    {
+        "actor": "Kevin Michael Richardson",
+        "rating": 7.4
+    },
+    {
+        "actor": "Pamela Adlon",
+        "rating": 7.4
+    },
+    {
+        "actor": "Neel Sethi",
+        "rating": 7.4
+    },
+    {
+        "actor": "Bill Murray",
+        "rating": 7.4
+    },
+    {
+        "actor": "Oona Laurence",
+        "rating": 7.4
+    },
+    {
+        "actor": "Mark Ivanir",
+        "rating": 7.4
+    },
+    {
+        "actor": "Hristo Shopov",
+        "rating": 7.4
+    },
+    {
+        "actor": "Ian McKellen",
+        "rating": 7.4
+    },
+    {
+        "actor": "Mabel Rivera",
+        "rating": 7.4
+    },
+    {
+        "actor": "Hugo Weaving",
+        "rating": 7.4
+    },
+    {
+        "actor": "Jake Johnson",
+        "rating": 7.4
+    },
+    {
+        "actor": "Roberto Benigni",
+        "rating": 7.4
+    },
+    {
+        "actor": "Bruce McGill",
+        "rating": 7.4
+    },
+    {
+        "actor": "Mykel Shannon Jenkins",
+        "rating": 7.4
+    },
+    {
+        "actor": "Connie Nielsen",
+        "rating": 7.4
+    },
+    {
+        "actor": "Peter Coyote",
+        "rating": 7.4
+    },
+    {
+        "actor": "Colm Meaney",
+        "rating": 7.4
+    },
+    {
+        "actor": "Winona Ryder",
+        "rating": 7.4
+    },
+    {
+        "actor": "Thomas Gullestad",
+        "rating": 7.4
+    },
+    {
+        "actor": "Eartha Kitt",
+        "rating": 7.4
+    },
+    {
+        "actor": "Jonathan Rhys Meyers",
+        "rating": 7.4
+    },
+    {
+        "actor": "Shane West",
+        "rating": 7.4
+    },
+    {
+        "actor": "Marie Blokhus",
+        "rating": 7.4
+    },
+    {
+        "actor": "Richard Haydn",
+        "rating": 7.4
+    },
+    {
+        "actor": "Sunny Wu Jin Zahao",
+        "rating": 7.4
+    },
+    {
+        "actor": "Ed Wynn",
+        "rating": 7.4
+    },
+    {
+        "actor": "Steve Zahn",
+        "rating": 7.4
+    },
+    {
+        "actor": "Mads Sj\u00f8g\u00e5rd Pettersen",
+        "rating": 7.4
+    },
+    {
+        "actor": "Megumi Ohara",
+        "rating": 7.4
+    },
+    {
+        "actor": "Liang Wei-Hui-Duncan",
+        "rating": 7.4
+    },
+    {
+        "actor": "Don Brodie",
+        "rating": 7.4
+    },
+    {
+        "actor": "Jackie Sawiris",
+        "rating": 7.4
+    },
+    {
+        "actor": "Madison Eginton",
+        "rating": 7.4
+    },
+    {
+        "actor": "Rosamund Pike",
+        "rating": 7.38
+    },
+    {
+        "actor": "Gary Oldman",
+        "rating": 7.38
+    },
+    {
+        "actor": "Simon Pegg",
+        "rating": 7.38
+    },
+    {
+        "actor": "Hugh Jackman",
+        "rating": 7.37
+    },
+    {
+        "actor": "James Garner",
+        "rating": 7.35
+    },
+    {
+        "actor": "Phylicia Rashad",
+        "rating": 7.35
+    },
+    {
+        "actor": "Timothy Spall",
+        "rating": 7.35
+    },
+    {
+        "actor": "Adam Driver",
+        "rating": 7.35
+    },
+    {
+        "actor": "Ed Skrein",
+        "rating": 7.35
+    },
+    {
+        "actor": "Kathryn Beaumont",
+        "rating": 7.35
+    },
+    {
+        "actor": "Carl Weathers",
+        "rating": 7.35
+    },
+    {
+        "actor": "Victor Garber",
+        "rating": 7.35
+    },
+    {
+        "actor": "Jake Gyllenhaal",
+        "rating": 7.33
+    },
+    {
+        "actor": "Cate Blanchett",
+        "rating": 7.32
+    },
+    {
+        "actor": "Tate Donovan",
+        "rating": 7.3
+    },
+    {
+        "actor": "Josh Keaton",
+        "rating": 7.3
+    },
+    {
+        "actor": "Alex Wolff",
+        "rating": 7.3
+    },
+    {
+        "actor": "Bobette Audrey",
+        "rating": 7.3
+    },
+    {
+        "actor": "Betty Buckley",
+        "rating": 7.3
+    },
+    {
+        "actor": "Linda Fiorentino",
+        "rating": 7.3
+    },
+    {
+        "actor": "Gabriel Byrne",
+        "rating": 7.3
+    },
+    {
+        "actor": "Toni Collette",
+        "rating": 7.3
+    },
+    {
+        "actor": "Milly Shapiro",
+        "rating": 7.3
+    },
+    {
+        "actor": "Matt Jones",
+        "rating": 7.3
+    },
+    {
+        "actor": "Trace Adkins",
+        "rating": 7.3
+    },
+    {
+        "actor": "Charles Baker",
+        "rating": 7.3
+    },
+    {
+        "actor": "David Booth",
+        "rating": 7.3
+    },
+    {
+        "actor": "Kevin Patrick Walls",
+        "rating": 7.3
+    },
+    {
+        "actor": "Billy Bletcher",
+        "rating": 7.3
+    },
+    {
+        "actor": "Roger Jackson",
+        "rating": 7.3
+    },
+    {
+        "actor": "Jack Davenport",
+        "rating": 7.3
+    },
+    {
+        "actor": "Bill Baucom",
+        "rating": 7.3
+    },
+    {
+        "actor": "Claire Foy",
+        "rating": 7.3
+    },
+    {
+        "actor": "Stan Alexander",
+        "rating": 7.3
+    },
+    {
+        "actor": "Hardie Albright",
+        "rating": 7.3
+    },
+    {
+        "actor": "Brian Blessed",
+        "rating": 7.3
+    },
+    {
+        "actor": "David Denman",
+        "rating": 7.3
+    },
+    {
+        "actor": "Kaitlin Olson",
+        "rating": 7.3
+    },
+    {
+        "actor": "Ed O'Neill",
+        "rating": 7.3
+    },
+    {
+        "actor": "Sam Redford",
+        "rating": 7.3
+    },
+    {
+        "actor": "Masaharu Sat\u00f4",
+        "rating": 7.3
+    },
+    {
+        "actor": "Tom Hardy",
+        "rating": 7.3
+    },
+    {
+        "actor": "Emily Watson",
+        "rating": 7.3
+    },
+    {
+        "actor": "Tracey Ullman",
+        "rating": 7.3
+    },
+    {
+        "actor": "Hiromi Tsuru",
+        "rating": 7.3
+    },
+    {
+        "actor": "Yeardley Smith",
+        "rating": 7.3
+    },
+    {
+        "actor": "Nancy Cartwright",
+        "rating": 7.3
+    },
+    {
+        "actor": "Madeline Carroll",
+        "rating": 7.3
+    },
+    {
+        "actor": "J. Michael Finley",
+        "rating": 7.3
+    },
+    {
+        "actor": "Julie Kavner",
+        "rating": 7.3
+    },
+    {
+        "actor": "Jaeden Martell",
+        "rating": 7.3
+    },
+    {
+        "actor": "Sophia Lillis",
+        "rating": 7.3
+    },
+    {
+        "actor": "Ben Reed",
+        "rating": 7.3
+    },
+    {
+        "actor": "Cole Konis",
+        "rating": 7.3
+    },
+    {
+        "actor": "Martha Wentworth",
+        "rating": 7.3
+    },
+    {
+        "actor": "Kyle Gallner",
+        "rating": 7.3
+    },
+    {
+        "actor": "Sally Hawkins",
+        "rating": 7.3
+    },
+    {
+        "actor": "Kyliegh Curran",
+        "rating": 7.3
+    },
+    {
+        "actor": "Scott Goldman",
+        "rating": 7.3
+    },
+    {
+        "actor": "Betty Lou Gerson",
+        "rating": 7.3
+    },
+    {
+        "actor": "Thom Mathews",
+        "rating": 7.3
+    },
+    {
+        "actor": "Dan Castellaneta",
+        "rating": 7.3
+    },
+    {
+        "actor": "Don Calfa",
+        "rating": 7.3
+    },
+    {
+        "actor": "James Karen",
+        "rating": 7.3
+    },
+    {
+        "actor": "Larisa Oleynik",
+        "rating": 7.3
+    },
+    {
+        "actor": "Miranda Richardson",
+        "rating": 7.3
+    },
+    {
+        "actor": "Katie Holmes",
+        "rating": 7.3
+    },
+    {
+        "actor": "Tim Bentinck",
+        "rating": 7.3
+    },
+    {
+        "actor": "Mel Blanc",
+        "rating": 7.3
+    },
+    {
+        "actor": "Martin Kove",
+        "rating": 7.3
+    },
+    {
+        "actor": "Ralph Macchio",
+        "rating": 7.3
+    },
+    {
+        "actor": "J. Pat O'Malley",
+        "rating": 7.3
+    },
+    {
+        "actor": "Rod Taylor",
+        "rating": 7.3
+    },
+    {
+        "actor": "Ma Dong-seok",
+        "rating": 7.3
+    },
+    {
+        "actor": "Pearl Bailey",
+        "rating": 7.3
+    },
+    {
+        "actor": "Ilene Woods",
+        "rating": 7.3
+    },
+    {
+        "actor": "Peter Behn",
+        "rating": 7.3
+    },
+    {
+        "actor": "Larry Roberts",
+        "rating": 7.3
+    },
+    {
+        "actor": "Zach Callison",
+        "rating": 7.3
+    },
+    {
+        "actor": "Catherine Keener",
+        "rating": 7.3
+    },
+    {
+        "actor": "Justin Kirk",
+        "rating": 7.3
+    },
+    {
+        "actor": "Madison Wolfe",
+        "rating": 7.3
+    },
+    {
+        "actor": "Mickey Rooney",
+        "rating": 7.3
+    },
+    {
+        "actor": "Lupita Nyong'o",
+        "rating": 7.3
+    },
+    {
+        "actor": "Frances O'Connor",
+        "rating": 7.3
+    },
+    {
+        "actor": "Danai Gurira",
+        "rating": 7.3
+    },
+    {
+        "actor": "Gustavo Escobar",
+        "rating": 7.3
+    },
+    {
+        "actor": "Julian Glover",
+        "rating": 7.3
+    },
+    {
+        "actor": "Coral Puente",
+        "rating": 7.3
+    },
+    {
+        "actor": "Sophia Metcalf",
+        "rating": 7.3
+    },
+    {
+        "actor": "Xueming Angelina Chen",
+        "rating": 7.3
+    },
+    {
+        "actor": "Daniel Garcia",
+        "rating": 7.3
+    },
+    {
+        "actor": "Brian Cox",
+        "rating": 7.3
+    },
+    {
+        "actor": "Corey Stoll",
+        "rating": 7.3
+    },
+    {
+        "actor": "Peggy Lee",
+        "rating": 7.3
+    },
+    {
+        "actor": "Bill Thompson",
+        "rating": 7.3
+    },
+    {
+        "actor": "Michael Douglas",
+        "rating": 7.3
+    },
+    {
+        "actor": "Hans Conried",
+        "rating": 7.3
+    },
+    {
+        "actor": "Tae-Hyun Cha",
+        "rating": 7.3
+    },
+    {
+        "actor": "Bobby Driscoll",
+        "rating": 7.3
+    },
+    {
+        "actor": "Nathan Jones",
+        "rating": 7.3
+    },
+    {
+        "actor": "Adoni Maropis",
+        "rating": 7.3
+    },
+    {
+        "actor": "Rosa Salazar",
+        "rating": 7.3
+    },
+    {
+        "actor": "Miguel Ferrer",
+        "rating": 7.3
+    },
+    {
+        "actor": "Claire Du Brey",
+        "rating": 7.3
+    },
+    {
+        "actor": "Benedict Cumberbatch",
+        "rating": 7.27
+    },
+    {
+        "actor": "Ron Perlman",
+        "rating": 7.27
+    },
+    {
+        "actor": "Verna Felton",
+        "rating": 7.27
+    },
+    {
+        "actor": "Eleanor Audley",
+        "rating": 7.25
+    },
+    {
+        "actor": "Sterling Holloway",
+        "rating": 7.25
+    },
+    {
+        "actor": "Izabela Vidovic",
+        "rating": 7.25
+    },
+    {
+        "actor": "Kevin Costner",
+        "rating": 7.25
+    },
+    {
+        "actor": "Joan Allen",
+        "rating": 7.25
+    },
+    {
+        "actor": "Forest Whitaker",
+        "rating": 7.25
+    },
+    {
+        "actor": "Tom Kenny",
+        "rating": 7.25
+    },
+    {
+        "actor": "Haley Lu Richardson",
+        "rating": 7.25
+    },
+    {
+        "actor": "Patton Oswalt",
+        "rating": 7.25
+    },
+    {
+        "actor": "Edward Norton",
+        "rating": 7.23
+    },
+    {
+        "actor": "Josh Brolin",
+        "rating": 7.22
+    },
+    {
+        "actor": "Christo Jivkov",
+        "rating": 7.2
+    },
+    {
+        "actor": "Andrew Garfield",
+        "rating": 7.2
+    },
+    {
+        "actor": "Willow Shields",
+        "rating": 7.2
+    },
+    {
+        "actor": "Will Ferrell",
+        "rating": 7.2
+    },
+    {
+        "actor": "Tony Goldwyn",
+        "rating": 7.2
+    },
+    {
+        "actor": "Francesco De Vito",
+        "rating": 7.2
+    },
+    {
+        "actor": "Jon Hamm",
+        "rating": 7.2
+    },
+    {
+        "actor": "Ju Ji-Hoon",
+        "rating": 7.2
+    },
+    {
+        "actor": "Moon Geun-young",
+        "rating": 7.2
+    },
+    {
+        "actor": "Hyang-gi Kim",
+        "rating": 7.2
+    },
+    {
+        "actor": "Isla Fisher",
+        "rating": 7.2
+    },
+    {
+        "actor": "Michelle Pfeiffer",
+        "rating": 7.2
+    },
+    {
+        "actor": "David Strathairn",
+        "rating": 7.2
+    },
+    {
+        "actor": "Ray Anthony",
+        "rating": 7.2
+    },
+    {
+        "actor": "Christine Anu",
+        "rating": 7.2
+    },
+    {
+        "actor": "Andy Arness",
+        "rating": 7.2
+    },
+    {
+        "actor": "Alima Ashton-Sheibu",
+        "rating": 7.2
+    },
+    {
+        "actor": "Salli Richardson-Whitfield",
+        "rating": 7.2
+    },
+    {
+        "actor": "Kimberly Hebert Gregory",
+        "rating": 7.2
+    },
+    {
+        "actor": "Kaitlyn Dever",
+        "rating": 7.2
+    },
+    {
+        "actor": "Moises Arias",
+        "rating": 7.2
+    },
+    {
+        "actor": "Cole Sprouse",
+        "rating": 7.2
+    },
+    {
+        "actor": "Thomas Kretschmann",
+        "rating": 7.2
+    },
+    {
+        "actor": "Charlie Tahan",
+        "rating": 7.2
+    },
+    {
+        "actor": "Beanie Feldstein",
+        "rating": 7.2
+    },
+    {
+        "actor": "Jessica Williams",
+        "rating": 7.2
+    },
+    {
+        "actor": "Denis Leary",
+        "rating": 7.2
+    },
+    {
+        "actor": "Paul Rudd",
+        "rating": 7.2
+    },
+    {
+        "actor": "Edward Brophy",
+        "rating": 7.2
+    },
+    {
+        "actor": "Daveigh Chase",
+        "rating": 7.2
+    },
+    {
+        "actor": "Hailee Steinfeld",
+        "rating": 7.2
+    },
+    {
+        "actor": "M\u00e9lanie Laurent",
+        "rating": 7.2
+    },
+    {
+        "actor": "Herman Bing",
+        "rating": 7.2
+    },
+    {
+        "actor": "Chris Sanders",
+        "rating": 7.2
+    },
+    {
+        "actor": "Tia Carrere",
+        "rating": 7.2
+    },
+    {
+        "actor": "David Ogden Stiers",
+        "rating": 7.2
+    },
+    {
+        "actor": "Isabela Merced",
+        "rating": 7.2
+    },
+    {
+        "actor": "Jack Lord",
+        "rating": 7.2
+    },
+    {
+        "actor": "Joseph Wiseman",
+        "rating": 7.2
+    },
+    {
+        "actor": "Ursula Andress",
+        "rating": 7.2
+    },
+    {
+        "actor": "Sean Connery",
+        "rating": 7.2
+    },
+    {
+        "actor": "Peggy Lipton",
+        "rating": 7.2
+    },
+    {
+        "actor": "Bryce Gheisar",
+        "rating": 7.2
+    },
+    {
+        "actor": "Sarah Wright",
+        "rating": 7.2
+    },
+    {
+        "actor": "Kijoon Hong",
+        "rating": 7.2
+    },
+    {
+        "actor": "Kim Kap-su",
+        "rating": 7.2
+    },
+    {
+        "actor": "Gwi-hwa Choi",
+        "rating": 7.2
+    },
+    {
+        "actor": "Jin-ah Bae",
+        "rating": 7.2
+    },
+    {
+        "actor": "Jung-ah Yum",
+        "rating": 7.2
+    },
+    {
+        "actor": "Bill Shirley",
+        "rating": 7.2
+    },
+    {
+        "actor": "Mary Costa",
+        "rating": 7.2
+    },
+    {
+        "actor": "Emily Blunt",
+        "rating": 7.2
+    },
+    {
+        "actor": "Lim Soo-jung",
+        "rating": 7.2
+    },
+    {
+        "actor": "Melanie Liburd",
+        "rating": 7.2
+    },
+    {
+        "actor": "Greg Kinnear",
+        "rating": 7.2
+    },
+    {
+        "actor": "Marton Csokas",
+        "rating": 7.2
+    },
+    {
+        "actor": "Maia Morgenstern",
+        "rating": 7.2
+    },
+    {
+        "actor": "Jung-woo Ha",
+        "rating": 7.2
+    },
+    {
+        "actor": "Robert De Niro",
+        "rating": 7.19
+    },
+    {
+        "actor": "Gwyneth Paltrow",
+        "rating": 7.18
+    },
+    {
+        "actor": "Kate Winslet",
+        "rating": 7.18
+    },
+    {
+        "actor": "Tom Hiddleston",
+        "rating": 7.17
+    },
+    {
+        "actor": "Abigail Breslin",
+        "rating": 7.17
+    },
+    {
+        "actor": "Sebastian Stan",
+        "rating": 7.17
+    },
+    {
+        "actor": "Evangeline Lilly",
+        "rating": 7.17
+    },
+    {
+        "actor": "Emilia Clarke",
+        "rating": 7.15
+    },
+    {
+        "actor": "Jeremy Renner",
+        "rating": 7.15
+    },
+    {
+        "actor": "Frances McDormand",
+        "rating": 7.15
+    },
+    {
+        "actor": "Emile Hirsch",
+        "rating": 7.15
+    },
+    {
+        "actor": "Kristen Bell",
+        "rating": 7.15
+    },
+    {
+        "actor": "Craig T. Nelson",
+        "rating": 7.15
+    },
+    {
+        "actor": "Elijah Wood",
+        "rating": 7.15
+    },
+    {
+        "actor": "Idina Menzel",
+        "rating": 7.15
+    },
+    {
+        "actor": "Jonathan Groff",
+        "rating": 7.15
+    },
+    {
+        "actor": "Dustin Hoffman",
+        "rating": 7.15
+    },
+    {
+        "actor": "Michelle Williams",
+        "rating": 7.15
+    },
+    {
+        "actor": "Pablo Schreiber",
+        "rating": 7.15
+    },
+    {
+        "actor": "Domhnall Gleeson",
+        "rating": 7.13
+    },
+    {
+        "actor": "Charlie Hunnam",
+        "rating": 7.13
+    },
+    {
+        "actor": "Christoph Waltz",
+        "rating": 7.12
+    },
+    {
+        "actor": "Demi Moore",
+        "rating": 7.1
+    },
+    {
+        "actor": "Linda Hamilton",
+        "rating": 7.1
+    },
+    {
+        "actor": "Vilhelm Blomgren",
+        "rating": 7.1
+    },
+    {
+        "actor": "Martin Henderson",
+        "rating": 7.1
+    },
+    {
+        "actor": "Thomas M. Wright",
+        "rating": 7.1
+    },
+    {
+        "actor": "Ang Phula Sherpa",
+        "rating": 7.1
+    },
+    {
+        "actor": "Xiaoguang Hu",
+        "rating": 7.1
+    },
+    {
+        "actor": "John Goodman",
+        "rating": 7.1
+    },
+    {
+        "actor": "Billy Crudup",
+        "rating": 7.1
+    },
+    {
+        "actor": "Michael Pe\u00f1a",
+        "rating": 7.1
+    },
+    {
+        "actor": "Kelly Macdonald",
+        "rating": 7.1
+    },
+    {
+        "actor": "Anika Noni Rose",
+        "rating": 7.1
+    },
+    {
+        "actor": "Hao Ou",
+        "rating": 7.1
+    },
+    {
+        "actor": "Zhang Junyi",
+        "rating": 7.1
+    },
+    {
+        "actor": "Thomas Whilley",
+        "rating": 7.1
+    },
+    {
+        "actor": "Dakota Goyo",
+        "rating": 7.1
+    },
+    {
+        "actor": "Vincent Ebrahim",
+        "rating": 7.1
+    },
+    {
+        "actor": "Guy Pearce",
+        "rating": 7.1
+    },
+    {
+        "actor": "Bruno Campos",
+        "rating": 7.1
+    },
+    {
+        "actor": "James DuMont",
+        "rating": 7.1
+    },
+    {
+        "actor": "Xavier de Guillebon",
+        "rating": 7.1
+    },
+    {
+        "actor": "Ananda Everingham",
+        "rating": 7.1
+    },
+    {
+        "actor": "Natthaweeranuch Thongmee",
+        "rating": 7.1
+    },
+    {
+        "actor": "Achita Sikamana",
+        "rating": 7.1
+    },
+    {
+        "actor": "Unnop Chanpaibool",
+        "rating": 7.1
+    },
+    {
+        "actor": "Keith David",
+        "rating": 7.1
+    },
+    {
+        "actor": "Yumi Kakazu",
+        "rating": 7.1
+    },
+    {
+        "actor": "Michael-Leon Wooley",
+        "rating": 7.1
+    },
+    {
+        "actor": "Chris Pratt",
+        "rating": 7.1
+    },
+    {
+        "actor": "Wasabi Mizuta",
+        "rating": 7.1
+    },
+    {
+        "actor": "Tori Ellen Ross",
+        "rating": 7.1
+    },
+    {
+        "actor": "Javier Bardem",
+        "rating": 7.1
+    },
+    {
+        "actor": "William Jackson Harper",
+        "rating": 7.1
+    },
+    {
+        "actor": "Julie Walters",
+        "rating": 7.1
+    },
+    {
+        "actor": "Brittany Murphy",
+        "rating": 7.1
+    },
+    {
+        "actor": "Kim Basinger",
+        "rating": 7.1
+    },
+    {
+        "actor": "Eminem",
+        "rating": 7.1
+    },
+    {
+        "actor": "Jane Levy",
+        "rating": 7.1
+    },
+    {
+        "actor": "Daniel Zovatto",
+        "rating": 7.1
+    },
+    {
+        "actor": "Mike Tyson",
+        "rating": 7.1
+    },
+    {
+        "actor": "James Gandolfini",
+        "rating": 7.1
+    },
+    {
+        "actor": "Lynn Xiong",
+        "rating": 7.1
+    },
+    {
+        "actor": "Jeffrey Donovan",
+        "rating": 7.1
+    },
+    {
+        "actor": "Eva Gabor",
+        "rating": 7.1
+    },
+    {
+        "actor": "Patrick Swayze",
+        "rating": 7.1
+    },
+    {
+        "actor": "Steve Carell",
+        "rating": 7.1
+    },
+    {
+        "actor": "Byun Hee-Bong",
+        "rating": 7.1
+    },
+    {
+        "actor": "Francesca Capaldi",
+        "rating": 7.1
+    },
+    {
+        "actor": "Park Hae-il",
+        "rating": 7.1
+    },
+    {
+        "actor": "Bae Doona",
+        "rating": 7.1
+    },
+    {
+        "actor": "Anastasia Bredikhina",
+        "rating": 7.1
+    },
+    {
+        "actor": "Kylie Rogers",
+        "rating": 7.1
+    },
+    {
+        "actor": "Martin Landau",
+        "rating": 7.1
+    },
+    {
+        "actor": "Rebecca Bloom",
+        "rating": 7.1
+    },
+    {
+        "actor": "Brighton Sharbino",
+        "rating": 7.1
+    },
+    {
+        "actor": "Trombone Shorty",
+        "rating": 7.1
+    },
+    {
+        "actor": "Phil Harris",
+        "rating": 7.1
+    },
+    {
+        "actor": "Will Poulter",
+        "rating": 7.1
+    },
+    {
+        "actor": "Christopher Meloni",
+        "rating": 7.1
+    },
+    {
+        "actor": "Paul Walker",
+        "rating": 7.1
+    },
+    {
+        "actor": "Zhi-zhong Huang",
+        "rating": 7.1
+    },
+    {
+        "actor": "Tricia Helfer",
+        "rating": 7.1
+    },
+    {
+        "actor": "Ed Harris",
+        "rating": 7.1
+    },
+    {
+        "actor": "Stanley Lawrence",
+        "rating": 7.1
+    },
+    {
+        "actor": "Zooey Deschanel",
+        "rating": 7.1
+    },
+    {
+        "actor": "Douglas M. Griffin",
+        "rating": 7.1
+    },
+    {
+        "actor": "Oliver Jackson-Cohen",
+        "rating": 7.1
+    },
+    {
+        "actor": "Harriet Dyer",
+        "rating": 7.1
+    },
+    {
+        "actor": "Andrew Howard",
+        "rating": 7.07
+    },
+    {
+        "actor": "Jennifer Garner",
+        "rating": 7.07
+    },
+    {
+        "actor": "Emma Stone",
+        "rating": 7.06
+    },
+    {
+        "actor": "Tom Cruise",
+        "rating": 7.06
+    },
+    {
+        "actor": "Emma Watson",
+        "rating": 7.06
+    },
+    {
+        "actor": "Geoffrey Rush",
+        "rating": 7.05
+    },
+    {
+        "actor": "Mackenzie Foy",
+        "rating": 7.05
+    },
+    {
+        "actor": "Morena Baccarin",
+        "rating": 7.05
+    },
+    {
+        "actor": "Stanley Tucci",
+        "rating": 7.05
+    },
+    {
+        "actor": "Nick Frost",
+        "rating": 7.05
+    },
+    {
+        "actor": "Ben Hardy",
+        "rating": 7.05
+    },
+    {
+        "actor": "Don Cheadle",
+        "rating": 7.05
+    },
+    {
+        "actor": "Willem Dafoe",
+        "rating": 7.04
+    },
+    {
+        "actor": "Jude Law",
+        "rating": 7.03
+    },
+    {
+        "actor": "Bill Paxton",
+        "rating": 7.03
+    },
+    {
+        "actor": "Mark Tandy",
+        "rating": 7
+    },
+    {
+        "actor": "Rufus Jones",
+        "rating": 7
+    },
+    {
+        "actor": "Katie Leung",
+        "rating": 7
+    },
+    {
+        "actor": "Danny Kwok-Kwan Chan",
+        "rating": 7
+    },
+    {
+        "actor": "Tenzing Norgay Trainor",
+        "rating": 7
+    },
+    {
+        "actor": "Joseph Izzo",
+        "rating": 7
+    },
+    {
+        "actor": "Vanness Wu",
+        "rating": 7
+    },
+    {
+        "actor": "Albert Tsai",
+        "rating": 7
+    },
+    {
+        "actor": "Lesley Manville",
+        "rating": 7
+    },
+    {
+        "actor": "Vincent Rodriguez III",
+        "rating": 7
+    },
+    {
+        "actor": "Milo Gibson",
+        "rating": 7
+    },
+    {
+        "actor": "Stephen Graham",
+        "rating": 7
+    },
+    {
+        "actor": "James Marsters",
+        "rating": 7
+    },
+    {
+        "actor": "Anne Heche",
+        "rating": 7
+    },
+    {
+        "actor": "Matt Helm",
+        "rating": 7
+    },
+    {
+        "actor": "Asher Angel",
+        "rating": 7
+    },
+    {
+        "actor": "Jack Dylan Grazer",
+        "rating": 7
+    },
+    {
+        "actor": "Patrick Dempsey",
+        "rating": 7
+    },
+    {
+        "actor": "Adam Baldwin",
+        "rating": 7
+    },
+    {
+        "actor": "Jessica Henwick",
+        "rating": 7
+    },
+    {
+        "actor": "Dan Ewing",
+        "rating": 7
+    },
+    {
+        "actor": "Kaiji Tang",
+        "rating": 7
+    },
+    {
+        "actor": "Ralph Bellamy",
+        "rating": 7
+    },
+    {
+        "actor": "John Heard",
+        "rating": 7
+    },
+    {
+        "actor": "Fran Kranz",
+        "rating": 7
+    },
+    {
+        "actor": "Natalie Portman",
+        "rating": 7
+    },
+    {
+        "actor": "Gustavo Mu\u00f1oz",
+        "rating": 7
+    },
+    {
+        "actor": "Cesar De Le\u00f3n",
+        "rating": 7
+    },
+    {
+        "actor": "Anna Hutchison",
+        "rating": 7
+    },
+    {
+        "actor": "David Boreanaz",
+        "rating": 7
+    },
+    {
+        "actor": "Stephanie Sheh",
+        "rating": 7
+    },
+    {
+        "actor": "Gina Gershon",
+        "rating": 7
+    },
+    {
+        "actor": "Diane Lane",
+        "rating": 7
+    },
+    {
+        "actor": "Patrick L. Reyes",
+        "rating": 7
+    },
+    {
+        "actor": "Peter Stormare",
+        "rating": 7
+    },
+    {
+        "actor": "Daniella Rabbani",
+        "rating": 7
+    },
+    {
+        "actor": "Deidre Goodwin",
+        "rating": 7
+    },
+    {
+        "actor": "Kristen Connolly",
+        "rating": 7
+    },
+    {
+        "actor": "Griffin Dunne",
+        "rating": 7
+    },
+    {
+        "actor": "Mary McDonnell",
+        "rating": 7
+    },
+    {
+        "actor": "Chloe Bennet",
+        "rating": 7
+    },
+    {
+        "actor": "CCH Pounder",
+        "rating": 7
+    },
+    {
+        "actor": "Isabelle Fuhrman",
+        "rating": 7
+    },
+    {
+        "actor": "Sarah Silverman",
+        "rating": 7
+    },
+    {
+        "actor": "Jeremy Owen",
+        "rating": 7
+    },
+    {
+        "actor": "Christopher Gorham",
+        "rating": 7
+    },
+    {
+        "actor": "Faye Mata",
+        "rating": 7
+    },
+    {
+        "actor": "Mia Stallard",
+        "rating": 7
+    },
+    {
+        "actor": "Jennifer Coolidge",
+        "rating": 7
+    },
+    {
+        "actor": "Aaron Taylor-Johnson",
+        "rating": 7
+    },
+    {
+        "actor": "Angelina Jolie",
+        "rating": 6.98
+    },
+    {
+        "actor": "Sandra Bullock",
+        "rating": 6.98
+    },
+    {
+        "actor": "J.K. Simmons",
+        "rating": 6.98
+    },
+    {
+        "actor": "Orlando Bloom",
+        "rating": 6.98
+    },
+    {
+        "actor": "Michael Shannon",
+        "rating": 6.97
+    },
+    {
+        "actor": "Ben Affleck",
+        "rating": 6.97
+    },
+    {
+        "actor": "Jason Clarke",
+        "rating": 6.96
+    },
+    {
+        "actor": "Noomi Rapace",
+        "rating": 6.96
+    },
+    {
+        "actor": "Chadwick Boseman",
+        "rating": 6.95
+    },
+    {
+        "actor": "Christopher Lloyd",
+        "rating": 6.95
+    },
+    {
+        "actor": "Danny Glover",
+        "rating": 6.95
+    },
+    {
+        "actor": "Dominic West",
+        "rating": 6.95
+    },
+    {
+        "actor": "Laura Dern",
+        "rating": 6.95
+    },
+    {
+        "actor": "Tim McGraw",
+        "rating": 6.95
+    },
+    {
+        "actor": "Margot Robbie",
+        "rating": 6.94
+    },
+    {
+        "actor": "Stephen Lang",
+        "rating": 6.93
+    },
+    {
+        "actor": "Anna Kendrick",
+        "rating": 6.93
+    },
+    {
+        "actor": "James McAvoy",
+        "rating": 6.93
+    },
+    {
+        "actor": "Johnny Depp",
+        "rating": 6.93
+    },
+    {
+        "actor": "Benicio Del Toro",
+        "rating": 6.93
+    },
+    {
+        "actor": "Mandy Moore",
+        "rating": 6.93
+    },
+    {
+        "actor": "Samuel L. Jackson",
+        "rating": 6.93
+    },
+    {
+        "actor": "Chris Hemsworth",
+        "rating": 6.93
+    },
+    {
+        "actor": "Jamie Foxx",
+        "rating": 6.93
+    },
+    {
+        "actor": "Amy Adams",
+        "rating": 6.92
+    },
+    {
+        "actor": "Chris Pine",
+        "rating": 6.92
+    },
+    {
+        "actor": "Tye Sheridan",
+        "rating": 6.9
+    },
+    {
+        "actor": "John Kani",
+        "rating": 6.9
+    },
+    {
+        "actor": "John Oliver",
+        "rating": 6.9
+    },
+    {
+        "actor": "Claudia Christian",
+        "rating": 6.9
+    },
+    {
+        "actor": "McKee Anderson",
+        "rating": 6.9
+    },
+    {
+        "actor": "Tom Towles",
+        "rating": 6.9
+    },
+    {
+        "actor": "Patricia Tallman",
+        "rating": 6.9
+    },
+    {
+        "actor": "Ewan McGregor",
+        "rating": 6.9
+    },
+    {
+        "actor": "Billy Connolly",
+        "rating": 6.9
+    },
+    {
+        "actor": "Gemma Chan",
+        "rating": 6.9
+    },
+    {
+        "actor": "Sharon Horgan",
+        "rating": 6.9
+    },
+    {
+        "actor": "James Earl Jones",
+        "rating": 6.9
+    },
+    {
+        "actor": "Roy Hill",
+        "rating": 6.9
+    },
+    {
+        "actor": "Karen Disher",
+        "rating": 6.9
+    },
+    {
+        "actor": "Jason Fricchione",
+        "rating": 6.9
+    },
+    {
+        "actor": "Channing Tatum",
+        "rating": 6.9
+    },
+    {
+        "actor": "Michelle Rodriguez",
+        "rating": 6.9
+    },
+    {
+        "actor": "Vanessa Kirby",
+        "rating": 6.9
+    },
+    {
+        "actor": "Sofia Scarpa Saldanha",
+        "rating": 6.9
+    },
+    {
+        "actor": "Harvey Scrimshaw",
+        "rating": 6.9
+    },
+    {
+        "actor": "Lor\u00e0nt Deutsch",
+        "rating": 6.9
+    },
+    {
+        "actor": "Tsuwayuki Saotome",
+        "rating": 6.9
+    },
+    {
+        "actor": "Alexandre Astier",
+        "rating": 6.9
+    },
+    {
+        "actor": "Nobuyo \u00d4yama",
+        "rating": 6.9
+    },
+    {
+        "actor": "Kate Dickie",
+        "rating": 6.9
+    },
+    {
+        "actor": "Noriko Ohara",
+        "rating": 6.9
+    },
+    {
+        "actor": "Tory Kittles",
+        "rating": 6.9
+    },
+    {
+        "actor": "John C. Reilly",
+        "rating": 6.9
+    },
+    {
+        "actor": "Michiko Nomura",
+        "rating": 6.9
+    },
+    {
+        "actor": "Kaneta Kimotsuki",
+        "rating": 6.9
+    },
+    {
+        "actor": "Elodie Yung",
+        "rating": 6.9
+    },
+    {
+        "actor": "Richard Madden",
+        "rating": 6.9
+    },
+    {
+        "actor": "Joonas Suotamo",
+        "rating": 6.9
+    },
+    {
+        "actor": "Ben Kingsley",
+        "rating": 6.9
+    },
+    {
+        "actor": "O'Shea Jackson Jr.",
+        "rating": 6.9
+    },
+    {
+        "actor": "Vincent D'Onofrio",
+        "rating": 6.9
+    },
+    {
+        "actor": "Roger Carel",
+        "rating": 6.9
+    },
+    {
+        "actor": "Alden Ehrenreich",
+        "rating": 6.9
+    },
+    {
+        "actor": "Mena Massoud",
+        "rating": 6.9
+    },
+    {
+        "actor": "Talia Shire",
+        "rating": 6.9
+    },
+    {
+        "actor": "Laurent Lafitte",
+        "rating": 6.9
+    },
+    {
+        "actor": "John Carroll Lynch",
+        "rating": 6.9
+    },
+    {
+        "actor": "Anna Popplewell",
+        "rating": 6.9
+    },
+    {
+        "actor": "Jim Cummings",
+        "rating": 6.9
+    },
+    {
+        "actor": "Meryl Streep",
+        "rating": 6.9
+    },
+    {
+        "actor": "Armand Assante",
+        "rating": 6.9
+    },
+    {
+        "actor": "Diego Klattenhoff",
+        "rating": 6.9
+    },
+    {
+        "actor": "Kenneth Branagh",
+        "rating": 6.9
+    },
+    {
+        "actor": "Rinko Kikuchi",
+        "rating": 6.9
+    },
+    {
+        "actor": "Hayley Atwell",
+        "rating": 6.9
+    },
+    {
+        "actor": "Nawal Bengholam",
+        "rating": 6.9
+    },
+    {
+        "actor": "Payman Maadi",
+        "rating": 6.9
+    },
+    {
+        "actor": "Henry Golding",
+        "rating": 6.9
+    },
+    {
+        "actor": "Rhys Ifans",
+        "rating": 6.9
+    },
+    {
+        "actor": "K\u00f4ichi T\u00f4chika",
+        "rating": 6.9
+    },
+    {
+        "actor": "Mary Kay Bergman",
+        "rating": 6.9
+    },
+    {
+        "actor": "Lane Garrison",
+        "rating": 6.9
+    },
+    {
+        "actor": "Michael B. Jordan",
+        "rating": 6.88
+    },
+    {
+        "actor": "Woody Harrelson",
+        "rating": 6.88
+    },
+    {
+        "actor": "Jennifer Lawrence",
+        "rating": 6.88
+    },
+    {
+        "actor": "Nicole Kidman",
+        "rating": 6.87
+    },
+    {
+        "actor": "Drew Barrymore",
+        "rating": 6.87
+    },
+    {
+        "actor": "Asa Butterfield",
+        "rating": 6.87
+    },
+    {
+        "actor": "Octavia Spencer",
+        "rating": 6.86
+    },
+    {
+        "actor": "Bill Hader",
+        "rating": 6.86
+    },
+    {
+        "actor": "Gerard Butler",
+        "rating": 6.86
+    },
+    {
+        "actor": "Bradley Cooper",
+        "rating": 6.86
+    },
+    {
+        "actor": "Michael Keaton",
+        "rating": 6.85
+    },
+    {
+        "actor": "Uma Thurman",
+        "rating": 6.85
+    },
+    {
+        "actor": "David Wenham",
+        "rating": 6.85
+    },
+    {
+        "actor": "Sherri Shepherd",
+        "rating": 6.85
+    },
+    {
+        "actor": "Djimon Hounsou",
+        "rating": 6.85
+    },
+    {
+        "actor": "Dave Bautista",
+        "rating": 6.84
+    },
+    {
+        "actor": "Jim Caviezel",
+        "rating": 6.83
+    },
+    {
+        "actor": "Jennifer Connelly",
+        "rating": 6.83
+    },
+    {
+        "actor": "Helen Mirren",
+        "rating": 6.83
+    },
+    {
+        "actor": "Matt Damon",
+        "rating": 6.82
+    },
+    {
+        "actor": "Mary Alice",
+        "rating": 6.8
+    },
+    {
+        "actor": "Mel Gibson",
+        "rating": 6.8
+    },
+    {
+        "actor": "Aaron Glenane",
+        "rating": 6.8
+    },
+    {
+        "actor": "Katie Crown",
+        "rating": 6.8
+    },
+    {
+        "actor": "Kelsey Grammer",
+        "rating": 6.8
+    },
+    {
+        "actor": "Alexander England",
+        "rating": 6.8
+    },
+    {
+        "actor": "Toby Blome",
+        "rating": 6.8
+    },
+    {
+        "actor": "Lei Zhang",
+        "rating": 6.8
+    },
+    {
+        "actor": "Eva Green",
+        "rating": 6.8
+    },
+    {
+        "actor": "Zijie Lin",
+        "rating": 6.8
+    },
+    {
+        "actor": "Wenlun Wu",
+        "rating": 6.8
+    },
+    {
+        "actor": "Ben Foster",
+        "rating": 6.8
+    },
+    {
+        "actor": "Matt Schulze",
+        "rating": 6.8
+    },
+    {
+        "actor": "Brendan Gleeson",
+        "rating": 6.8
+    },
+    {
+        "actor": "Cara Gee",
+        "rating": 6.8
+    },
+    {
+        "actor": "Zirong Tong",
+        "rating": 6.8
+    },
+    {
+        "actor": "Daisy Ridley",
+        "rating": 6.8
+    },
+    {
+        "actor": "Travis Fimmel",
+        "rating": 6.8
+    },
+    {
+        "actor": "Casey Affleck",
+        "rating": 6.8
+    },
+    {
+        "actor": "Susie Essman",
+        "rating": 6.8
+    },
+    {
+        "actor": "Miley Cyrus",
+        "rating": 6.8
+    },
+    {
+        "actor": "Jorge Lendeborg Jr.",
+        "rating": 6.8
+    },
+    {
+        "actor": "Jason Drucker",
+        "rating": 6.8
+    },
+    {
+        "actor": "Matthew Josten",
+        "rating": 6.8
+    },
+    {
+        "actor": "Aldis Hodge",
+        "rating": 6.8
+    },
+    {
+        "actor": "Steve Valentine",
+        "rating": 6.8
+    },
+    {
+        "actor": "Sage Ryan",
+        "rating": 6.8
+    },
+    {
+        "actor": "Jason Isaacs",
+        "rating": 6.8
+    },
+    {
+        "actor": "Tara Strong",
+        "rating": 6.8
+    },
+    {
+        "actor": "Kathy Bates",
+        "rating": 6.8
+    },
+    {
+        "actor": "Jeremy Suarez",
+        "rating": 6.8
+    },
+    {
+        "actor": "Alex Meneses",
+        "rating": 6.8
+    },
+    {
+        "actor": "L\u00e9a Seydoux",
+        "rating": 6.8
+    },
+    {
+        "actor": "Jason Raize",
+        "rating": 6.8
+    },
+    {
+        "actor": "Rick Moranis",
+        "rating": 6.8
+    },
+    {
+        "actor": "Garrett Hedlund",
+        "rating": 6.8
+    },
+    {
+        "actor": "Jordan Fry",
+        "rating": 6.8
+    },
+    {
+        "actor": "Bruce Boxleitner",
+        "rating": 6.8
+    },
+    {
+        "actor": "Khary Payton",
+        "rating": 6.8
+    },
+    {
+        "actor": "Scott Menville",
+        "rating": 6.8
+    },
+    {
+        "actor": "Julia Stiles",
+        "rating": 6.8
+    },
+    {
+        "actor": "Constance Marie",
+        "rating": 6.8
+    },
+    {
+        "actor": "Jackie Guerra",
+        "rating": 6.8
+    },
+    {
+        "actor": "Danny DeVito",
+        "rating": 6.8
+    },
+    {
+        "actor": "Daniel Hansen",
+        "rating": 6.8
+    },
+    {
+        "actor": "Mark O'Brien",
+        "rating": 6.8
+    },
+    {
+        "actor": "Greg Cipes",
+        "rating": 6.8
+    },
+    {
+        "actor": "Henry Czerny",
+        "rating": 6.8
+    },
+    {
+        "actor": "Selma Blair",
+        "rating": 6.8
+    },
+    {
+        "actor": "Y\u00fb Kobayashi",
+        "rating": 6.8
+    },
+    {
+        "actor": "Subaru Kimura",
+        "rating": 6.8
+    },
+    {
+        "actor": "Rachel Brosnahan",
+        "rating": 6.8
+    },
+    {
+        "actor": "Wyatt Russell",
+        "rating": 6.8
+    },
+    {
+        "actor": "LisaGay Hamilton",
+        "rating": 6.8
+    },
+    {
+        "actor": "Jarrett Bruno",
+        "rating": 6.8
+    },
+    {
+        "actor": "Asher Miles Fallica",
+        "rating": 6.8
+    },
+    {
+        "actor": "Lake Bell",
+        "rating": 6.8
+    },
+    {
+        "actor": "Alison Sudol",
+        "rating": 6.8
+    },
+    {
+        "actor": "Jim Carrey",
+        "rating": 6.8
+    },
+    {
+        "actor": "Rupert Evans",
+        "rating": 6.8
+    },
+    {
+        "actor": "Rob Schneider",
+        "rating": 6.8
+    },
+    {
+        "actor": "Sterling Jerins",
+        "rating": 6.8
+    },
+    {
+        "actor": "Maddie Ziegler",
+        "rating": 6.8
+    },
+    {
+        "actor": "Carly Rae Jepsen",
+        "rating": 6.8
+    },
+    {
+        "actor": "Kate Beahan",
+        "rating": 6.8
+    },
+    {
+        "actor": "Henry Cavill",
+        "rating": 6.8
+    },
+    {
+        "actor": "Adrien Brody",
+        "rating": 6.8
+    },
+    {
+        "actor": "Claire Crosby",
+        "rating": 6.8
+    },
+    {
+        "actor": "Himesh Patel",
+        "rating": 6.8
+    },
+    {
+        "actor": "Sophia Di Martino",
+        "rating": 6.8
+    },
+    {
+        "actor": "Ellise Chappell",
+        "rating": 6.8
+    },
+    {
+        "actor": "Claire Geare",
+        "rating": 6.8
+    },
+    {
+        "actor": "Helmut Bakaitis",
+        "rating": 6.8
+    },
+    {
+        "actor": "Toru Uchikado",
+        "rating": 6.8
+    },
+    {
+        "actor": "Bailey Spry",
+        "rating": 6.8
+    },
+    {
+        "actor": "Viola Davis",
+        "rating": 6.8
+    },
+    {
+        "actor": "Carollette Phillips",
+        "rating": 6.8
+    },
+    {
+        "actor": "Loren Bass",
+        "rating": 6.8
+    },
+    {
+        "actor": "Keir Gilchrist",
+        "rating": 6.8
+    },
+    {
+        "actor": "Sonoya Mizuno",
+        "rating": 6.8
+    },
+    {
+        "actor": "June Diane Raphael",
+        "rating": 6.8
+    },
+    {
+        "actor": "Idris Elba",
+        "rating": 6.8
+    },
+    {
+        "actor": "Tanveer K. Atwal",
+        "rating": 6.8
+    },
+    {
+        "actor": "Aml Ameen",
+        "rating": 6.8
+    },
+    {
+        "actor": "Michael Cera",
+        "rating": 6.8
+    },
+    {
+        "actor": "Blake Cooper",
+        "rating": 6.8
+    },
+    {
+        "actor": "Gugu Mbatha-Raw",
+        "rating": 6.8
+    },
+    {
+        "actor": "Ninja",
+        "rating": 6.8
+    },
+    {
+        "actor": "Miles Teller",
+        "rating": 6.8
+    },
+    {
+        "actor": "Yo-Landi Visser",
+        "rating": 6.8
+    },
+    {
+        "actor": "James Badge Dale",
+        "rating": 6.8
+    },
+    {
+        "actor": "Sharlto Copley",
+        "rating": 6.8
+    },
+    {
+        "actor": "Marwan Kenzari",
+        "rating": 6.8
+    },
+    {
+        "actor": "Elle Fanning",
+        "rating": 6.8
+    },
+    {
+        "actor": "Jonathan Banks",
+        "rating": 6.8
+    },
+    {
+        "actor": "Ty Simpkins",
+        "rating": 6.8
+    },
+    {
+        "actor": "Angela Bassett",
+        "rating": 6.8
+    },
+    {
+        "actor": "Mark Walton",
+        "rating": 6.8
+    },
+    {
+        "actor": "Arnold Schwarzenegger",
+        "rating": 6.79
+    },
+    {
+        "actor": "Vin Diesel",
+        "rating": 6.79
+    },
+    {
+        "actor": "Ian McShane",
+        "rating": 6.78
+    },
+    {
+        "actor": "Ben Mendelsohn",
+        "rating": 6.78
+    },
+    {
+        "actor": "Steve Buscemi",
+        "rating": 6.78
+    },
+    {
+        "actor": "Matthias Schoenaerts",
+        "rating": 6.77
+    },
+    {
+        "actor": "Eric Bana",
+        "rating": 6.77
+    },
+    {
+        "actor": "Patrick Wilson",
+        "rating": 6.77
+    },
+    {
+        "actor": "Ryan Reynolds",
+        "rating": 6.77
+    },
+    {
+        "actor": "Tessa Thompson",
+        "rating": 6.77
+    },
+    {
+        "actor": "Owen Wilson",
+        "rating": 6.76
+    },
+    {
+        "actor": "Jack Black",
+        "rating": 6.76
+    },
+    {
+        "actor": "Kirsten Dunst",
+        "rating": 6.75
+    },
+    {
+        "actor": "Olivia Wilde",
+        "rating": 6.75
+    },
+    {
+        "actor": "Bryan Cranston",
+        "rating": 6.75
+    },
+    {
+        "actor": "Mckenna Grace",
+        "rating": 6.75
+    },
+    {
+        "actor": "Karen Gillan",
+        "rating": 6.75
+    },
+    {
+        "actor": "Patrick Warburton",
+        "rating": 6.75
+    },
+    {
+        "actor": "James Marsden",
+        "rating": 6.75
+    },
+    {
+        "actor": "Tobey Maguire",
+        "rating": 6.75
+    },
+    {
+        "actor": "Brie Larson",
+        "rating": 6.75
+    },
+    {
+        "actor": "Logan Lerman",
+        "rating": 6.75
+    },
+    {
+        "actor": "Emma Roberts",
+        "rating": 6.75
+    },
+    {
+        "actor": "Reese Witherspoon",
+        "rating": 6.75
+    },
+    {
+        "actor": "Anthony Mackie",
+        "rating": 6.75
+    },
+    {
+        "actor": "Keanu Reeves",
+        "rating": 6.74
+    },
+    {
+        "actor": "Jeff Bridges",
+        "rating": 6.74
+    },
+    {
+        "actor": "Chiwetel Ejiofor",
+        "rating": 6.73
+    },
+    {
+        "actor": "Kyle Chandler",
+        "rating": 6.73
+    },
+    {
+        "actor": "Lily James",
+        "rating": 6.73
+    },
+    {
+        "actor": "Paula Patton",
+        "rating": 6.73
+    },
+    {
+        "actor": "Jason Sudeikis",
+        "rating": 6.73
+    },
+    {
+        "actor": "Nathan Fillion",
+        "rating": 6.73
+    },
+    {
+        "actor": "Mark Strong",
+        "rating": 6.73
+    },
+    {
+        "actor": "Pepita Emmerichs",
+        "rating": 6.7
+    },
+    {
+        "actor": "Max Records",
+        "rating": 6.7
+    },
+    {
+        "actor": "Chris Cooper",
+        "rating": 6.7
+    },
+    {
+        "actor": "Rudhraksh Jaiswal",
+        "rating": 6.7
+    },
+    {
+        "actor": "Conrad Vernon",
+        "rating": 6.7
+    },
+    {
+        "actor": "Christopher Knights",
+        "rating": 6.7
+    },
+    {
+        "actor": "Chris Miller",
+        "rating": 6.7
+    },
+    {
+        "actor": "Tom McGrath",
+        "rating": 6.7
+    },
+    {
+        "actor": "Jason Biggs",
+        "rating": 6.7
+    },
+    {
+        "actor": "Johnny Galecki",
+        "rating": 6.7
+    },
+    {
+        "actor": "Shyloh Oostwald",
+        "rating": 6.7
+    },
+    {
+        "actor": "Edward James Olmos",
+        "rating": 6.7
+    },
+    {
+        "actor": "James Remar",
+        "rating": 6.7
+    },
+    {
+        "actor": "Seth MacFarlane",
+        "rating": 6.7
+    },
+    {
+        "actor": "Oliver Platt",
+        "rating": 6.7
+    },
+    {
+        "actor": "Kodi Smit-McPhee",
+        "rating": 6.7
+    },
+    {
+        "actor": "Brendan Fraser",
+        "rating": 6.7
+    },
+    {
+        "actor": "Hank Azaria",
+        "rating": 6.7
+    },
+    {
+        "actor": "Meadow Williams",
+        "rating": 6.7
+    },
+    {
+        "actor": "Kim Ok-bin",
+        "rating": 6.7
+    },
+    {
+        "actor": "Stellan Skarsg\u00e5rd",
+        "rating": 6.7
+    },
+    {
+        "actor": "Ayelet Zurer",
+        "rating": 6.7
+    },
+    {
+        "actor": "Keith L. Williams",
+        "rating": 6.7
+    },
+    {
+        "actor": "Brady Noon",
+        "rating": 6.7
+    },
+    {
+        "actor": "Jack Gore",
+        "rating": 6.7
+    },
+    {
+        "actor": "Jet Jurgensmeyer",
+        "rating": 6.7
+    },
+    {
+        "actor": "Edward Holcroft",
+        "rating": 6.7
+    },
+    {
+        "actor": "Bryon Lerum",
+        "rating": 6.7
+    },
+    {
+        "actor": "Jonah Hauer-King",
+        "rating": 6.7
+    },
+    {
+        "actor": "Michael J. Fox",
+        "rating": 6.7
+    },
+    {
+        "actor": "Nile Diaz",
+        "rating": 6.7
+    },
+    {
+        "actor": "J\u00f3hannes Haukur J\u00f3hannesson",
+        "rating": 6.7
+    },
+    {
+        "actor": "Stephen Fry",
+        "rating": 6.7
+    },
+    {
+        "actor": "Marcin Kowalczyk",
+        "rating": 6.7
+    },
+    {
+        "actor": "Jens Hult\u00e9n",
+        "rating": 6.7
+    },
+    {
+        "actor": "Richard Dreyfuss",
+        "rating": 6.7
+    },
+    {
+        "actor": "Irene Bedard",
+        "rating": 6.7
+    },
+    {
+        "actor": "Astrid Berg\u00e8s-Frisbey",
+        "rating": 6.7
+    },
+    {
+        "actor": "Shin Ha-kyun",
+        "rating": 6.7
+    },
+    {
+        "actor": "Daria Strokous",
+        "rating": 6.7
+    },
+    {
+        "actor": "Josie Ho",
+        "rating": 6.7
+    },
+    {
+        "actor": "Tien You Chui",
+        "rating": 6.7
+    },
+    {
+        "actor": "Jeffrey Wright",
+        "rating": 6.7
+    },
+    {
+        "actor": "Maleah Nipay-Padilla",
+        "rating": 6.7
+    },
+    {
+        "actor": "Ryan Teeple",
+        "rating": 6.7
+    },
+    {
+        "actor": "Sung Jun",
+        "rating": 6.7
+    },
+    {
+        "actor": "Faran Tahir",
+        "rating": 6.7
+    },
+    {
+        "actor": "Ethan Hawke",
+        "rating": 6.7
+    },
+    {
+        "actor": "Colin H. Murphy",
+        "rating": 6.7
+    },
+    {
+        "actor": "Viktor Dobronravov",
+        "rating": 6.7
+    },
+    {
+        "actor": "Eddie Marsan",
+        "rating": 6.7
+    },
+    {
+        "actor": "David Walliams",
+        "rating": 6.7
+    },
+    {
+        "actor": "Sam Claflin",
+        "rating": 6.7
+    },
+    {
+        "actor": "William Moseley",
+        "rating": 6.7
+    },
+    {
+        "actor": "Joseph Fiennes",
+        "rating": 6.7
+    },
+    {
+        "actor": "William Hurt",
+        "rating": 6.7
+    },
+    {
+        "actor": "Seo-hyeong Kim",
+        "rating": 6.7
+    },
+    {
+        "actor": "Joe Baker",
+        "rating": 6.7
+    },
+    {
+        "actor": "Vinzenz Kiefer",
+        "rating": 6.7
+    },
+    {
+        "actor": "Matt Lucas",
+        "rating": 6.7
+    },
+    {
+        "actor": "Y\u00f4ichi Masukawa",
+        "rating": 6.7
+    },
+    {
+        "actor": "Chie Nakamura",
+        "rating": 6.7
+    },
+    {
+        "actor": "Junko Takeuchi",
+        "rating": 6.7
+    },
+    {
+        "actor": "Jim Conroy",
+        "rating": 6.7
+    },
+    {
+        "actor": "Dylan Minnette",
+        "rating": 6.7
+    },
+    {
+        "actor": "Allison Bills",
+        "rating": 6.7
+    },
+    {
+        "actor": "Scott Haze",
+        "rating": 6.7
+    },
+    {
+        "actor": "Riz Ahmed",
+        "rating": 6.7
+    },
+    {
+        "actor": "Cristela Alonzo",
+        "rating": 6.7
+    },
+    {
+        "actor": "Blake Anderson",
+        "rating": 6.7
+    },
+    {
+        "actor": "Arnold Vosloo",
+        "rating": 6.7
+    },
+    {
+        "actor": "Orson Bean",
+        "rating": 6.7
+    },
+    {
+        "actor": "Alyson Hannigan",
+        "rating": 6.7
+    },
+    {
+        "actor": "Jessica Chastain",
+        "rating": 6.7
+    },
+    {
+        "actor": "Jena Malone",
+        "rating": 6.7
+    },
+    {
+        "actor": "Mary Steenburgen",
+        "rating": 6.7
+    },
+    {
+        "actor": "Boyd Holbrook",
+        "rating": 6.7
+    },
+    {
+        "actor": "Rosario Dawson",
+        "rating": 6.7
+    },
+    {
+        "actor": "Ryder Lerum",
+        "rating": 6.7
+    },
+    {
+        "actor": "Madeleine Greaves",
+        "rating": 6.7
+    },
+    {
+        "actor": "Max Pfeifer",
+        "rating": 6.7
+    },
+    {
+        "actor": "Andy Samberg",
+        "rating": 6.68
+    },
+    {
+        "actor": "Dennis Quaid",
+        "rating": 6.68
+    },
+    {
+        "actor": "Morgan Freeman",
+        "rating": 6.68
+    },
+    {
+        "actor": "Jacob Tremblay",
+        "rating": 6.67
+    },
+    {
+        "actor": "Scott Adkins",
+        "rating": 6.67
+    },
+    {
+        "actor": "Justin Bartha",
+        "rating": 6.67
+    },
+    {
+        "actor": "Zach Galifianakis",
+        "rating": 6.67
+    },
+    {
+        "actor": "Benedict Wong",
+        "rating": 6.67
+    },
+    {
+        "actor": "Richard Crenna",
+        "rating": 6.67
+    },
+    {
+        "actor": "Joel Edgerton",
+        "rating": 6.66
+    },
+    {
+        "actor": "Halle Berry",
+        "rating": 6.65
+    },
+    {
+        "actor": "Richard Jenkins",
+        "rating": 6.65
+    },
+    {
+        "actor": "Mekhi Phifer",
+        "rating": 6.65
+    },
+    {
+        "actor": "Lisa Kudrow",
+        "rating": 6.65
+    },
+    {
+        "actor": "Eiza Gonz\u00e1lez",
+        "rating": 6.65
+    },
+    {
+        "actor": "Emma Thompson",
+        "rating": 6.65
+    },
+    {
+        "actor": "Ashley Judd",
+        "rating": 6.65
+    },
+    {
+        "actor": "Helena Bonham Carter",
+        "rating": 6.64
+    },
+    {
+        "actor": "Glenn Close",
+        "rating": 6.63
+    },
+    {
+        "actor": "Liam Neeson",
+        "rating": 6.63
+    },
+    {
+        "actor": "John Hurt",
+        "rating": 6.63
+    },
+    {
+        "actor": "Dominic Cooper",
+        "rating": 6.6
+    },
+    {
+        "actor": "Leslie Zemeckis",
+        "rating": 6.6
+    },
+    {
+        "actor": "Sarah Paulson",
+        "rating": 6.6
+    },
+    {
+        "actor": "Allan Corduner",
+        "rating": 6.6
+    },
+    {
+        "actor": "Joanne Whalley",
+        "rating": 6.6
+    },
+    {
+        "actor": "Olivier Martinez",
+        "rating": 6.6
+    },
+    {
+        "actor": "James Faulkner",
+        "rating": 6.6
+    },
+    {
+        "actor": "Steve Martin",
+        "rating": 6.6
+    },
+    {
+        "actor": "Stacy Keach",
+        "rating": 6.6
+    },
+    {
+        "actor": "Nicholas Woodeson",
+        "rating": 6.6
+    },
+    {
+        "actor": "Hae-Jin Yoo",
+        "rating": 6.6
+    },
+    {
+        "actor": "Russell Tovey",
+        "rating": 6.6
+    },
+    {
+        "actor": "Nona Gaye",
+        "rating": 6.6
+    },
+    {
+        "actor": "Michael Fassbender",
+        "rating": 6.6
+    },
+    {
+        "actor": "Walton Goggins",
+        "rating": 6.6
+    },
+    {
+        "actor": "Joe Pantoliano",
+        "rating": 6.6
+    },
+    {
+        "actor": "Wolf Roth",
+        "rating": 6.6
+    },
+    {
+        "actor": "Dove Cameron",
+        "rating": 6.6
+    },
+    {
+        "actor": "Kevin Guthrie",
+        "rating": 6.6
+    },
+    {
+        "actor": "Chris Sarandon",
+        "rating": 6.6
+    },
+    {
+        "actor": "Alex Kendrick",
+        "rating": 6.6
+    },
+    {
+        "actor": "Shannen Fields",
+        "rating": 6.6
+    },
+    {
+        "actor": "Tracy Goode",
+        "rating": 6.6
+    },
+    {
+        "actor": "Bailey Cave",
+        "rating": 6.6
+    },
+    {
+        "actor": "Chun Sun",
+        "rating": 6.6
+    },
+    {
+        "actor": "Baoguo Chen",
+        "rating": 6.6
+    },
+    {
+        "actor": "Eddie Peng",
+        "rating": 6.6
+    },
+    {
+        "actor": "Hanyu Zhang",
+        "rating": 6.6
+    },
+    {
+        "actor": "Ethan Baird",
+        "rating": 6.6
+    },
+    {
+        "actor": "Aziz Ansari",
+        "rating": 6.6
+    },
+    {
+        "actor": "David Kelly",
+        "rating": 6.6
+    },
+    {
+        "actor": "Bryce Dallas Howard",
+        "rating": 6.6
+    },
+    {
+        "actor": "Irrfan Khan",
+        "rating": 6.6
+    },
+    {
+        "actor": "Jim Parsons",
+        "rating": 6.6
+    },
+    {
+        "actor": "Sam Elliott",
+        "rating": 6.6
+    },
+    {
+        "actor": "Catherine Hicks",
+        "rating": 6.6
+    },
+    {
+        "actor": "Charlize Theron",
+        "rating": 6.6
+    },
+    {
+        "actor": "Michael Rooker",
+        "rating": 6.6
+    },
+    {
+        "actor": "Anton Lesser",
+        "rating": 6.6
+    },
+    {
+        "actor": "Song Joong-Ki",
+        "rating": 6.6
+    },
+    {
+        "actor": "Pen\u00e9lope Cruz",
+        "rating": 6.6
+    },
+    {
+        "actor": "Ruby Modine",
+        "rating": 6.6
+    },
+    {
+        "actor": "Alexander Ludwig",
+        "rating": 6.6
+    },
+    {
+        "actor": "KiKi Layne",
+        "rating": 6.6
+    },
+    {
+        "actor": "Martin Lawrence",
+        "rating": 6.6
+    },
+    {
+        "actor": "Seth Rogen",
+        "rating": 6.6
+    },
+    {
+        "actor": "Jacob Scipio",
+        "rating": 6.6
+    },
+    {
+        "actor": "Cameron Boyce",
+        "rating": 6.6
+    },
+    {
+        "actor": "Sofia Carson",
+        "rating": 6.6
+    },
+    {
+        "actor": "Taylor Kitsch",
+        "rating": 6.6
+    },
+    {
+        "actor": "Lynn Collins",
+        "rating": 6.6
+    },
+    {
+        "actor": "Samantha Morton",
+        "rating": 6.6
+    },
+    {
+        "actor": "Dempsey Bovell",
+        "rating": 6.6
+    },
+    {
+        "actor": "Vincent Perez",
+        "rating": 6.6
+    },
+    {
+        "actor": "Booboo Stewart",
+        "rating": 6.6
+    },
+    {
+        "actor": "Justin Timberlake",
+        "rating": 6.6
+    },
+    {
+        "actor": "Dax Flame",
+        "rating": 6.6
+    },
+    {
+        "actor": "Jonathan Daniel Brown",
+        "rating": 6.6
+    },
+    {
+        "actor": "Oliver Cooper",
+        "rating": 6.6
+    },
+    {
+        "actor": "Thomas Mann",
+        "rating": 6.6
+    },
+    {
+        "actor": "Erik Knudsen",
+        "rating": 6.6
+    },
+    {
+        "actor": "Jovan Adepo",
+        "rating": 6.6
+    },
+    {
+        "actor": "Navid Negahban",
+        "rating": 6.6
+    },
+    {
+        "actor": "Jason Alexander",
+        "rating": 6.6
+    },
+    {
+        "actor": "Charles Aitken",
+        "rating": 6.6
+    },
+    {
+        "actor": "Mathilde Ollivier",
+        "rating": 6.6
+    },
+    {
+        "actor": "Lewin Lloyd",
+        "rating": 6.6
+    },
+    {
+        "actor": "Sasha Luss",
+        "rating": 6.6
+    },
+    {
+        "actor": "Alessandro Nivola",
+        "rating": 6.6
+    },
+    {
+        "actor": "Kim Tae-ri",
+        "rating": 6.6
+    },
+    {
+        "actor": "Constance Wu",
+        "rating": 6.6
+    },
+    {
+        "actor": "Jesse Eisenberg",
+        "rating": 6.6
+    },
+    {
+        "actor": "Stephan James",
+        "rating": 6.6
+    },
+    {
+        "actor": "Sienna Miller",
+        "rating": 6.6
+    },
+    {
+        "actor": "Cillian Murphy",
+        "rating": 6.6
+    },
+    {
+        "actor": "Luke Evans",
+        "rating": 6.6
+    },
+    {
+        "actor": "Vince Vaughn",
+        "rating": 6.6
+    },
+    {
+        "actor": "Elvis Tsui",
+        "rating": 6.6
+    },
+    {
+        "actor": "Qingxiang Wang",
+        "rating": 6.6
+    },
+    {
+        "actor": "Phoebe Fox",
+        "rating": 6.6
+    },
+    {
+        "actor": "Charlotte Rampling",
+        "rating": 6.6
+    },
+    {
+        "actor": "Catherine Zeta-Jones",
+        "rating": 6.6
+    },
+    {
+        "actor": "Tony Chiu-Wai Leung",
+        "rating": 6.6
+    },
+    {
+        "actor": "Christina Ricci",
+        "rating": 6.6
+    },
+    {
+        "actor": "Seon-kyu Jin",
+        "rating": 6.6
+    },
+    {
+        "actor": "Corey Johnson",
+        "rating": 6.6
+    },
+    {
+        "actor": "David Schwimmer",
+        "rating": 6.6
+    },
+    {
+        "actor": "Tommy Lee Jones",
+        "rating": 6.58
+    },
+    {
+        "actor": "Aaron Paul",
+        "rating": 6.57
+    },
+    {
+        "actor": "Vera Farmiga",
+        "rating": 6.57
+    },
+    {
+        "actor": "Cary-Hiroyuki Tagawa",
+        "rating": 6.57
+    },
+    {
+        "actor": "Felicity Jones",
+        "rating": 6.57
+    },
+    {
+        "actor": "Skandar Keynes",
+        "rating": 6.57
+    },
+    {
+        "actor": "Georgie Henley",
+        "rating": 6.57
+    },
+    {
+        "actor": "Kevin Kline",
+        "rating": 6.55
+    },
+    {
+        "actor": "Jemaine Clement",
+        "rating": 6.55
+    },
+    {
+        "actor": "Will Smith",
+        "rating": 6.55
+    },
+    {
+        "actor": "Anya Taylor-Joy",
+        "rating": 6.55
+    },
+    {
+        "actor": "Jean Reno",
+        "rating": 6.55
+    },
+    {
+        "actor": "Clancy Brown",
+        "rating": 6.55
+    },
+    {
+        "actor": "Leslie Mann",
+        "rating": 6.55
+    },
+    {
+        "actor": "Shailene Woodley",
+        "rating": 6.55
+    },
+    {
+        "actor": "Bill Fagerbakke",
+        "rating": 6.55
+    },
+    {
+        "actor": "James Franco",
+        "rating": 6.55
+    },
+    {
+        "actor": "Rihanna",
+        "rating": 6.55
+    },
+    {
+        "actor": "Wes Bentley",
+        "rating": 6.55
+    },
+    {
+        "actor": "Anne Hathaway",
+        "rating": 6.55
+    },
+    {
+        "actor": "Rodger Bumpass",
+        "rating": 6.55
+    },
+    {
+        "actor": "Ed Helms",
+        "rating": 6.54
+    },
+    {
+        "actor": "Donnie Yen",
+        "rating": 6.54
+    },
+    {
+        "actor": "Elisabeth Shue",
+        "rating": 6.53
+    },
+    {
+        "actor": "Dane DeHaan",
+        "rating": 6.53
+    },
+    {
+        "actor": "Gal Gadot",
+        "rating": 6.53
+    },
+    {
+        "actor": "Dylan O'Brien",
+        "rating": 6.52
+    },
+    {
+        "actor": "Ned Dennehy",
+        "rating": 6.5
+    },
+    {
+        "actor": "Nic Bishop",
+        "rating": 6.5
+    },
+    {
+        "actor": "Caleb Castille",
+        "rating": 6.5
+    },
+    {
+        "actor": "Maurice Compte",
+        "rating": 6.5
+    },
+    {
+        "actor": "Josh Gad",
+        "rating": 6.5
+    },
+    {
+        "actor": "Patrick McDade",
+        "rating": 6.5
+    },
+    {
+        "actor": "Luciano Acuna Jr.",
+        "rating": 6.5
+    },
+    {
+        "actor": "Steven Berkoff",
+        "rating": 6.5
+    },
+    {
+        "actor": "Alison Lohman",
+        "rating": 6.5
+    },
+    {
+        "actor": "Manuel Garcia-Rulfo",
+        "rating": 6.5
+    },
+    {
+        "actor": "Timothy Olyphant",
+        "rating": 6.5
+    },
+    {
+        "actor": "Christopher Mintz-Plasse",
+        "rating": 6.5
+    },
+    {
+        "actor": "Deborah Kara Unger",
+        "rating": 6.5
+    },
+    {
+        "actor": "Lorna Raver",
+        "rating": 6.5
+    },
+    {
+        "actor": "Alain Chabat",
+        "rating": 6.5
+    },
+    {
+        "actor": "Christopher Campbell",
+        "rating": 6.5
+    },
+    {
+        "actor": "Joy Behar",
+        "rating": 6.5
+    },
+    {
+        "actor": "Miles Heizer",
+        "rating": 6.5
+    },
+    {
+        "actor": "Emily Meade",
+        "rating": 6.5
+    },
+    {
+        "actor": "Dileep Rao",
+        "rating": 6.5
+    },
+    {
+        "actor": "Lena Headey",
+        "rating": 6.5
+    },
+    {
+        "actor": "Karen Abercrombie",
+        "rating": 6.5
+    },
+    {
+        "actor": "Priscilla C. Shirer",
+        "rating": 6.5
+    },
+    {
+        "actor": "Kirk Cameron",
+        "rating": 6.5
+    },
+    {
+        "actor": "Moon Bloodgood",
+        "rating": 6.5
+    },
+    {
+        "actor": "Erin Bethea",
+        "rating": 6.5
+    },
+    {
+        "actor": "Ken Bevel",
+        "rating": 6.5
+    },
+    {
+        "actor": "Stephen Dervan",
+        "rating": 6.5
+    },
+    {
+        "actor": "Dave Franco",
+        "rating": 6.5
+    },
+    {
+        "actor": "T.C. Stallings",
+        "rating": 6.5
+    },
+    {
+        "actor": "Omar Sy",
+        "rating": 6.5
+    },
+    {
+        "actor": "Mickey Rourke",
+        "rating": 6.5
+    },
+    {
+        "actor": "Anthony Hopkins",
+        "rating": 6.5
+    },
+    {
+        "actor": "Carmen Ejogo",
+        "rating": 6.5
+    },
+    {
+        "actor": "Donald Sutherland",
+        "rating": 6.5
+    },
+    {
+        "actor": "Ruth Negga",
+        "rating": 6.5
+    },
+    {
+        "actor": "Lil Rel Howery",
+        "rating": 6.5
+    },
+    {
+        "actor": "Rosie Perez",
+        "rating": 6.5
+    },
+    {
+        "actor": "Emma Nelson",
+        "rating": 6.5
+    },
+    {
+        "actor": "Scott Glenn",
+        "rating": 6.5
+    },
+    {
+        "actor": "Hayden Panettiere",
+        "rating": 6.5
+    },
+    {
+        "actor": "Max Casella",
+        "rating": 6.5
+    },
+    {
+        "actor": "Ossie Davis",
+        "rating": 6.5
+    },
+    {
+        "actor": "Christopher Lee",
+        "rating": 6.5
+    },
+    {
+        "actor": "Betty Gilpin",
+        "rating": 6.5
+    },
+    {
+        "actor": "Jake Lloyd",
+        "rating": 6.5
+    },
+    {
+        "actor": "Charles Napier",
+        "rating": 6.5
+    },
+    {
+        "actor": "Isaiah Mustafa",
+        "rating": 6.5
+    },
+    {
+        "actor": "Wayne Duvall",
+        "rating": 6.5
+    },
+    {
+        "actor": "Tika Sumpter",
+        "rating": 6.5
+    },
+    {
+        "actor": "Ed Begley Jr.",
+        "rating": 6.5
+    },
+    {
+        "actor": "James Jude Courtney",
+        "rating": 6.5
+    },
+    {
+        "actor": "Andi Matichak",
+        "rating": 6.5
+    },
+    {
+        "actor": "Judy Greer",
+        "rating": 6.5
+    },
+    {
+        "actor": "Linus Roache",
+        "rating": 6.5
+    },
+    {
+        "actor": "John Cena",
+        "rating": 6.5
+    },
+    {
+        "actor": "Andrea Riseborough",
+        "rating": 6.5
+    },
+    {
+        "actor": "Juan Pablo Raba",
+        "rating": 6.5
+    },
+    {
+        "actor": "John Gallagher Jr.",
+        "rating": 6.5
+    },
+    {
+        "actor": "Ed Kross",
+        "rating": 6.5
+    },
+    {
+        "actor": "Milla Jovovich",
+        "rating": 6.5
+    },
+    {
+        "actor": "Eric Stonestreet",
+        "rating": 6.5
+    },
+    {
+        "actor": "Anthony LaPaglia",
+        "rating": 6.5
+    },
+    {
+        "actor": "Samara Lee",
+        "rating": 6.5
+    },
+    {
+        "actor": "Miranda Otto",
+        "rating": 6.5
+    },
+    {
+        "actor": "Dylan McDermott",
+        "rating": 6.5
+    },
+    {
+        "actor": "Brad Greenquist",
+        "rating": 6.5
+    },
+    {
+        "actor": "Finley Jacobsen",
+        "rating": 6.5
+    },
+    {
+        "actor": "Tenae Downing",
+        "rating": 6.5
+    },
+    {
+        "actor": "Xavier Atkins",
+        "rating": 6.5
+    },
+    {
+        "actor": "Zach Woods",
+        "rating": 6.5
+    },
+    {
+        "actor": "Mark Lewis Jones",
+        "rating": 6.5
+    },
+    {
+        "actor": "Joel Kinnaman",
+        "rating": 6.5
+    },
+    {
+        "actor": "Yifeng Li",
+        "rating": 6.5
+    },
+    {
+        "actor": "Yunhe Yi",
+        "rating": 6.5
+    },
+    {
+        "actor": "Bingkun Cao",
+        "rating": 6.5
+    },
+    {
+        "actor": "Yijuan Li",
+        "rating": 6.5
+    },
+    {
+        "actor": "Bradley Whitford",
+        "rating": 6.5
+    },
+    {
+        "actor": "Charles Dance",
+        "rating": 6.5
+    },
+    {
+        "actor": "Kazuhiko Inoue",
+        "rating": 6.5
+    },
+    {
+        "actor": "Cara Delevingne",
+        "rating": 6.5
+    },
+    {
+        "actor": "Kevin Nealon",
+        "rating": 6.5
+    },
+    {
+        "actor": "Jennifer Aniston",
+        "rating": 6.5
+    },
+    {
+        "actor": "Ben Schwartz",
+        "rating": 6.5
+    },
+    {
+        "actor": "Sylvester Stallone",
+        "rating": 6.49
+    },
+    {
+        "actor": "Liam Hemsworth",
+        "rating": 6.48
+    },
+    {
+        "actor": "Ki Hong Lee",
+        "rating": 6.47
+    },
+    {
+        "actor": "Leigh Whannell",
+        "rating": 6.47
+    },
+    {
+        "actor": "Josh Hutcherson",
+        "rating": 6.47
+    },
+    {
+        "actor": "Elisabeth Moss",
+        "rating": 6.47
+    },
+    {
+        "actor": "Shia LaBeouf",
+        "rating": 6.47
+    },
+    {
+        "actor": "John Hannah",
+        "rating": 6.47
+    },
+    {
+        "actor": "Scarlett Johansson",
+        "rating": 6.46
+    },
+    {
+        "actor": "Liv Tyler",
+        "rating": 6.45
+    },
+    {
+        "actor": "Naomi Watts",
+        "rating": 6.45
+    },
+    {
+        "actor": "Pilou Asb\u00e6k",
+        "rating": 6.45
+    },
+    {
+        "actor": "Samara Weaving",
+        "rating": 6.45
+    },
+    {
+        "actor": "Joseph Julian Soria",
+        "rating": 6.45
+    },
+    {
+        "actor": "Jeremy Ray Taylor",
+        "rating": 6.45
+    },
+    {
+        "actor": "Fran\u00e7ois Berl\u00e9and",
+        "rating": 6.45
+    },
+    {
+        "actor": "George Clooney",
+        "rating": 6.45
+    },
+    {
+        "actor": "Freddie Highmore",
+        "rating": 6.45
+    },
+    {
+        "actor": "Cliff Curtis",
+        "rating": 6.45
+    },
+    {
+        "actor": "Jack Reynor",
+        "rating": 6.43
+    },
+    {
+        "actor": "Jeff Daniels",
+        "rating": 6.43
+    },
+    {
+        "actor": "Cary Elwes",
+        "rating": 6.42
+    },
+    {
+        "actor": "Sam Worthington",
+        "rating": 6.42
+    },
+    {
+        "actor": "Clu Gulager",
+        "rating": 6.4
+    },
+    {
+        "actor": "Kristen Wiig",
+        "rating": 6.4
+    },
+    {
+        "actor": "Dash Mihok",
+        "rating": 6.4
+    },
+    {
+        "actor": "Rocci Williams",
+        "rating": 6.4
+    },
+    {
+        "actor": "Leslie Jones",
+        "rating": 6.4
+    },
+    {
+        "actor": "Roger Bart",
+        "rating": 6.4
+    },
+    {
+        "actor": "Topher Grace",
+        "rating": 6.4
+    },
+    {
+        "actor": "Jada Pinkett Smith",
+        "rating": 6.4
+    },
+    {
+        "actor": "Zach Gilford",
+        "rating": 6.4
+    },
+    {
+        "actor": "CJ Adams",
+        "rating": 6.4
+    },
+    {
+        "actor": "Kiele Sanchez",
+        "rating": 6.4
+    },
+    {
+        "actor": "Ben Stiller",
+        "rating": 6.4
+    },
+    {
+        "actor": "Marion Cotillard",
+        "rating": 6.4
+    },
+    {
+        "actor": "Donnie Wahlberg",
+        "rating": 6.4
+    },
+    {
+        "actor": "Rebel Wilson",
+        "rating": 6.4
+    },
+    {
+        "actor": "Shawnee Smith",
+        "rating": 6.4
+    },
+    {
+        "actor": "Damon Wayans Jr.",
+        "rating": 6.4
+    },
+    {
+        "actor": "Beau Bridges",
+        "rating": 6.4
+    },
+    {
+        "actor": "S\u00f4ta Fukushi",
+        "rating": 6.4
+    },
+    {
+        "actor": "Raffey Cassidy",
+        "rating": 6.4
+    },
+    {
+        "actor": "Kid Cudi",
+        "rating": 6.4
+    },
+    {
+        "actor": "Chris Klein",
+        "rating": 6.4
+    },
+    {
+        "actor": "Katherine Waterston",
+        "rating": 6.4
+    },
+    {
+        "actor": "Nick Swardson",
+        "rating": 6.4
+    },
+    {
+        "actor": "Hana Sugisaki",
+        "rating": 6.4
+    },
+    {
+        "actor": "Zachary Levi",
+        "rating": 6.4
+    },
+    {
+        "actor": "Matilda Anna Ingrid Lutz",
+        "rating": 6.4
+    },
+    {
+        "actor": "Brittany Snow",
+        "rating": 6.4
+    },
+    {
+        "actor": "Britt Robertson",
+        "rating": 6.4
+    },
+    {
+        "actor": "Radha Mitchell",
+        "rating": 6.4
+    },
+    {
+        "actor": "Jai Courtney",
+        "rating": 6.4
+    },
+    {
+        "actor": "Ry\u00f4 Yoshizawa",
+        "rating": 6.4
+    },
+    {
+        "actor": "Richard Roundtree",
+        "rating": 6.4
+    },
+    {
+        "actor": "Josh Duhamel",
+        "rating": 6.4
+    },
+    {
+        "actor": "Tony Shalhoub",
+        "rating": 6.4
+    },
+    {
+        "actor": "Erina Mano",
+        "rating": 6.4
+    },
+    {
+        "actor": "Karl Urban",
+        "rating": 6.4
+    },
+    {
+        "actor": "Y\u00fb Aoi",
+        "rating": 6.4
+    },
+    {
+        "actor": "Jessica Boone",
+        "rating": 6.4
+    },
+    {
+        "actor": "Ayano Fukuda",
+        "rating": 6.4
+    },
+    {
+        "actor": "Jerry O'Connell",
+        "rating": 6.4
+    },
+    {
+        "actor": "Guillaume Bouch\u00e8de",
+        "rating": 6.4
+    },
+    {
+        "actor": "Arata Furuta",
+        "rating": 6.4
+    },
+    {
+        "actor": "Vincent Colombe",
+        "rating": 6.4
+    },
+    {
+        "actor": "Justice Smith",
+        "rating": 6.4
+    },
+    {
+        "actor": "Celia Weston",
+        "rating": 6.4
+    },
+    {
+        "actor": "Will Forte",
+        "rating": 6.4
+    },
+    {
+        "actor": "Choi Min-sik",
+        "rating": 6.4
+    },
+    {
+        "actor": "Roger Dale Floyd",
+        "rating": 6.4
+    },
+    {
+        "actor": "Amr Waked",
+        "rating": 6.4
+    },
+    {
+        "actor": "Nina Dobrev",
+        "rating": 6.4
+    },
+    {
+        "actor": "Jonny Weston",
+        "rating": 6.4
+    },
+    {
+        "actor": "Sofia Black-D'Elia",
+        "rating": 6.4
+    },
+    {
+        "actor": "Sam Lerner",
+        "rating": 6.4
+    },
+    {
+        "actor": "Allen Evangelista",
+        "rating": 6.4
+    },
+    {
+        "actor": "Israel Broussard",
+        "rating": 6.4
+    },
+    {
+        "actor": "Jessica Rothe",
+        "rating": 6.4
+    },
+    {
+        "actor": "Frederick Schmidt",
+        "rating": 6.4
+    },
+    {
+        "actor": "Mark Wahlberg",
+        "rating": 6.4
+    },
+    {
+        "actor": "Mike Colter",
+        "rating": 6.4
+    },
+    {
+        "actor": "Danny Huston",
+        "rating": 6.4
+    },
+    {
+        "actor": "Kevin Janssens",
+        "rating": 6.4
+    },
+    {
+        "actor": "Camila Morrone",
+        "rating": 6.4
+    },
+    {
+        "actor": "Alice Braga",
+        "rating": 6.38
+    },
+    {
+        "actor": "Jennifer Lopez",
+        "rating": 6.38
+    },
+    {
+        "actor": "Kathryn Newton",
+        "rating": 6.37
+    },
+    {
+        "actor": "Chlo\u00eb Grace Moretz",
+        "rating": 6.36
+    },
+    {
+        "actor": "Ashton Sanders",
+        "rating": 6.35
+    },
+    {
+        "actor": "Jodie Foster",
+        "rating": 6.35
+    },
+    {
+        "actor": "Abbie Cornish",
+        "rating": 6.35
+    },
+    {
+        "actor": "Danny McBride",
+        "rating": 6.35
+    },
+    {
+        "actor": "John Malkovich",
+        "rating": 6.35
+    },
+    {
+        "actor": "Kevin Hart",
+        "rating": 6.35
+    },
+    {
+        "actor": "Alexandra Shipp",
+        "rating": 6.35
+    },
+    {
+        "actor": "Jason Segel",
+        "rating": 6.35
+    },
+    {
+        "actor": "Maria Bello",
+        "rating": 6.35
+    },
+    {
+        "actor": "Will Arnett",
+        "rating": 6.33
+    },
+    {
+        "actor": "Dwayne Johnson",
+        "rating": 6.33
+    },
+    {
+        "actor": "Arsher Ali",
+        "rating": 6.3
+    },
+    {
+        "actor": "Lyubov Aksyonova",
+        "rating": 6.3
+    },
+    {
+        "actor": "Kristanna Loken",
+        "rating": 6.3
+    },
+    {
+        "actor": "Jung-min Park",
+        "rating": 6.3
+    },
+    {
+        "actor": "Michael Jai White",
+        "rating": 6.3
+    },
+    {
+        "actor": "Jae-hong Ahn",
+        "rating": 6.3
+    },
+    {
+        "actor": "Lee Jehoon",
+        "rating": 6.3
+    },
+    {
+        "actor": "Sarah Dumont",
+        "rating": 6.3
+    },
+    {
+        "actor": "Daniel Franzese",
+        "rating": 6.3
+    },
+    {
+        "actor": "Jeff Branson",
+        "rating": 6.3
+    },
+    {
+        "actor": "Sarah Butler",
+        "rating": 6.3
+    },
+    {
+        "actor": "Claire Danes",
+        "rating": 6.3
+    },
+    {
+        "actor": "Nick Stahl",
+        "rating": 6.3
+    },
+    {
+        "actor": "Bruce Greenwood",
+        "rating": 6.3
+    },
+    {
+        "actor": "Joey Morgan",
+        "rating": 6.3
+    },
+    {
+        "actor": "Logan Miller",
+        "rating": 6.3
+    },
+    {
+        "actor": "Amy Ryan",
+        "rating": 6.3
+    },
+    {
+        "actor": "Juliette Binoche",
+        "rating": 6.3
+    },
+    {
+        "actor": "Takeshi Kitano",
+        "rating": 6.3
+    },
+    {
+        "actor": "Sam Troughton",
+        "rating": 6.3
+    },
+    {
+        "actor": "Bryan White",
+        "rating": 6.3
+    },
+    {
+        "actor": "Max Martini",
+        "rating": 6.3
+    },
+    {
+        "actor": "Ryan Lee",
+        "rating": 6.3
+    },
+    {
+        "actor": "Geena Davis",
+        "rating": 6.3
+    },
+    {
+        "actor": "Ryan Stiles",
+        "rating": 6.3
+    },
+    {
+        "actor": "Karan Soni",
+        "rating": 6.3
+    },
+    {
+        "actor": "Misha Osherovich",
+        "rating": 6.3
+    },
+    {
+        "actor": "Gary Busey",
+        "rating": 6.3
+    },
+    {
+        "actor": "Regina Hall",
+        "rating": 6.3
+    },
+    {
+        "actor": "Rub\u00e9n Blades",
+        "rating": 6.3
+    },
+    {
+        "actor": "Milos Bikovic",
+        "rating": 6.3
+    },
+    {
+        "actor": "Celeste O'Connor",
+        "rating": 6.3
+    },
+    {
+        "actor": "Eddie Deezen",
+        "rating": 6.3
+    },
+    {
+        "actor": "Michelle Yeoh",
+        "rating": 6.3
+    },
+    {
+        "actor": "Frank Grillo",
+        "rating": 6.3
+    },
+    {
+        "actor": "Jack O'Connell",
+        "rating": 6.3
+    },
+    {
+        "actor": "Robert James-Collier",
+        "rating": 6.3
+    },
+    {
+        "actor": "Pharrell Williams",
+        "rating": 6.3
+    },
+    {
+        "actor": "Rashida Jones",
+        "rating": 6.3
+    },
+    {
+        "actor": "Jake T. Austin",
+        "rating": 6.3
+    },
+    {
+        "actor": "Cameron Seely",
+        "rating": 6.3
+    },
+    {
+        "actor": "Daniel Wu",
+        "rating": 6.3
+    },
+    {
+        "actor": "Carlinhos Brown",
+        "rating": 6.3
+    },
+    {
+        "actor": "Kristin Chenoweth",
+        "rating": 6.3
+    },
+    {
+        "actor": "Jessica Barth",
+        "rating": 6.3
+    },
+    {
+        "actor": "Miranda Cosgrove",
+        "rating": 6.3
+    },
+    {
+        "actor": "Trey Parker",
+        "rating": 6.3
+    },
+    {
+        "actor": "Thomas Brodie-Sangster",
+        "rating": 6.3
+    },
+    {
+        "actor": "Andrea Corr",
+        "rating": 6.3
+    },
+    {
+        "actor": "Jessalyn Gilsig",
+        "rating": 6.3
+    },
+    {
+        "actor": "Ill-Young Kim",
+        "rating": 6.3
+    },
+    {
+        "actor": "Jonathan Chan-Pensley",
+        "rating": 6.3
+    },
+    {
+        "actor": "Joon Lee",
+        "rating": 6.3
+    },
+    {
+        "actor": "Rain",
+        "rating": 6.3
+    },
+    {
+        "actor": "Odeya Rush",
+        "rating": 6.3
+    },
+    {
+        "actor": "Colin Farrell",
+        "rating": 6.3
+    },
+    {
+        "actor": "Eddie Murphy",
+        "rating": 6.3
+    },
+    {
+        "actor": "Jimmy Kimmel",
+        "rating": 6.3
+    },
+    {
+        "actor": "Amber Armstrong",
+        "rating": 6.3
+    },
+    {
+        "actor": "Mark Fredrichs",
+        "rating": 6.3
+    },
+    {
+        "actor": "Micah Sloat",
+        "rating": 6.3
+    },
+    {
+        "actor": "Katie Featherston",
+        "rating": 6.3
+    },
+    {
+        "actor": "Danielle Nicolet",
+        "rating": 6.3
+    },
+    {
+        "actor": "Mia Wasikowska",
+        "rating": 6.3
+    },
+    {
+        "actor": "Kevin Peter Hall",
+        "rating": 6.3
+    },
+    {
+        "actor": "Jason Statham",
+        "rating": 6.28
+    },
+    {
+        "actor": "Julianne Moore",
+        "rating": 6.27
+    },
+    {
+        "actor": "Selena Gomez",
+        "rating": 6.27
+    },
+    {
+        "actor": "Corey Burton",
+        "rating": 6.27
+    },
+    {
+        "actor": "Kaya Scodelario",
+        "rating": 6.27
+    },
+    {
+        "actor": "Maggie Gyllenhaal",
+        "rating": 6.25
+    },
+    {
+        "actor": "Rafe Spall",
+        "rating": 6.25
+    },
+    {
+        "actor": "Naomie Harris",
+        "rating": 6.25
+    },
+    {
+        "actor": "Peter Sarsgaard",
+        "rating": 6.25
+    },
+    {
+        "actor": "Burt Young",
+        "rating": 6.25
+    },
+    {
+        "actor": "Lin Shaye",
+        "rating": 6.25
+    },
+    {
+        "actor": "Alex Vincent",
+        "rating": 6.25
+    },
+    {
+        "actor": "David Spade",
+        "rating": 6.23
+    },
+    {
+        "actor": "Dan Stevens",
+        "rating": 6.23
+    },
+    {
+        "actor": "Ike Barinholtz",
+        "rating": 6.23
+    },
+    {
+        "actor": "Isabelle N\u00e9lisse",
+        "rating": 6.2
+    },
+    {
+        "actor": "Tangie Ambrose",
+        "rating": 6.2
+    },
+    {
+        "actor": "Megan Charpentier",
+        "rating": 6.2
+    },
+    {
+        "actor": "Cedric the Entertainer",
+        "rating": 6.2
+    },
+    {
+        "actor": "Francesc Orella",
+        "rating": 6.2
+    },
+    {
+        "actor": "Nene",
+        "rating": 6.2
+    },
+    {
+        "actor": "Leonardo Sbaraglia",
+        "rating": 6.2
+    },
+    {
+        "actor": "Marta Etura",
+        "rating": 6.2
+    },
+    {
+        "actor": "Jonah Bobo",
+        "rating": 6.2
+    },
+    {
+        "actor": "Bruce Willis",
+        "rating": 6.2
+    },
+    {
+        "actor": "Queen Latifah",
+        "rating": 6.2
+    },
+    {
+        "actor": "Dax Shepard",
+        "rating": 6.2
+    },
+    {
+        "actor": "Thomas Haden Church",
+        "rating": 6.2
+    },
+    {
+        "actor": "William Lee Scott",
+        "rating": 6.2
+    },
+    {
+        "actor": "Kathrine Thorborg Johansen",
+        "rating": 6.2
+    },
+    {
+        "actor": "Josh Hartnett",
+        "rating": 6.2
+    },
+    {
+        "actor": "Austin Abrams",
+        "rating": 6.2
+    },
+    {
+        "actor": "Gabriel Rush",
+        "rating": 6.2
+    },
+    {
+        "actor": "Michael Garza",
+        "rating": 6.2
+    },
+    {
+        "actor": "Zoe Margaret Colletti",
+        "rating": 6.2
+    },
+    {
+        "actor": "Ross Anderson",
+        "rating": 6.2
+    },
+    {
+        "actor": "Lara Robinson",
+        "rating": 6.2
+    },
+    {
+        "actor": "Suraj Sharma",
+        "rating": 6.2
+    },
+    {
+        "actor": "Phi Vu",
+        "rating": 6.2
+    },
+    {
+        "actor": "Giacomo Baessato",
+        "rating": 6.2
+    },
+    {
+        "actor": "Frank B. Moore",
+        "rating": 6.2
+    },
+    {
+        "actor": "Dave Sheridan",
+        "rating": 6.2
+    },
+    {
+        "actor": "Carmen Electra",
+        "rating": 6.2
+    },
+    {
+        "actor": "Amber Valletta",
+        "rating": 6.2
+    },
+    {
+        "actor": "Michael Fairman",
+        "rating": 6.2
+    },
+    {
+        "actor": "Wenwen Han",
+        "rating": 6.2
+    },
+    {
+        "actor": "Robert Knepper",
+        "rating": 6.2
+    },
+    {
+        "actor": "Jaden Smith",
+        "rating": 6.2
+    },
+    {
+        "actor": "Fran\u00e7ois Civil",
+        "rating": 6.2
+    },
+    {
+        "actor": "Edwin Hodge",
+        "rating": 6.2
+    },
+    {
+        "actor": "Emily Mortimer",
+        "rating": 6.2
+    },
+    {
+        "actor": "Perdita Weeks",
+        "rating": 6.2
+    },
+    {
+        "actor": "Peter Falk",
+        "rating": 6.2
+    },
+    {
+        "actor": "Charlotte Vega",
+        "rating": 6.2
+    },
+    {
+        "actor": "Nick Kroll",
+        "rating": 6.2
+    },
+    {
+        "actor": "Thomas Middleditch",
+        "rating": 6.2
+    },
+    {
+        "actor": "Natalia Reyes",
+        "rating": 6.2
+    },
+    {
+        "actor": "Gordon Alexander",
+        "rating": 6.2
+    },
+    {
+        "actor": "Christopher Bomford",
+        "rating": 6.2
+    },
+    {
+        "actor": "Vincent Cassel",
+        "rating": 6.2
+    },
+    {
+        "actor": "Alex Fisher",
+        "rating": 6.2
+    },
+    {
+        "actor": "Peter Clayton-Luce",
+        "rating": 6.2
+    },
+    {
+        "actor": "Scott Speedman",
+        "rating": 6.2
+    },
+    {
+        "actor": "Federico Ielapi",
+        "rating": 6.2
+    },
+    {
+        "actor": "Angus Macfadyen",
+        "rating": 6.2
+    },
+    {
+        "actor": "Bahar Soomekh",
+        "rating": 6.2
+    },
+    {
+        "actor": "Holliday Grainger",
+        "rating": 6.2
+    },
+    {
+        "actor": "Steve Coogan",
+        "rating": 6.2
+    },
+    {
+        "actor": "Rocco Papaleo",
+        "rating": 6.2
+    },
+    {
+        "actor": "Robin Williams",
+        "rating": 6.2
+    },
+    {
+        "actor": "Sarunyu Wongkrachang",
+        "rating": 6.2
+    },
+    {
+        "actor": "Sorapong Chatree",
+        "rating": 6.2
+    },
+    {
+        "actor": "Primorata Dejudom",
+        "rating": 6.2
+    },
+    {
+        "actor": "Massimo Ceccherini",
+        "rating": 6.2
+    },
+    {
+        "actor": "Lara Flynn Boyle",
+        "rating": 6.2
+    },
+    {
+        "actor": "Rip Torn",
+        "rating": 6.2
+    },
+    {
+        "actor": "Edith Haagenrud-Sande",
+        "rating": 6.2
+    },
+    {
+        "actor": "Ane Dahl Torp",
+        "rating": 6.2
+    },
+    {
+        "actor": "Mira Sorvino",
+        "rating": 6.2
+    },
+    {
+        "actor": "Ken Watanabe",
+        "rating": 6.2
+    },
+    {
+        "actor": "Natalie Morales",
+        "rating": 6.2
+    },
+    {
+        "actor": "Kristoffer Joner",
+        "rating": 6.2
+    },
+    {
+        "actor": "Barry Pepper",
+        "rating": 6.2
+    },
+    {
+        "actor": "Hans Matheson",
+        "rating": 6.2
+    },
+    {
+        "actor": "Zawe Ashton",
+        "rating": 6.2
+    },
+    {
+        "actor": "Aidan Gillen",
+        "rating": 6.2
+    },
+    {
+        "actor": "Paddy Considine",
+        "rating": 6.2
+    },
+    {
+        "actor": "Ulrich Thomsen",
+        "rating": 6.2
+    },
+    {
+        "actor": "Eric Christian Olsen",
+        "rating": 6.2
+    },
+    {
+        "actor": "Rowan Atkinson",
+        "rating": 6.2
+    },
+    {
+        "actor": "Adam James",
+        "rating": 6.2
+    },
+    {
+        "actor": "Ashton Kutcher",
+        "rating": 6.2
+    },
+    {
+        "actor": "Morfydd Clark",
+        "rating": 6.2
+    },
+    {
+        "actor": "Kevin Eldon",
+        "rating": 6.2
+    },
+    {
+        "actor": "Rory J. Saper",
+        "rating": 6.2
+    },
+    {
+        "actor": "Christian Stevens",
+        "rating": 6.2
+    },
+    {
+        "actor": "Madeleine Arthur",
+        "rating": 6.2
+    },
+    {
+        "actor": "Elliot Knight",
+        "rating": 6.2
+    },
+    {
+        "actor": "Michael Eklund",
+        "rating": 6.2
+    },
+    {
+        "actor": "Miche\u00e1l Richardson",
+        "rating": 6.2
+    },
+    {
+        "actor": "Chris Webster",
+        "rating": 6.2
+    },
+    {
+        "actor": "Ben Feldman",
+        "rating": 6.2
+    },
+    {
+        "actor": "Rose Byrne",
+        "rating": 6.18
+    },
+    {
+        "actor": "Irina Starshenbaum",
+        "rating": 6.15
+    },
+    {
+        "actor": "Alec Baldwin",
+        "rating": 6.15
+    },
+    {
+        "actor": "Alicia Vikander",
+        "rating": 6.15
+    },
+    {
+        "actor": "Harris Dickinson",
+        "rating": 6.15
+    },
+    {
+        "actor": "Alexander Petrov",
+        "rating": 6.15
+    },
+    {
+        "actor": "Molly Gordon",
+        "rating": 6.15
+    },
+    {
+        "actor": "Cung Le",
+        "rating": 6.15
+    },
+    {
+        "actor": "Jim Carter",
+        "rating": 6.15
+    },
+    {
+        "actor": "Amber Heard",
+        "rating": 6.15
+    },
+    {
+        "actor": "Jenny Slate",
+        "rating": 6.15
+    },
+    {
+        "actor": "Henry Rollins",
+        "rating": 6.15
+    },
+    {
+        "actor": "Ralph Fiennes",
+        "rating": 6.14
+    },
+    {
+        "actor": "Shannon Elizabeth",
+        "rating": 6.13
+    },
+    {
+        "actor": "Malin Akerman",
+        "rating": 6.1
+    },
+    {
+        "actor": "Winslow Fegley",
+        "rating": 6.1
+    },
+    {
+        "actor": "Clive Owen",
+        "rating": 6.1
+    },
+    {
+        "actor": "Ophelia Lovibond",
+        "rating": 6.1
+    },
+    {
+        "actor": "Ben Barnes",
+        "rating": 6.1
+    },
+    {
+        "actor": "Alex Winter",
+        "rating": 6.1
+    },
+    {
+        "actor": "Dee Wallace",
+        "rating": 6.1
+    },
+    {
+        "actor": "Madelyn Miranda",
+        "rating": 6.1
+    },
+    {
+        "actor": "Malachi Barton",
+        "rating": 6.1
+    },
+    {
+        "actor": "Jerry Seinfeld",
+        "rating": 6.1
+    },
+    {
+        "actor": "Matthew Broderick",
+        "rating": 6.1
+    },
+    {
+        "actor": "Ioan Gruffudd",
+        "rating": 6.1
+    },
+    {
+        "actor": "Nicholas Hoult",
+        "rating": 6.1
+    },
+    {
+        "actor": "Richard Roxburgh",
+        "rating": 6.1
+    },
+    {
+        "actor": "Larry the Cable Guy",
+        "rating": 6.1
+    },
+    {
+        "actor": "Kristen Schaal",
+        "rating": 6.1
+    },
+    {
+        "actor": "M. Emmet Walsh",
+        "rating": 6.1
+    },
+    {
+        "actor": "Jimmi Simpson",
+        "rating": 6.1
+    },
+    {
+        "actor": "Gabriel Bateman",
+        "rating": 6.1
+    },
+    {
+        "actor": "Caren Pistorius",
+        "rating": 6.1
+    },
+    {
+        "actor": "Billy Green Bush",
+        "rating": 6.1
+    },
+    {
+        "actor": "Scott Grimes",
+        "rating": 6.1
+    },
+    {
+        "actor": "Sterling K. Brown",
+        "rating": 6.1
+    },
+    {
+        "actor": "Danny Pintauro",
+        "rating": 6.1
+    },
+    {
+        "actor": "Nat Wolff",
+        "rating": 6.1
+    },
+    {
+        "actor": "Pihla Viitala",
+        "rating": 6.1
+    },
+    {
+        "actor": "Adriana Barraza",
+        "rating": 6.1
+    },
+    {
+        "actor": "Wallace Shawn",
+        "rating": 6.1
+    },
+    {
+        "actor": "Bill Pullman",
+        "rating": 6.1
+    },
+    {
+        "actor": "Jeffrey Dean Morgan",
+        "rating": 6.1
+    },
+    {
+        "actor": "Wagner Moura",
+        "rating": 6.1
+    },
+    {
+        "actor": "Br\u00edan F. O'Byrne",
+        "rating": 6.1
+    },
+    {
+        "actor": "Daniel Hugh Kelly",
+        "rating": 6.1
+    },
+    {
+        "actor": "Gemma Arterton",
+        "rating": 6.1
+    },
+    {
+        "actor": "Sergio Peris-Mencheta",
+        "rating": 6.1
+    },
+    {
+        "actor": "Stefanie Scott",
+        "rating": 6.1
+    },
+    {
+        "actor": "Sugar Lyn Beard",
+        "rating": 6.1
+    },
+    {
+        "actor": "Iris Apatow",
+        "rating": 6.1
+    },
+    {
+        "actor": "Alistair Abell",
+        "rating": 6.1
+    },
+    {
+        "actor": "Jurnee Smollett",
+        "rating": 6.1
+    },
+    {
+        "actor": "Jeffrey Men",
+        "rating": 6.1
+    },
+    {
+        "actor": "Natalya Rudakova",
+        "rating": 6.1
+    },
+    {
+        "actor": "Morgan Allen",
+        "rating": 6.1
+    },
+    {
+        "actor": "Lil Woods",
+        "rating": 6.1
+    },
+    {
+        "actor": "Jihae",
+        "rating": 6.1
+    },
+    {
+        "actor": "Craig Robinson",
+        "rating": 6.1
+    },
+    {
+        "actor": "Christopher Stone",
+        "rating": 6.1
+    },
+    {
+        "actor": "Imogen Poots",
+        "rating": 6.1
+    },
+    {
+        "actor": "Afiya Bennett",
+        "rating": 6.1
+    },
+    {
+        "actor": "Danika Yarosh",
+        "rating": 6.1
+    },
+    {
+        "actor": "Oscar Steer",
+        "rating": 6.1
+    },
+    {
+        "actor": "Cobie Smulders",
+        "rating": 6.1
+    },
+    {
+        "actor": "Robert Sheehan",
+        "rating": 6.1
+    },
+    {
+        "actor": "Daniel Craig",
+        "rating": 6.08
+    },
+    {
+        "actor": "Ving Rhames",
+        "rating": 6.08
+    },
+    {
+        "actor": "Linda Cardellini",
+        "rating": 6.07
+    },
+    {
+        "actor": "Jamie Lee Curtis",
+        "rating": 6.07
+    },
+    {
+        "actor": "Laurie Holden",
+        "rating": 6.05
+    },
+    {
+        "actor": "Chandler Canterbury",
+        "rating": 6.05
+    },
+    {
+        "actor": "Zoey Deutch",
+        "rating": 6.05
+    },
+    {
+        "actor": "Sean Bean",
+        "rating": 6.05
+    },
+    {
+        "actor": "Jet Li",
+        "rating": 6.05
+    },
+    {
+        "actor": "Hugh Laurie",
+        "rating": 6.05
+    },
+    {
+        "actor": "Ren\u00e9e Zellweger",
+        "rating": 6.05
+    },
+    {
+        "actor": "Pedro Pascal",
+        "rating": 6.05
+    },
+    {
+        "actor": "Tyrese Gibson",
+        "rating": 6.03
+    },
+    {
+        "actor": "Dermot Mulroney",
+        "rating": 6.03
+    },
+    {
+        "actor": "Kate Beckinsale",
+        "rating": 6.03
+    },
+    {
+        "actor": "Tobin Bell",
+        "rating": 6.02
+    },
+    {
+        "actor": "Yeri Han",
+        "rating": 6
+    },
+    {
+        "actor": "Tim Conway",
+        "rating": 6
+    },
+    {
+        "actor": "Josh Lucas",
+        "rating": 6
+    },
+    {
+        "actor": "Ralph Ineson",
+        "rating": 6
+    },
+    {
+        "actor": "Elisha Cuthbert",
+        "rating": 6
+    },
+    {
+        "actor": "Hilary Swank",
+        "rating": 6
+    },
+    {
+        "actor": "Mark Rolston",
+        "rating": 6
+    },
+    {
+        "actor": "Melissa George",
+        "rating": 6
+    },
+    {
+        "actor": "Jesse James",
+        "rating": 6
+    },
+    {
+        "actor": "Elizabeth Mitchell",
+        "rating": 6
+    },
+    {
+        "actor": "Jimmy Bennett",
+        "rating": 6
+    },
+    {
+        "actor": "Jack McBrayer",
+        "rating": 6
+    },
+    {
+        "actor": "Joe Manganiello",
+        "rating": 6
+    },
+    {
+        "actor": "Ron Funches",
+        "rating": 6
+    },
+    {
+        "actor": "Mary Elizabeth Winstead",
+        "rating": 6
+    },
+    {
+        "actor": "Eva Longoria",
+        "rating": 6
+    },
+    {
+        "actor": "Demi Lovato",
+        "rating": 6
+    },
+    {
+        "actor": "Priscilla Quintana",
+        "rating": 6
+    },
+    {
+        "actor": "Lindsay Crouse",
+        "rating": 6
+    },
+    {
+        "actor": "Jonathan Majors",
+        "rating": 6
+    },
+    {
+        "actor": "Jing Wu",
+        "rating": 6
+    },
+    {
+        "actor": "Tim Hill",
+        "rating": 6
+    },
+    {
+        "actor": "Ikue \u00d4tani",
+        "rating": 6
+    },
+    {
+        "actor": "Mayuki Makiguchi",
+        "rating": 6
+    },
+    {
+        "actor": "Y\u00fbki Kaji",
+        "rating": 6
+    },
+    {
+        "actor": "Celina Jade",
+        "rating": 6
+    },
+    {
+        "actor": "Gang Wu",
+        "rating": 6
+    },
+    {
+        "actor": "Litefoot",
+        "rating": 6
+    },
+    {
+        "actor": "Hal Scardino",
+        "rating": 6
+    },
+    {
+        "actor": "Ryan Guzman",
+        "rating": 6
+    },
+    {
+        "actor": "Briana Evigan",
+        "rating": 6
+    },
+    {
+        "actor": "Adam Sevani",
+        "rating": 6
+    },
+    {
+        "actor": "Misha Gabriel Hamilton",
+        "rating": 6
+    },
+    {
+        "actor": "Dee Bradley Baker",
+        "rating": 6
+    },
+    {
+        "actor": "Laura Linney",
+        "rating": 6
+    },
+    {
+        "actor": "Stephen Amell",
+        "rating": 6
+    },
+    {
+        "actor": "Chuxiao Qu",
+        "rating": 6
+    },
+    {
+        "actor": "Guangjie Li",
+        "rating": 6
+    },
+    {
+        "actor": "Annabelle Wallis",
+        "rating": 6
+    },
+    {
+        "actor": "Man-Tat Ng",
+        "rating": 6
+    },
+    {
+        "actor": "Taron Egerton",
+        "rating": 6
+    },
+    {
+        "actor": "\u00d3lafur Darri \u00d3lafsson",
+        "rating": 6
+    },
+    {
+        "actor": "Rose Leslie",
+        "rating": 6
+    },
+    {
+        "actor": "John Turturro",
+        "rating": 6
+    },
+    {
+        "actor": "Terence Stamp",
+        "rating": 6
+    },
+    {
+        "actor": "Han Hyo-joo",
+        "rating": 6
+    },
+    {
+        "actor": "Rufus Sewell",
+        "rating": 6
+    },
+    {
+        "actor": "Myleene Klass",
+        "rating": 6
+    },
+    {
+        "actor": "Robin Howard",
+        "rating": 6
+    },
+    {
+        "actor": "Matt McKenna",
+        "rating": 6
+    },
+    {
+        "actor": "Jaime FitzSimons",
+        "rating": 6
+    },
+    {
+        "actor": "Jung Woo-sung",
+        "rating": 6
+    },
+    {
+        "actor": "August Schellenberg",
+        "rating": 6
+    },
+    {
+        "actor": "Jayne Atkinson",
+        "rating": 6
+    },
+    {
+        "actor": "Adam Brody",
+        "rating": 6
+    },
+    {
+        "actor": "Jason James Richter",
+        "rating": 6
+    },
+    {
+        "actor": "Lori Petty",
+        "rating": 6
+    },
+    {
+        "actor": "Eugenio Derbez",
+        "rating": 6
+    },
+    {
+        "actor": "Rica Matsumoto",
+        "rating": 6
+    },
+    {
+        "actor": "Jackie Chan",
+        "rating": 5.98
+    },
+    {
+        "actor": "Chris Rock",
+        "rating": 5.97
+    },
+    {
+        "actor": "Hayden Christensen",
+        "rating": 5.95
+    },
+    {
+        "actor": "Adam Sandler",
+        "rating": 5.95
+    },
+    {
+        "actor": "Alfre Woodard",
+        "rating": 5.95
+    },
+    {
+        "actor": "Brenton Thwaites",
+        "rating": 5.95
+    },
+    {
+        "actor": "Rinal Mukhametov",
+        "rating": 5.95
+    },
+    {
+        "actor": "Joely Richardson",
+        "rating": 5.95
+    },
+    {
+        "actor": "Fred Willard",
+        "rating": 5.95
+    },
+    {
+        "actor": "Trevante Rhodes",
+        "rating": 5.95
+    },
+    {
+        "actor": "Kath Soucie",
+        "rating": 5.9
+    },
+    {
+        "actor": "Melanie Chartoff",
+        "rating": 5.9
+    },
+    {
+        "actor": "Ashley Eckstein",
+        "rating": 5.9
+    },
+    {
+        "actor": "James Arnold Taylor",
+        "rating": 5.9
+    },
+    {
+        "actor": "Portia Doubleday",
+        "rating": 5.9
+    },
+    {
+        "actor": "Aubrey Plaza",
+        "rating": 5.9
+    },
+    {
+        "actor": "Micheal Ward",
+        "rating": 5.9
+    },
+    {
+        "actor": "Kumail Nanjiani",
+        "rating": 5.9
+    },
+    {
+        "actor": "Ludi Lin",
+        "rating": 5.9
+    },
+    {
+        "actor": "Karla-Simone Spence",
+        "rating": 5.9
+    },
+    {
+        "actor": "Tadao Takashima",
+        "rating": 5.9
+    },
+    {
+        "actor": "Sarah Douglas",
+        "rating": 5.9
+    },
+    {
+        "actor": "Carlos Alazraqui",
+        "rating": 5.9
+    },
+    {
+        "actor": "Melinda Clarke",
+        "rating": 5.9
+    },
+    {
+        "actor": "Paula Abdul",
+        "rating": 5.9
+    },
+    {
+        "actor": "Masey McLain",
+        "rating": 5.9
+    },
+    {
+        "actor": "Lew Temple",
+        "rating": 5.9
+    },
+    {
+        "actor": "Chris McGinn",
+        "rating": 5.9
+    },
+    {
+        "actor": "Gabriella Wilde",
+        "rating": 5.9
+    },
+    {
+        "actor": "Christine Cavanaugh",
+        "rating": 5.9
+    },
+    {
+        "actor": "Ben Davies",
+        "rating": 5.9
+    },
+    {
+        "actor": "Sami Bouajila",
+        "rating": 5.9
+    },
+    {
+        "actor": "Charles Grodin",
+        "rating": 5.9
+    },
+    {
+        "actor": "Cameron McKendry",
+        "rating": 5.9
+    },
+    {
+        "actor": "Krystof H\u00e1dek",
+        "rating": 5.9
+    },
+    {
+        "actor": "Lombardo Boyar",
+        "rating": 5.9
+    },
+    {
+        "actor": "Stephen Odubola",
+        "rating": 5.9
+    },
+    {
+        "actor": "Stefanie Martini",
+        "rating": 5.9
+    },
+    {
+        "actor": "Jonathan Freeman",
+        "rating": 5.9
+    },
+    {
+        "actor": "Jeff Bennett",
+        "rating": 5.9
+    },
+    {
+        "actor": "Sveva Alviti",
+        "rating": 5.9
+    },
+    {
+        "actor": "Iwan Rheon",
+        "rating": 5.9
+    },
+    {
+        "actor": "Terri Minton",
+        "rating": 5.9
+    },
+    {
+        "actor": "James Yagi",
+        "rating": 5.9
+    },
+    {
+        "actor": "Jessica Lange",
+        "rating": 5.9
+    },
+    {
+        "actor": "Gilbert Gottfried",
+        "rating": 5.9
+    },
+    {
+        "actor": "Rachel Nichols",
+        "rating": 5.9
+    },
+    {
+        "actor": "John Cusack",
+        "rating": 5.9
+    },
+    {
+        "actor": "Taraji P. Henson",
+        "rating": 5.9
+    },
+    {
+        "actor": "Simon Reynolds",
+        "rating": 5.9
+    },
+    {
+        "actor": "Dougray Scott",
+        "rating": 5.9
+    },
+    {
+        "actor": "Harry Holcombe",
+        "rating": 5.9
+    },
+    {
+        "actor": "Micah Hauptman",
+        "rating": 5.9
+    },
+    {
+        "actor": "Philip Akin",
+        "rating": 5.9
+    },
+    {
+        "actor": "Michael Keith",
+        "rating": 5.9
+    },
+    {
+        "actor": "Hermione Corfield",
+        "rating": 5.9
+    },
+    {
+        "actor": "Garret Dillahunt",
+        "rating": 5.9
+    },
+    {
+        "actor": "Kent McCord",
+        "rating": 5.9
+    },
+    {
+        "actor": "Jill Wagner",
+        "rating": 5.9
+    },
+    {
+        "actor": "Brian Quinn",
+        "rating": 5.9
+    },
+    {
+        "actor": "Sage Correa",
+        "rating": 5.9
+    },
+    {
+        "actor": "James Murray",
+        "rating": 5.9
+    },
+    {
+        "actor": "Joe Gatto",
+        "rating": 5.9
+    },
+    {
+        "actor": "Donald Pleasence",
+        "rating": 5.9
+    },
+    {
+        "actor": "Jeffrey Garcia",
+        "rating": 5.9
+    },
+    {
+        "actor": "Brandon T. Jackson",
+        "rating": 5.9
+    },
+    {
+        "actor": "John Randolph",
+        "rating": 5.9
+    },
+    {
+        "actor": "Jay Paulson",
+        "rating": 5.9
+    },
+    {
+        "actor": "Jake Abel",
+        "rating": 5.9
+    },
+    {
+        "actor": "Pat Morita",
+        "rating": 5.9
+    },
+    {
+        "actor": "Sean O'Bryan",
+        "rating": 5.9
+    },
+    {
+        "actor": "Elizabeth Daily",
+        "rating": 5.9
+    },
+    {
+        "actor": "Paz Vega",
+        "rating": 5.9
+    },
+    {
+        "actor": "Christine Elise",
+        "rating": 5.9
+    },
+    {
+        "actor": "Gerrit Graham",
+        "rating": 5.9
+    },
+    {
+        "actor": "Jenny Agutter",
+        "rating": 5.9
+    },
+    {
+        "actor": "Johnny A. Sanchez",
+        "rating": 5.9
+    },
+    {
+        "actor": "Dacre Montgomery",
+        "rating": 5.9
+    },
+    {
+        "actor": "Andy Lau",
+        "rating": 5.9
+    },
+    {
+        "actor": "Tian Jing",
+        "rating": 5.9
+    },
+    {
+        "actor": "Angus Sampson",
+        "rating": 5.9
+    },
+    {
+        "actor": "Olga Kurylenko",
+        "rating": 5.9
+    },
+    {
+        "actor": "Barbara Nedeljakova",
+        "rating": 5.9
+    },
+    {
+        "actor": "Eythor Gudjonsson",
+        "rating": 5.9
+    },
+    {
+        "actor": "Derek Richardson",
+        "rating": 5.9
+    },
+    {
+        "actor": "Jay Hernandez",
+        "rating": 5.9
+    },
+    {
+        "actor": "George P. Wilbur",
+        "rating": 5.9
+    },
+    {
+        "actor": "Jean-Claude Van Damme",
+        "rating": 5.9
+    },
+    {
+        "actor": "Danielle Harris",
+        "rating": 5.9
+    },
+    {
+        "actor": "Ellie Cornell",
+        "rating": 5.9
+    },
+    {
+        "actor": "RJ Cyler",
+        "rating": 5.9
+    },
+    {
+        "actor": "Khali Best",
+        "rating": 5.9
+    },
+    {
+        "actor": "Alon Aboutboul",
+        "rating": 5.9
+    },
+    {
+        "actor": "Waleed Zuaiter",
+        "rating": 5.9
+    },
+    {
+        "actor": "Adel Bencherif",
+        "rating": 5.9
+    },
+    {
+        "actor": "Mehdi Dehbi",
+        "rating": 5.9
+    },
+    {
+        "actor": "Sam Louwyck",
+        "rating": 5.9
+    },
+    {
+        "actor": "James T. Callahan",
+        "rating": 5.9
+    },
+    {
+        "actor": "Matt Lanter",
+        "rating": 5.9
+    },
+    {
+        "actor": "Jessica Alba",
+        "rating": 5.88
+    },
+    {
+        "actor": "Naomi Scott",
+        "rating": 5.87
+    },
+    {
+        "actor": "Lauren Cohan",
+        "rating": 5.85
+    },
+    {
+        "actor": "Dakota Fanning",
+        "rating": 5.85
+    },
+    {
+        "actor": "Sullivan Stapleton",
+        "rating": 5.85
+    },
+    {
+        "actor": "Jeff Goldblum",
+        "rating": 5.85
+    },
+    {
+        "actor": "Dolph Lundgren",
+        "rating": 5.85
+    },
+    {
+        "actor": "Scott Patterson",
+        "rating": 5.85
+    },
+    {
+        "actor": "Iko Uwais",
+        "rating": 5.85
+    },
+    {
+        "actor": "Adam Devine",
+        "rating": 5.85
+    },
+    {
+        "actor": "Zac Efron",
+        "rating": 5.84
+    },
+    {
+        "actor": "Kevin James",
+        "rating": 5.83
+    },
+    {
+        "actor": "Alexandra Daddario",
+        "rating": 5.83
+    },
+    {
+        "actor": "Betsy Russell",
+        "rating": 5.82
+    },
+    {
+        "actor": "Costas Mandylor",
+        "rating": 5.82
+    },
+    {
+        "actor": "Taylor Handley",
+        "rating": 5.8
+    },
+    {
+        "actor": "Tobias Menzies",
+        "rating": 5.8
+    },
+    {
+        "actor": "Jordana Brewster",
+        "rating": 5.8
+    },
+    {
+        "actor": "Jazmyn Simon",
+        "rating": 5.8
+    },
+    {
+        "actor": "Barbarella Pardo",
+        "rating": 5.8
+    },
+    {
+        "actor": "Lara Pulver",
+        "rating": 5.8
+    },
+    {
+        "actor": "Mamoudou Athie",
+        "rating": 5.8
+    },
+    {
+        "actor": "Bella Heathcote",
+        "rating": 5.8
+    },
+    {
+        "actor": "Sam Riley",
+        "rating": 5.8
+    },
+    {
+        "actor": "Roland M\u00f8ller",
+        "rating": 5.8
+    },
+    {
+        "actor": "Leah Remini",
+        "rating": 5.8
+    },
+    {
+        "actor": "Drew Seeley",
+        "rating": 5.8
+    },
+    {
+        "actor": "Christopher Eccleston",
+        "rating": 5.8
+    },
+    {
+        "actor": "Chin Han",
+        "rating": 5.8
+    },
+    {
+        "actor": "Oscar Isaac",
+        "rating": 5.8
+    },
+    {
+        "actor": "Nicholas D'Agosto",
+        "rating": 5.8
+    },
+    {
+        "actor": "Adewale Akinnuoye-Agbaje",
+        "rating": 5.8
+    },
+    {
+        "actor": "Emma Bell",
+        "rating": 5.8
+    },
+    {
+        "actor": "Hera Hilmar",
+        "rating": 5.8
+    },
+    {
+        "actor": "Molly McCann",
+        "rating": 5.8
+    },
+    {
+        "actor": "Treat Williams",
+        "rating": 5.8
+    },
+    {
+        "actor": "Kurtwood Smith",
+        "rating": 5.8
+    },
+    {
+        "actor": "Katharine Isabelle",
+        "rating": 5.8
+    },
+    {
+        "actor": "Marc de Jonge",
+        "rating": 5.8
+    },
+    {
+        "actor": "Miles Fisher",
+        "rating": 5.8
+    },
+    {
+        "actor": "Ellen Wroe",
+        "rating": 5.8
+    },
+    {
+        "actor": "Myles Truitt",
+        "rating": 5.8
+    },
+    {
+        "actor": "Zo\u00eb Kravitz",
+        "rating": 5.8
+    },
+    {
+        "actor": "Lyriq Bent",
+        "rating": 5.8
+    },
+    {
+        "actor": "Jessie T. Usher",
+        "rating": 5.8
+    },
+    {
+        "actor": "Gina Rodriguez",
+        "rating": 5.8
+    },
+    {
+        "actor": "Thomas Dekker",
+        "rating": 5.8
+    },
+    {
+        "actor": "Crystle Stewart",
+        "rating": 5.8
+    },
+    {
+        "actor": "Tim Matheson",
+        "rating": 5.8
+    },
+    {
+        "actor": "Amanda Peet",
+        "rating": 5.8
+    },
+    {
+        "actor": "Nikolaj Coster-Waldau",
+        "rating": 5.8
+    },
+    {
+        "actor": "Neve Campbell",
+        "rating": 5.8
+    },
+    {
+        "actor": "Vivian Chan",
+        "rating": 5.8
+    },
+    {
+        "actor": "Ben Daon",
+        "rating": 5.8
+    },
+    {
+        "actor": "Rob Riggle",
+        "rating": 5.8
+    },
+    {
+        "actor": "Thandie Newton",
+        "rating": 5.8
+    },
+    {
+        "actor": "Rainn Wilson",
+        "rating": 5.8
+    },
+    {
+        "actor": "Zahra Anderson",
+        "rating": 5.8
+    },
+    {
+        "actor": "Serge Jaswal",
+        "rating": 5.8
+    },
+    {
+        "actor": "Danielle Ryan",
+        "rating": 5.8
+    },
+    {
+        "actor": "Gr\u00e9gory Fitoussi",
+        "rating": 5.8
+    },
+    {
+        "actor": "Matt Bomer",
+        "rating": 5.8
+    },
+    {
+        "actor": "Diora Baird",
+        "rating": 5.8
+    },
+    {
+        "actor": "Edgar Ram\u00edrez",
+        "rating": 5.77
+    },
+    {
+        "actor": "Russell Crowe",
+        "rating": 5.75
+    },
+    {
+        "actor": "Amanda Seyfried",
+        "rating": 5.75
+    },
+    {
+        "actor": "Madison Iseman",
+        "rating": 5.75
+    },
+    {
+        "actor": "Jin Zhang",
+        "rating": 5.75
+    },
+    {
+        "actor": "Sofia Boutella",
+        "rating": 5.75
+    },
+    {
+        "actor": "William Fichtner",
+        "rating": 5.7
+    },
+    {
+        "actor": "R.G. Armstrong",
+        "rating": 5.7
+    },
+    {
+        "actor": "John Franklin",
+        "rating": 5.7
+    },
+    {
+        "actor": "Monica Keena",
+        "rating": 5.7
+    },
+    {
+        "actor": "Jeremy Irons",
+        "rating": 5.7
+    },
+    {
+        "actor": "Peter Horton",
+        "rating": 5.7
+    },
+    {
+        "actor": "Theo James",
+        "rating": 5.7
+    },
+    {
+        "actor": "Peter Lanzani",
+        "rating": 5.7
+    },
+    {
+        "actor": "Amandla Stenberg",
+        "rating": 5.7
+    },
+    {
+        "actor": "Jessica Biel",
+        "rating": 5.7
+    },
+    {
+        "actor": "Richard E. Grant",
+        "rating": 5.7
+    },
+    {
+        "actor": "Alice Krige",
+        "rating": 5.7
+    },
+    {
+        "actor": "Sam Heughan",
+        "rating": 5.7
+    },
+    {
+        "actor": "Michael Bornh\u00fctter",
+        "rating": 5.7
+    },
+    {
+        "actor": "Jonathan Lipnicki",
+        "rating": 5.7
+    },
+    {
+        "actor": "Adelaide Kane",
+        "rating": 5.7
+    },
+    {
+        "actor": "Peter Pedrero",
+        "rating": 5.7
+    },
+    {
+        "actor": "Alexandra Dinu",
+        "rating": 5.7
+    },
+    {
+        "actor": "Stephanie Beatriz",
+        "rating": 5.7
+    },
+    {
+        "actor": "Robert Cardone",
+        "rating": 5.7
+    },
+    {
+        "actor": "Robert Englund",
+        "rating": 5.7
+    },
+    {
+        "actor": "Neil deGrasse Tyson",
+        "rating": 5.7
+    },
+    {
+        "actor": "David Gyasi",
+        "rating": 5.7
+    },
+    {
+        "actor": "Ail\u00e9n Mazioni",
+        "rating": 5.7
+    },
+    {
+        "actor": "Dong-won Gang",
+        "rating": 5.7
+    },
+    {
+        "actor": "Martyn Ford",
+        "rating": 5.7
+    },
+    {
+        "actor": "Ken Kirzinger",
+        "rating": 5.7
+    },
+    {
+        "actor": "Liam McIntyre",
+        "rating": 5.7
+    },
+    {
+        "actor": "Elizabeth Banks",
+        "rating": 5.7
+    },
+    {
+        "actor": "Tiffany Haddish",
+        "rating": 5.7
+    },
+    {
+        "actor": "Tony Jaa",
+        "rating": 5.7
+    },
+    {
+        "actor": "Fabio Alberti",
+        "rating": 5.7
+    },
+    {
+        "actor": "Cameron Diaz",
+        "rating": 5.7
+    },
+    {
+        "actor": "Luke Goss",
+        "rating": 5.7
+    },
+    {
+        "actor": "Hong Chau",
+        "rating": 5.7
+    },
+    {
+        "actor": "Kirk Acevedo",
+        "rating": 5.7
+    },
+    {
+        "actor": "Cristina Serafini",
+        "rating": 5.7
+    },
+    {
+        "actor": "Angelababy",
+        "rating": 5.7
+    },
+    {
+        "actor": "Dan Bakkedahl",
+        "rating": 5.7
+    },
+    {
+        "actor": "Charlene Beck",
+        "rating": 5.7
+    },
+    {
+        "actor": "Max Burkholder",
+        "rating": 5.7
+    },
+    {
+        "actor": "Joan Plowright",
+        "rating": 5.7
+    },
+    {
+        "actor": "Dady Brieva",
+        "rating": 5.7
+    },
+    {
+        "actor": "Dean Geyer",
+        "rating": 5.7
+    },
+    {
+        "actor": "Alex Meraz",
+        "rating": 5.7
+    },
+    {
+        "actor": "Todd Duffee",
+        "rating": 5.7
+    },
+    {
+        "actor": "Jason Ritter",
+        "rating": 5.7
+    },
+    {
+        "actor": "50 Cent",
+        "rating": 5.7
+    },
+    {
+        "actor": "Robert Pattinson",
+        "rating": 5.68
+    },
+    {
+        "actor": "Wesley Snipes",
+        "rating": 5.67
+    },
+    {
+        "actor": "Famke Janssen",
+        "rating": 5.67
+    },
+    {
+        "actor": "Ellie Bamber",
+        "rating": 5.65
+    },
+    {
+        "actor": "Anna Faris",
+        "rating": 5.65
+    },
+    {
+        "actor": "Ryan Kwanten",
+        "rating": 5.65
+    },
+    {
+        "actor": "Terry Crews",
+        "rating": 5.65
+    },
+    {
+        "actor": "Kate Bosworth",
+        "rating": 5.65
+    },
+    {
+        "actor": "Vanessa Hudgens",
+        "rating": 5.65
+    },
+    {
+        "actor": "T.J. Miller",
+        "rating": 5.63
+    },
+    {
+        "actor": "Finn Wolfhard",
+        "rating": 5.63
+    },
+    {
+        "actor": "Danielle Bisutti",
+        "rating": 5.6
+    },
+    {
+        "actor": "Yifei Liu",
+        "rating": 5.6
+    },
+    {
+        "actor": "Adam Rayner",
+        "rating": 5.6
+    },
+    {
+        "actor": "Arabella Landrum",
+        "rating": 5.6
+    },
+    {
+        "actor": "Eric Lange",
+        "rating": 5.6
+    },
+    {
+        "actor": "Janelle Mon\u00e1e",
+        "rating": 5.6
+    },
+    {
+        "actor": "Yuriy Borisov",
+        "rating": 5.6
+    },
+    {
+        "actor": "Gong Li",
+        "rating": 5.6
+    },
+    {
+        "actor": "Shawn Wayans",
+        "rating": 5.6
+    },
+    {
+        "actor": "Marie Avgeropoulos",
+        "rating": 5.6
+    },
+    {
+        "actor": "Jack Magner",
+        "rating": 5.6
+    },
+    {
+        "actor": "Ben Falcone",
+        "rating": 5.6
+    },
+    {
+        "actor": "Rutanya Alda",
+        "rating": 5.6
+    },
+    {
+        "actor": "Frankie Faison",
+        "rating": 5.6
+    },
+    {
+        "actor": "Tiger Hu Chen",
+        "rating": 5.6
+    },
+    {
+        "actor": "James Olson",
+        "rating": 5.6
+    },
+    {
+        "actor": "Wendi McLendon-Covey",
+        "rating": 5.6
+    },
+    {
+        "actor": "Kate del Castillo",
+        "rating": 5.6
+    },
+    {
+        "actor": "Jordan Gavaris",
+        "rating": 5.6
+    },
+    {
+        "actor": "Fiona Dourif",
+        "rating": 5.6
+    },
+    {
+        "actor": "Caleel Harris",
+        "rating": 5.6
+    },
+    {
+        "actor": "Chantal Quesnelle",
+        "rating": 5.6
+    },
+    {
+        "actor": "Leslie Bibb",
+        "rating": 5.6
+    },
+    {
+        "actor": "Michael Sheen",
+        "rating": 5.6
+    },
+    {
+        "actor": "Eric Nenninger",
+        "rating": 5.6
+    },
+    {
+        "actor": "Garikayi Mutambirwa",
+        "rating": 5.6
+    },
+    {
+        "actor": "Jonathan Breck",
+        "rating": 5.6
+    },
+    {
+        "actor": "Ray Wise",
+        "rating": 5.6
+    },
+    {
+        "actor": "Megan Fox",
+        "rating": 5.6
+    },
+    {
+        "actor": "Scoot McNairy",
+        "rating": 5.6
+    },
+    {
+        "actor": "Matt Walsh",
+        "rating": 5.6
+    },
+    {
+        "actor": "Tom Taylor",
+        "rating": 5.6
+    },
+    {
+        "actor": "Sarah Jessica Parker",
+        "rating": 5.6
+    },
+    {
+        "actor": "Kim Cattrall",
+        "rating": 5.6
+    },
+    {
+        "actor": "Kristin Davis",
+        "rating": 5.6
+    },
+    {
+        "actor": "Cynthia Nixon",
+        "rating": 5.6
+    },
+    {
+        "actor": "Brad Dourif",
+        "rating": 5.6
+    },
+    {
+        "actor": "John Ortiz",
+        "rating": 5.6
+    },
+    {
+        "actor": "Hope Davis",
+        "rating": 5.6
+    },
+    {
+        "actor": "Sanaa Lathan",
+        "rating": 5.6
+    },
+    {
+        "actor": "Raoul Bova",
+        "rating": 5.6
+    },
+    {
+        "actor": "Romany Malco",
+        "rating": 5.6
+    },
+    {
+        "actor": "Lance Henriksen",
+        "rating": 5.6
+    },
+    {
+        "actor": "Dennis Haysbert",
+        "rating": 5.6
+    },
+    {
+        "actor": "Rafi Gavron",
+        "rating": 5.6
+    },
+    {
+        "actor": "Oakes Fegley",
+        "rating": 5.6
+    },
+    {
+        "actor": "Ewen Bremner",
+        "rating": 5.6
+    },
+    {
+        "actor": "Dominik Garcia",
+        "rating": 5.6
+    },
+    {
+        "actor": "Burn Gorman",
+        "rating": 5.6
+    },
+    {
+        "actor": "Cailee Spaeny",
+        "rating": 5.6
+    },
+    {
+        "actor": "John Boyega",
+        "rating": 5.6
+    },
+    {
+        "actor": "Michael Angarano",
+        "rating": 5.6
+    },
+    {
+        "actor": "Bingbing Li",
+        "rating": 5.6
+    },
+    {
+        "actor": "Jim Broadbent",
+        "rating": 5.6
+    },
+    {
+        "actor": "Antonio Banderas",
+        "rating": 5.59
+    },
+    {
+        "actor": "Melissa McCarthy",
+        "rating": 5.55
+    },
+    {
+        "actor": "Qi Shu",
+        "rating": 5.55
+    },
+    {
+        "actor": "Eugene Levy",
+        "rating": 5.55
+    },
+    {
+        "actor": "Michelle Monaghan",
+        "rating": 5.55
+    },
+    {
+        "actor": "Maggie Grace",
+        "rating": 5.55
+    },
+    {
+        "actor": "Daryl Sabara",
+        "rating": 5.53
+    },
+    {
+        "actor": "James Purefoy",
+        "rating": 5.5
+    },
+    {
+        "actor": "Georgina Spelvin",
+        "rating": 5.5
+    },
+    {
+        "actor": "Darren James",
+        "rating": 5.5
+    },
+    {
+        "actor": "Riley Keough",
+        "rating": 5.5
+    },
+    {
+        "actor": "Jane Lynch",
+        "rating": 5.5
+    },
+    {
+        "actor": "Ginger Lynn",
+        "rating": 5.5
+    },
+    {
+        "actor": "Aleksa Palladino",
+        "rating": 5.5
+    },
+    {
+        "actor": "Texas Battle",
+        "rating": 5.5
+    },
+    {
+        "actor": "Erica Leerhsen",
+        "rating": 5.5
+    },
+    {
+        "actor": "Danny Trejo",
+        "rating": 5.5
+    },
+    {
+        "actor": "Travis Van Winkle",
+        "rating": 5.5
+    },
+    {
+        "actor": "Charlie Sheen",
+        "rating": 5.5
+    },
+    {
+        "actor": "Marny Eng",
+        "rating": 5.5
+    },
+    {
+        "actor": "Jenny McCarthy",
+        "rating": 5.5
+    },
+    {
+        "actor": "Pamela Anderson",
+        "rating": 5.5
+    },
+    {
+        "actor": "Amanda Righetti",
+        "rating": 5.5
+    },
+    {
+        "actor": "Danielle Panabaker",
+        "rating": 5.5
+    },
+    {
+        "actor": "Rob Morrow",
+        "rating": 5.5
+    },
+    {
+        "actor": "Bijou Phillips",
+        "rating": 5.5
+    },
+    {
+        "actor": "Heather Matarazzo",
+        "rating": 5.5
+    },
+    {
+        "actor": "Lauren German",
+        "rating": 5.5
+    },
+    {
+        "actor": "Gabrielle Union",
+        "rating": 5.5
+    },
+    {
+        "actor": "Richard Cabral",
+        "rating": 5.5
+    },
+    {
+        "actor": "Ajiona Alexus",
+        "rating": 5.5
+    },
+    {
+        "actor": "Scott Eastwood",
+        "rating": 5.5
+    },
+    {
+        "actor": "Jenna Saras",
+        "rating": 5.5
+    },
+    {
+        "actor": "Peter Serafinowicz",
+        "rating": 5.5
+    },
+    {
+        "actor": "Sylvia Hoeks",
+        "rating": 5.5
+    },
+    {
+        "actor": "Charlie Bewley",
+        "rating": 5.5
+    },
+    {
+        "actor": "Priyanka Chopra",
+        "rating": 5.5
+    },
+    {
+        "actor": "Robert Blythe",
+        "rating": 5.5
+    },
+    {
+        "actor": "Tom Sweet",
+        "rating": 5.5
+    },
+    {
+        "actor": "Peter Dinklage",
+        "rating": 5.5
+    },
+    {
+        "actor": "Meera Syal",
+        "rating": 5.5
+    },
+    {
+        "actor": "Lisa Ann",
+        "rating": 5.5
+    },
+    {
+        "actor": "Damian Lewis",
+        "rating": 5.5
+    },
+    {
+        "actor": "Robert Rusler",
+        "rating": 5.5
+    },
+    {
+        "actor": "Thomas Jane",
+        "rating": 5.5
+    },
+    {
+        "actor": "Kim Myers",
+        "rating": 5.5
+    },
+    {
+        "actor": "Mark Patton",
+        "rating": 5.5
+    },
+    {
+        "actor": "Jaime King",
+        "rating": 5.5
+    },
+    {
+        "actor": "Jared Padalecki",
+        "rating": 5.5
+    },
+    {
+        "actor": "Peter Facinelli",
+        "rating": 5.45
+    },
+    {
+        "actor": "Kristen Stewart",
+        "rating": 5.44
+    },
+    {
+        "actor": "Justin Arnold",
+        "rating": 5.4
+    },
+    {
+        "actor": "Elizabeth Lail",
+        "rating": 5.4
+    },
+    {
+        "actor": "Gaia Weiss",
+        "rating": 5.4
+    },
+    {
+        "actor": "Blake Lively",
+        "rating": 5.4
+    },
+    {
+        "actor": "John Samaha",
+        "rating": 5.4
+    },
+    {
+        "actor": "Dev Patel",
+        "rating": 5.4
+    },
+    {
+        "actor": "Jascha Washington",
+        "rating": 5.4
+    },
+    {
+        "actor": "Hayley McElhinney",
+        "rating": 5.4
+    },
+    {
+        "actor": "Hae-hyo Kwon",
+        "rating": 5.4
+    },
+    {
+        "actor": "Nick Stabile",
+        "rating": 5.4
+    },
+    {
+        "actor": "Marc Donato",
+        "rating": 5.4
+    },
+    {
+        "actor": "Katherine Heigl",
+        "rating": 5.4
+    },
+    {
+        "actor": "Talitha Eliana Bateman",
+        "rating": 5.4
+    },
+    {
+        "actor": "Toby Kebbell",
+        "rating": 5.4
+    },
+    {
+        "actor": "Nicolas Cage",
+        "rating": 5.4
+    },
+    {
+        "actor": "Ward Horton",
+        "rating": 5.4
+    },
+    {
+        "actor": "Re Lee",
+        "rating": 5.4
+    },
+    {
+        "actor": "Whitney Hoy",
+        "rating": 5.4
+    },
+    {
+        "actor": "Tony Amendola",
+        "rating": 5.4
+    },
+    {
+        "actor": "Aris Alvarado",
+        "rating": 5.4
+    },
+    {
+        "actor": "Freddie Thorp",
+        "rating": 5.4
+    },
+    {
+        "actor": "Leehom Wang",
+        "rating": 5.4
+    },
+    {
+        "actor": "G.W. Bailey",
+        "rating": 5.4
+    },
+    {
+        "actor": "Roseanne Barr",
+        "rating": 5.4
+    },
+    {
+        "actor": "Courtney Eaton",
+        "rating": 5.4
+    },
+    {
+        "actor": "Myles Pollard",
+        "rating": 5.4
+    },
+    {
+        "actor": "April Hartman",
+        "rating": 5.4
+    },
+    {
+        "actor": "Tom Zembrod",
+        "rating": 5.4
+    },
+    {
+        "actor": "Jacqueline McKenzie",
+        "rating": 5.4
+    },
+    {
+        "actor": "Jessica Dawn Willis",
+        "rating": 5.4
+    },
+    {
+        "actor": "Shannon Berry",
+        "rating": 5.4
+    },
+    {
+        "actor": "Tang Wei",
+        "rating": 5.4
+    },
+    {
+        "actor": "Lee Jung-hyun",
+        "rating": 5.4
+    },
+    {
+        "actor": "Savannah Solsbery",
+        "rating": 5.4
+    },
+    {
+        "actor": "Emily Ratajkowski",
+        "rating": 5.4
+    },
+    {
+        "actor": "Bobby Block",
+        "rating": 5.4
+    },
+    {
+        "actor": "Jordan Calloway",
+        "rating": 5.4
+    },
+    {
+        "actor": "Betsy Rue",
+        "rating": 5.4
+    },
+    {
+        "actor": "Kerr Smith",
+        "rating": 5.4
+    },
+    {
+        "actor": "Jensen Ackles",
+        "rating": 5.4
+    },
+    {
+        "actor": "Fred Melamed",
+        "rating": 5.4
+    },
+    {
+        "actor": "Tony Todd",
+        "rating": 5.35
+    },
+    {
+        "actor": "Brian Van Holt",
+        "rating": 5.3
+    },
+    {
+        "actor": "Paris Hilton",
+        "rating": 5.3
+    },
+    {
+        "actor": "Juli\u00e1n L\u00f3pez",
+        "rating": 5.3
+    },
+    {
+        "actor": "Taissa Farmiga",
+        "rating": 5.3
+    },
+    {
+        "actor": "Becky G",
+        "rating": 5.3
+    },
+    {
+        "actor": "Jonas Bloquet",
+        "rating": 5.3
+    },
+    {
+        "actor": "Ray Corasani",
+        "rating": 5.3
+    },
+    {
+        "actor": "Charlie Heaton",
+        "rating": 5.3
+    },
+    {
+        "actor": "Carla Gugino",
+        "rating": 5.3
+    },
+    {
+        "actor": "Alex MacNicoll",
+        "rating": 5.3
+    },
+    {
+        "actor": "Josephine Langford",
+        "rating": 5.3
+    },
+    {
+        "actor": "Antony Acker",
+        "rating": 5.3
+    },
+    {
+        "actor": "Mark Barrett",
+        "rating": 5.3
+    },
+    {
+        "actor": "Richard Bellos",
+        "rating": 5.3
+    },
+    {
+        "actor": "Suzanne Bianqui",
+        "rating": 5.3
+    },
+    {
+        "actor": "Justin Long",
+        "rating": 5.3
+    },
+    {
+        "actor": "Alexandra Jim\u00e9nez",
+        "rating": 5.3
+    },
+    {
+        "actor": "Alexandra Maria Lara",
+        "rating": 5.3
+    },
+    {
+        "actor": "Keegan-Michael Key",
+        "rating": 5.3
+    },
+    {
+        "actor": "Luke Bracey",
+        "rating": 5.3
+    },
+    {
+        "actor": "Alek Skarlatos",
+        "rating": 5.3
+    },
+    {
+        "actor": "Lucas Black",
+        "rating": 5.3
+    },
+    {
+        "actor": "Elly Curtis",
+        "rating": 5.3
+    },
+    {
+        "actor": "Demi\u00e1n Bichir",
+        "rating": 5.3
+    },
+    {
+        "actor": "Alex Neustaedter",
+        "rating": 5.3
+    },
+    {
+        "actor": "Richard Brake",
+        "rating": 5.3
+    },
+    {
+        "actor": "Dominic Rains",
+        "rating": 5.3
+    },
+    {
+        "actor": "Anthony Sadler",
+        "rating": 5.3
+    },
+    {
+        "actor": "Kellan Lutz",
+        "rating": 5.3
+    },
+    {
+        "actor": "Kristen Ledlow",
+        "rating": 5.3
+    },
+    {
+        "actor": "Hero Fiennes Tiffin",
+        "rating": 5.3
+    },
+    {
+        "actor": "T.I.",
+        "rating": 5.3
+    },
+    {
+        "actor": "Jim Sturgess",
+        "rating": 5.3
+    },
+    {
+        "actor": "Ray Winstone",
+        "rating": 5.3
+    },
+    {
+        "actor": "Spencer Stone",
+        "rating": 5.3
+    },
+    {
+        "actor": "Roman Christou",
+        "rating": 5.3
+    },
+    {
+        "actor": "Eve Hewson",
+        "rating": 5.3
+    },
+    {
+        "actor": "Dani Rovira",
+        "rating": 5.3
+    },
+    {
+        "actor": "Dylan Arnold",
+        "rating": 5.3
+    },
+    {
+        "actor": "Khadijha Red Thunder",
+        "rating": 5.3
+    },
+    {
+        "actor": "Glenne Headly",
+        "rating": 5.3
+    },
+    {
+        "actor": "David Duggan",
+        "rating": 5.3
+    },
+    {
+        "actor": "Teresa Palmer",
+        "rating": 5.3
+    },
+    {
+        "actor": "Ellar Coltrane",
+        "rating": 5.3
+    },
+    {
+        "actor": "Adrianne Palicki",
+        "rating": 5.3
+    },
+    {
+        "actor": "Bonnie Aarons",
+        "rating": 5.3
+    },
+    {
+        "actor": "Maribel Verd\u00fa",
+        "rating": 5.3
+    },
+    {
+        "actor": "Raymond Cruz",
+        "rating": 5.3
+    },
+    {
+        "actor": "Paul Bettany",
+        "rating": 5.3
+    },
+    {
+        "actor": "Jaynee-Lynne Kinchen",
+        "rating": 5.3
+    },
+    {
+        "actor": "Maisie Williams",
+        "rating": 5.3
+    },
+    {
+        "actor": "Mykelti Williamson",
+        "rating": 5.25
+    },
+    {
+        "actor": "Jason Flemyng",
+        "rating": 5.23
+    },
+    {
+        "actor": "Bobby Campo",
+        "rating": 5.2
+    },
+    {
+        "actor": "Shantel VanSanten",
+        "rating": 5.2
+    },
+    {
+        "actor": "Nick Zano",
+        "rating": 5.2
+    },
+    {
+        "actor": "Haley Webb",
+        "rating": 5.2
+    },
+    {
+        "actor": "Johnny Simmons",
+        "rating": 5.2
+    },
+    {
+        "actor": "Denzel Washington",
+        "rating": 5.2
+    },
+    {
+        "actor": "Kristina Klebe",
+        "rating": 5.2
+    },
+    {
+        "actor": "Tony Bentley",
+        "rating": 5.2
+    },
+    {
+        "actor": "James Chalke",
+        "rating": 5.2
+    },
+    {
+        "actor": "Hayden Szeto",
+        "rating": 5.2
+    },
+    {
+        "actor": "Na-Na OuYang",
+        "rating": 5.2
+    },
+    {
+        "actor": "Laura Haddock",
+        "rating": 5.2
+    },
+    {
+        "actor": "Show Lo",
+        "rating": 5.2
+    },
+    {
+        "actor": "Lee Pace",
+        "rating": 5.2
+    },
+    {
+        "actor": "Erica Xia-Hou",
+        "rating": 5.2
+    },
+    {
+        "actor": "Lucy Hale",
+        "rating": 5.2
+    },
+    {
+        "actor": "Ray Liotta",
+        "rating": 5.2
+    },
+    {
+        "actor": "Julie Bowen",
+        "rating": 5.2
+    },
+    {
+        "actor": "Bailey Anne Borders",
+        "rating": 5.2
+    },
+    {
+        "actor": "Gabriela Lopez",
+        "rating": 5.2
+    },
+    {
+        "actor": "Matthew Zuk",
+        "rating": 5.2
+    },
+    {
+        "actor": "Y'lan Noel",
+        "rating": 5.2
+    },
+    {
+        "actor": "Maria Tepavicharova",
+        "rating": 5.2
+    },
+    {
+        "actor": "Cameron Richardson",
+        "rating": 5.2
+    },
+    {
+        "actor": "Joivan Wade",
+        "rating": 5.2
+    },
+    {
+        "actor": "Matt Long",
+        "rating": 5.2
+    },
+    {
+        "actor": "Tyler Posey",
+        "rating": 5.2
+    },
+    {
+        "actor": "Raquel Alessi",
+        "rating": 5.2
+    },
+    {
+        "actor": "Brett Cullen",
+        "rating": 5.2
+    },
+    {
+        "actor": "Violett Beane",
+        "rating": 5.2
+    },
+    {
+        "actor": "Peter Fonda",
+        "rating": 5.2
+    },
+    {
+        "actor": "Nadya Keranova",
+        "rating": 5.2
+    },
+    {
+        "actor": "Brian Gleeson",
+        "rating": 5.2
+    },
+    {
+        "actor": "Mark Stanley",
+        "rating": 5.2
+    },
+    {
+        "actor": "Yixing Zhang",
+        "rating": 5.2
+    },
+    {
+        "actor": "Miya Muqi",
+        "rating": 5.2
+    },
+    {
+        "actor": "Mugga",
+        "rating": 5.2
+    },
+    {
+        "actor": "Deepika Padukone",
+        "rating": 5.2
+    },
+    {
+        "actor": "Disha Patani",
+        "rating": 5.2
+    },
+    {
+        "actor": "Kris Wu",
+        "rating": 5.2
+    },
+    {
+        "actor": "Sibulele Gcilitshana",
+        "rating": 5.2
+    },
+    {
+        "actor": "Mike Myers",
+        "rating": 5.15
+    },
+    {
+        "actor": "Lex Scott Davis",
+        "rating": 5.15
+    },
+    {
+        "actor": "Holly Fields",
+        "rating": 5.1
+    },
+    {
+        "actor": "Billy Burke",
+        "rating": 5.1
+    },
+    {
+        "actor": "Justin Whalin",
+        "rating": 5.1
+    },
+    {
+        "actor": "Chris Weber",
+        "rating": 5.1
+    },
+    {
+        "actor": "Trevor Jackson",
+        "rating": 5.1
+    },
+    {
+        "actor": "Jason Mitchell",
+        "rating": 5.1
+    },
+    {
+        "actor": "Michael Kenneth Williams",
+        "rating": 5.1
+    },
+    {
+        "actor": "Al Foster",
+        "rating": 5.1
+    },
+    {
+        "actor": "Andrew Divoff",
+        "rating": 5.1
+    },
+    {
+        "actor": "Aoi Nakamura",
+        "rating": 5.1
+    },
+    {
+        "actor": "Noriko Aoyama",
+        "rating": 5.1
+    },
+    {
+        "actor": "Kousuke Kujirai",
+        "rating": 5.1
+    },
+    {
+        "actor": "Ayako Yoshitani",
+        "rating": 5.1
+    },
+    {
+        "actor": "Jennifer Tilly",
+        "rating": 5.1
+    },
+    {
+        "actor": "Travis Fine",
+        "rating": 5.1
+    },
+    {
+        "actor": "Rachel Weisz",
+        "rating": 5.1
+    },
+    {
+        "actor": "Elizabeth Perkins",
+        "rating": 5.1
+    },
+    {
+        "actor": "Alexander Pollock",
+        "rating": 5.1
+    },
+    {
+        "actor": "Jeremy Sylvers",
+        "rating": 5.1
+    },
+    {
+        "actor": "Lucas Grabeel",
+        "rating": 5.1
+    },
+    {
+        "actor": "Miriam Margolyes",
+        "rating": 5.1
+    },
+    {
+        "actor": "Anton Pampushnyy",
+        "rating": 5.1
+    },
+    {
+        "actor": "Ellie Kemper",
+        "rating": 5.1
+    },
+    {
+        "actor": "Rob Corddry",
+        "rating": 5.1
+    },
+    {
+        "actor": "Rebecca Ferguson",
+        "rating": 5.08
+    },
+    {
+        "actor": "Eric Bauza",
+        "rating": 5.05
+    },
+    {
+        "actor": "Meagan Good",
+        "rating": 5.05
+    },
+    {
+        "actor": "Wanderlei Silva",
+        "rating": 5
+    },
+    {
+        "actor": "Nicole Ari Parker",
+        "rating": 5
+    },
+    {
+        "actor": "Sara Malakul Lane",
+        "rating": 5
+    },
+    {
+        "actor": "Megan Leonard",
+        "rating": 5
+    },
+    {
+        "actor": "Ty Shelton",
+        "rating": 5
+    },
+    {
+        "actor": "Maxime Savaria",
+        "rating": 5
+    },
+    {
+        "actor": "Renee Victor",
+        "rating": 5
+    },
+    {
+        "actor": "Gabrielle Walsh",
+        "rating": 5
+    },
+    {
+        "actor": "Jorge Diaz",
+        "rating": 5
+    },
+    {
+        "actor": "Andrew Jacobs",
+        "rating": 5
+    },
+    {
+        "actor": "David Koechner",
+        "rating": 5
+    },
+    {
+        "actor": "Marlene Forte",
+        "rating": 5
+    },
+    {
+        "actor": "Nancy Sorel",
+        "rating": 5
+    },
+    {
+        "actor": "Kat Graham",
+        "rating": 5
+    },
+    {
+        "actor": "B\u00e9r\u00e9nice Marlohe",
+        "rating": 5
+    },
+    {
+        "actor": "Andre Stojka",
+        "rating": 5
+    },
+    {
+        "actor": "Rob Paulsen",
+        "rating": 5
+    },
+    {
+        "actor": "Jennifer Hale",
+        "rating": 5
+    },
+    {
+        "actor": "Portia de Rossi",
+        "rating": 5
+    },
+    {
+        "actor": "Mya",
+        "rating": 5
+    },
+    {
+        "actor": "Kristina Anapau",
+        "rating": 5
+    },
+    {
+        "actor": "Xavier Samuel",
+        "rating": 5
+    },
+    {
+        "actor": "Mackenzie Davis",
+        "rating": 5
+    },
+    {
+        "actor": "Florence Pugh",
+        "rating": 4.97
+    },
+    {
+        "actor": "Josh Brener",
+        "rating": 4.95
+    },
+    {
+        "actor": "Rosemarie DeWitt",
+        "rating": 4.9
+    },
+    {
+        "actor": "Jeremy Nazario",
+        "rating": 4.9
+    },
+    {
+        "actor": "Kevin Durand",
+        "rating": 4.9
+    },
+    {
+        "actor": "Alexa PenaVega",
+        "rating": 4.9
+    },
+    {
+        "actor": "Aaron Burns",
+        "rating": 4.9
+    },
+    {
+        "actor": "Saxon Sharbino",
+        "rating": 4.9
+    },
+    {
+        "actor": "Sarah Clarke",
+        "rating": 4.9
+    },
+    {
+        "actor": "Sam Rockwell",
+        "rating": 4.9
+    },
+    {
+        "actor": "Gil Birmingham",
+        "rating": 4.9
+    },
+    {
+        "actor": "Kyle Catlett",
+        "rating": 4.9
+    },
+    {
+        "actor": "Lorenza Izzo",
+        "rating": 4.9
+    },
+    {
+        "actor": "Taylor Lautner",
+        "rating": 4.88
+    },
+    {
+        "actor": "Jason Lee",
+        "rating": 4.88
+    },
+    {
+        "actor": "Ana de Armas",
+        "rating": 4.86
+    },
+    {
+        "actor": "Essence Atkins",
+        "rating": 4.85
+    },
+    {
+        "actor": "Michael Madsen",
+        "rating": 4.83
+    },
+    {
+        "actor": "Brandon Hardesty",
+        "rating": 4.8
+    },
+    {
+        "actor": "Jose Conejo Martin",
+        "rating": 4.8
+    },
+    {
+        "actor": "Bobby Batson",
+        "rating": 4.8
+    },
+    {
+        "actor": "Jorge Garcia",
+        "rating": 4.8
+    },
+    {
+        "actor": "Redman",
+        "rating": 4.8
+    },
+    {
+        "actor": "Mark Holton",
+        "rating": 4.8
+    },
+    {
+        "actor": "Hudson Meek",
+        "rating": 4.8
+    },
+    {
+        "actor": "Bobby Soto",
+        "rating": 4.8
+    },
+    {
+        "actor": "Ken Olandt",
+        "rating": 4.8
+    },
+    {
+        "actor": "Mike Reus",
+        "rating": 4.8
+    },
+    {
+        "actor": "Cinthya Carmona",
+        "rating": 4.8
+    },
+    {
+        "actor": "Ella Balinska",
+        "rating": 4.8
+    },
+    {
+        "actor": "Maya Rudolph",
+        "rating": 4.8
+    },
+    {
+        "actor": "Bug Hall",
+        "rating": 4.8
+    },
+    {
+        "actor": "Cam Gigandet",
+        "rating": 4.8
+    },
+    {
+        "actor": "Odette Annable",
+        "rating": 4.8
+    },
+    {
+        "actor": "Kevin M. Horton",
+        "rating": 4.8
+    },
+    {
+        "actor": "Billy Boyd",
+        "rating": 4.8
+    },
+    {
+        "actor": "Bas Keijzer",
+        "rating": 4.8
+    },
+    {
+        "actor": "Al Sapienza",
+        "rating": 4.7
+    },
+    {
+        "actor": "Christina Jastrzembska",
+        "rating": 4.7
+    },
+    {
+        "actor": "Nathaniel Buzolic",
+        "rating": 4.7
+    },
+    {
+        "actor": "Gabriel Iglesias",
+        "rating": 4.7
+    },
+    {
+        "actor": "Marlon Wayans",
+        "rating": 4.7
+    },
+    {
+        "actor": "Emerson Brooks",
+        "rating": 4.7
+    },
+    {
+        "actor": "Xingtong Yao",
+        "rating": 4.7
+    },
+    {
+        "actor": "Reiko Aylesworth",
+        "rating": 4.7
+    },
+    {
+        "actor": "Steven Pasquale",
+        "rating": 4.7
+    },
+    {
+        "actor": "Matt Dillon",
+        "rating": 4.7
+    },
+    {
+        "actor": "Bren Foster",
+        "rating": 4.7
+    },
+    {
+        "actor": "Warwick Davis",
+        "rating": 4.7
+    },
+    {
+        "actor": "Jaime Pressly",
+        "rating": 4.7
+    },
+    {
+        "actor": "Tania Raymonde",
+        "rating": 4.7
+    },
+    {
+        "actor": "Johnny Lewis",
+        "rating": 4.7
+    },
+    {
+        "actor": "David Cross",
+        "rating": 4.67
+    },
+    {
+        "actor": "Kristofer Gummerus",
+        "rating": 4.6
+    },
+    {
+        "actor": "Charlie Heath",
+        "rating": 4.6
+    },
+    {
+        "actor": "Rami Rusinen",
+        "rating": 4.6
+    },
+    {
+        "actor": "Shevonne Durkin",
+        "rating": 4.6
+    },
+    {
+        "actor": "Jacqueline Bisset",
+        "rating": 4.6
+    },
+    {
+        "actor": "Renne Korppila",
+        "rating": 4.6
+    },
+    {
+        "actor": "Christian Contreras",
+        "rating": 4.6
+    },
+    {
+        "actor": "Andy Garcia",
+        "rating": 4.6
+    },
+    {
+        "actor": "Alexandre Bailly",
+        "rating": 4.6
+    },
+    {
+        "actor": "Bozhao Wang",
+        "rating": 4.6
+    },
+    {
+        "actor": "Gil Kolirin",
+        "rating": 4.6
+    },
+    {
+        "actor": "Joe Anderson",
+        "rating": 4.6
+    },
+    {
+        "actor": "Paul Newman",
+        "rating": 4.6
+    },
+    {
+        "actor": "Ben Winchell",
+        "rating": 4.6
+    },
+    {
+        "actor": "Matti Onnismaa",
+        "rating": 4.6
+    },
+    {
+        "actor": "Sarah Lind",
+        "rating": 4.6
+    },
+    {
+        "actor": "Janet Montgomery",
+        "rating": 4.6
+    },
+    {
+        "actor": "Tom Frederic",
+        "rating": 4.6
+    },
+    {
+        "actor": "Kahina Carina",
+        "rating": 4.6
+    },
+    {
+        "actor": "Salma Hayek",
+        "rating": 4.6
+    },
+    {
+        "actor": "William Holden",
+        "rating": 4.6
+    },
+    {
+        "actor": "Edward Albert",
+        "rating": 4.6
+    },
+    {
+        "actor": "Sandy Baron",
+        "rating": 4.6
+    },
+    {
+        "actor": "Ashley Tisdale",
+        "rating": 4.57
+    },
+    {
+        "actor": "Eric Johnson",
+        "rating": 4.55
+    },
+    {
+        "actor": "Mette Towley",
+        "rating": 4.55
+    },
+    {
+        "actor": "Constance Towers",
+        "rating": 4.5
+    },
+    {
+        "actor": "Michael Ironside",
+        "rating": 4.5
+    },
+    {
+        "actor": "Margaret Qualley",
+        "rating": 4.5
+    },
+    {
+        "actor": "Shea Whigham",
+        "rating": 4.5
+    },
+    {
+        "actor": "Natasha Henstridge",
+        "rating": 4.5
+    },
+    {
+        "actor": "Marg Helgenberger",
+        "rating": 4.5
+    },
+    {
+        "actor": "Emmy Rossum",
+        "rating": 4.45
+    },
+    {
+        "actor": "Perrey Reeves",
+        "rating": 4.45
+    },
+    {
+        "actor": "Kane Hodder",
+        "rating": 4.4
+    },
+    {
+        "actor": "Jeff Geddis",
+        "rating": 4.4
+    },
+    {
+        "actor": "Melissa Joan Hart",
+        "rating": 4.4
+    },
+    {
+        "actor": "Akihiro Kitamura",
+        "rating": 4.4
+    },
+    {
+        "actor": "Brad Heller",
+        "rating": 4.4
+    },
+    {
+        "actor": "Robin Givens",
+        "rating": 4.4
+    },
+    {
+        "actor": "David Cronenberg",
+        "rating": 4.4
+    },
+    {
+        "actor": "Ashlynn Yennie",
+        "rating": 4.4
+    },
+    {
+        "actor": "Dakota Johnson",
+        "rating": 4.4
+    },
+    {
+        "actor": "Jamie Dornan",
+        "rating": 4.4
+    },
+    {
+        "actor": "Eloise Mumford",
+        "rating": 4.4
+    },
+    {
+        "actor": "Ashley C. Williams",
+        "rating": 4.4
+    },
+    {
+        "actor": "Dieter Laser",
+        "rating": 4.4
+    },
+    {
+        "actor": "Lexa Doig",
+        "rating": 4.4
+    },
+    {
+        "actor": "Jesse Metcalfe",
+        "rating": 4.4
+    },
+    {
+        "actor": "Marielle Scott",
+        "rating": 4.3
+    },
+    {
+        "actor": "Kate Mara",
+        "rating": 4.3
+    },
+    {
+        "actor": "Rob Benedict",
+        "rating": 4.3
+    },
+    {
+        "actor": "Jamie Bell",
+        "rating": 4.3
+    },
+    {
+        "actor": "Liang Shi",
+        "rating": 4.3
+    },
+    {
+        "actor": "Boris Gulyarin",
+        "rating": 4.3
+    },
+    {
+        "actor": "Godfrey Gao",
+        "rating": 4.3
+    },
+    {
+        "actor": "Han Lu",
+        "rating": 4.3
+    },
+    {
+        "actor": "Ashley St. George",
+        "rating": 4.3
+    },
+    {
+        "actor": "Carrie Preston",
+        "rating": 4.3
+    },
+    {
+        "actor": "Cathy Shim",
+        "rating": 4.3
+    },
+    {
+        "actor": "Elliot Lazar",
+        "rating": 4.3
+    },
+    {
+        "actor": "Jason Momoa",
+        "rating": 4.27
+    },
+    {
+        "actor": "RJ Mitte",
+        "rating": 4.2
+    },
+    {
+        "actor": "Ferdia Shaw",
+        "rating": 4.2
+    },
+    {
+        "actor": "Chad Michael Murray",
+        "rating": 4.2
+    },
+    {
+        "actor": "Aqueela Zoll",
+        "rating": 4.2
+    },
+    {
+        "actor": "Chris Jarvis",
+        "rating": 4.2
+    },
+    {
+        "actor": "Millie Bobby Brown",
+        "rating": 4.2
+    },
+    {
+        "actor": "Jedidiah Goodacre",
+        "rating": 4.2
+    },
+    {
+        "actor": "Laura Bilgeri",
+        "rating": 4.2
+    },
+    {
+        "actor": "Racheal Ofori",
+        "rating": 4.2
+    },
+    {
+        "actor": "Michael Rouse",
+        "rating": 4.2
+    },
+    {
+        "actor": "Anthony Ilott",
+        "rating": 4.2
+    },
+    {
+        "actor": "Sadie Katz",
+        "rating": 4.2
+    },
+    {
+        "actor": "Jordana Largy",
+        "rating": 4.1
+    },
+    {
+        "actor": "Graham Verchere",
+        "rating": 4.1
+    },
+    {
+        "actor": "Timothy Omundson",
+        "rating": 4.1
+    },
+    {
+        "actor": "Roxanne McKee",
+        "rating": 4.1
+    },
+    {
+        "actor": "Simon Ginty",
+        "rating": 4.1
+    },
+    {
+        "actor": "Angelina Capozzoli",
+        "rating": 4.1
+    },
+    {
+        "actor": "Doug Bradley",
+        "rating": 4.1
+    },
+    {
+        "actor": "Raphael Bey-Morgan",
+        "rating": 4.1
+    },
+    {
+        "actor": "Jennifer Ehle",
+        "rating": 4.1
+    },
+    {
+        "actor": "Ramiah Bey-Morgan",
+        "rating": 4.1
+    },
+    {
+        "actor": "Camilla Arfwedson",
+        "rating": 4.1
+    },
+    {
+        "actor": "Beto Calvillo",
+        "rating": 4.1
+    },
+    {
+        "actor": "Martin Sheen",
+        "rating": 4.05
+    },
+    {
+        "actor": "Julie Condra",
+        "rating": 4
+    },
+    {
+        "actor": "Noelani Dacascos",
+        "rating": 4
+    },
+    {
+        "actor": "Viktoriya Agalakova",
+        "rating": 4
+    },
+    {
+        "actor": "Jackson Rathbone",
+        "rating": 4
+    },
+    {
+        "actor": "Mark Dacascos",
+        "rating": 4
+    },
+    {
+        "actor": "Nicola Peltz",
+        "rating": 4
+    },
+    {
+        "actor": "Kelly Preston",
+        "rating": 4
+    },
+    {
+        "actor": "Jeremy Stutes",
+        "rating": 4
+    },
+    {
+        "actor": "Khristina Blokhina",
+        "rating": 4
+    },
+    {
+        "actor": "Valeriya Bukhina",
+        "rating": 4
+    },
+    {
+        "actor": "Georgiy Bestaev",
+        "rating": 4
+    },
+    {
+        "actor": "Noah Ringer",
+        "rating": 4
+    },
+    {
+        "actor": "Timoth\u00e9e Chalamet",
+        "rating": 3.95
+    },
+    {
+        "actor": "Alain Moussi",
+        "rating": 3.95
+    },
+    {
+        "actor": "Meg Foster",
+        "rating": 3.9
+    },
+    {
+        "actor": "Brandon Smith",
+        "rating": 3.9
+    },
+    {
+        "actor": "Gabrielle Haugh",
+        "rating": 3.9
+    },
+    {
+        "actor": "Stan Shaw",
+        "rating": 3.9
+    },
+    {
+        "actor": "Sebastien Sisak",
+        "rating": 3.9
+    },
+    {
+        "actor": "Alina Lanina",
+        "rating": 3.9
+    },
+    {
+        "actor": "Sanjar Madi",
+        "rating": 3.9
+    },
+    {
+        "actor": "Daniel Kaluuya",
+        "rating": 3.85
+    },
+    {
+        "actor": "Barbara Marten",
+        "rating": 3.8
+    },
+    {
+        "actor": "Brooklynn Prince",
+        "rating": 3.8
+    },
+    {
+        "actor": "Jos\u00e9 Mar\u00eda Yazpik",
+        "rating": 3.8
+    },
+    {
+        "actor": "Manolo Cardona",
+        "rating": 3.8
+    },
+    {
+        "actor": "Ryan Merriman",
+        "rating": 3.8
+    },
+    {
+        "actor": "Piper Perabo",
+        "rating": 3.8
+    },
+    {
+        "actor": "Eva Habermann",
+        "rating": 3.8
+    },
+    {
+        "actor": "Adam Hampton",
+        "rating": 3.8
+    },
+    {
+        "actor": "Diego Carlos Seyfarth",
+        "rating": 3.8
+    },
+    {
+        "actor": "Katie Burgess",
+        "rating": 3.8
+    },
+    {
+        "actor": "Zendaya",
+        "rating": 3.8
+    },
+    {
+        "actor": "Naomi Grossman",
+        "rating": 3.8
+    },
+    {
+        "actor": "Rebecca Hall",
+        "rating": 3.75
+    },
+    {
+        "actor": "Jesse Plemons",
+        "rating": 3.6
+    },
+    {
+        "actor": "Taylor Dooley",
+        "rating": 3.6
+    },
+    {
+        "actor": "Cayden Boyd",
+        "rating": 3.6
+    },
+    {
+        "actor": "George Lopez",
+        "rating": 3.6
+    },
+    {
+        "actor": "David Harbour",
+        "rating": 3.6
+    },
+    {
+        "actor": "Kali Hawk",
+        "rating": 3.5
+    },
+    {
+        "actor": "Mike Epps",
+        "rating": 3.5
+    },
+    {
+        "actor": "Piimio Mei",
+        "rating": 3.5
+    },
+    {
+        "actor": "Jed Brophy",
+        "rating": 3.5
+    },
+    {
+        "actor": "Nathalie Morris",
+        "rating": 3.5
+    },
+    {
+        "actor": "Ava Kolker",
+        "rating": 3.5
+    },
+    {
+        "actor": "Joel McHale",
+        "rating": 3.5
+    },
+    {
+        "actor": "Rowan Blanchard",
+        "rating": 3.5
+    },
+    {
+        "actor": "Mason Cook",
+        "rating": 3.5
+    },
+    {
+        "actor": "Gracie Whitton",
+        "rating": 3.5
+    },
+    {
+        "actor": "Simon Rex",
+        "rating": 3.5
+    },
+    {
+        "actor": "Jordan Rivers",
+        "rating": 3.5
+    },
+    {
+        "actor": "Guilherme Winter",
+        "rating": 3.3
+    },
+    {
+        "actor": "Camila Rodrigues",
+        "rating": 3.3
+    },
+    {
+        "actor": "Jamie Brewster",
+        "rating": 3.3
+    },
+    {
+        "actor": "James Corden",
+        "rating": 3.3
+    },
+    {
+        "actor": "Sergio Marone",
+        "rating": 3.3
+    },
+    {
+        "actor": "Giselle Iti\u00e9",
+        "rating": 3.3
+    },
+    {
+        "actor": "Leesa Neidel",
+        "rating": 3.3
+    },
+    {
+        "actor": "Nicole Fancher",
+        "rating": 3.3
+    },
+    {
+        "actor": "Ashley Mandanas",
+        "rating": 3.3
+    },
+    {
+        "actor": "Ye Liu",
+        "rating": 3.2
+    },
+    {
+        "actor": "Song Seung-heon",
+        "rating": 3.2
+    },
+    {
+        "actor": "William Wai-Ting Chan",
+        "rating": 3.2
+    },
+    {
+        "actor": "Cassi Thomson",
+        "rating": 3.1
+    },
+    {
+        "actor": "Alexander Skarsg\u00e5rd",
+        "rating": 3.1
+    },
+    {
+        "actor": "Nicky Whelan",
+        "rating": 3.1
+    },
+    {
+        "actor": "Ego Mikitas",
+        "rating": 2.9
+    },
+    {
+        "actor": "Aimee Stolte",
+        "rating": 2.9
+    },
+    {
+        "actor": "Raymond Pinharry",
+        "rating": 2.9
+    },
+    {
+        "actor": "Caroline Harris",
+        "rating": 2.9
+    },
+    {
+        "actor": "Mary Makariou",
+        "rating": 2.9
+    },
+    {
+        "actor": "Jaih Betote",
+        "rating": 2.8
+    },
+    {
+        "actor": "Daniela Norman",
+        "rating": 2.8
+    },
+    {
+        "actor": "Robbie Fairchild",
+        "rating": 2.8
+    },
+    {
+        "actor": "Rami Malek",
+        "rating": 2.67
+    },
+    {
+        "actor": "Justin Chatwin",
+        "rating": 2.5
+    },
+    {
+        "actor": "Yun-Fat Chow",
+        "rating": 2.5
+    },
+    {
+        "actor": "Jamie Chung",
+        "rating": 2.5
+    },
+    {
+        "actor": "Damien Luvara",
+        "rating": 2.4
+    },
+    {
+        "actor": "Tom Savini",
+        "rating": 2.4
+    },
+    {
+        "actor": "Marty Schiff",
+        "rating": 2.4
+    },
+    {
+        "actor": "Jamie McCoy",
+        "rating": 2.4
+    },
+    {
+        "actor": "LaKeith Stanfield",
+        "rating": 2.25
+    }
+]

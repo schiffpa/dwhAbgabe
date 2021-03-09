@@ -1,0 +1,530 @@
+[
+    {
+        "actors": [
+            {
+                "actor": "Chris Evans",
+                "f": 9
+            },
+            {
+                "actor": "Chris Hemsworth",
+                "f": 12
+            },
+            {
+                "actor": "Mark Ruffalo",
+                "f": 5
+            },
+            {
+                "actor": "Robert Downey Jr.",
+                "f": 11
+            }
+        ],
+        "f": 3,
+        "r": 8.27
+    },
+    {
+        "actors": [
+            {
+                "actor": "Adam Driver",
+                "f": 4
+            },
+            {
+                "actor": "Carrie Fisher",
+                "f": 5
+            },
+            {
+                "actor": "Harrison Ford",
+                "f": 6
+            },
+            {
+                "actor": "Mark Hamill",
+                "f": 5
+            }
+        ],
+        "f": 1,
+        "r": 7.9
+    },
+    {
+        "actors": [
+            {
+                "actor": "Hugh Jackman",
+                "f": 7
+            },
+            {
+                "actor": "James McAvoy",
+                "f": 8
+            },
+            {
+                "actor": "Jennifer Lawrence",
+                "f": 8
+            },
+            {
+                "actor": "Michael Fassbender",
+                "f": 6
+            }
+        ],
+        "f": 1,
+        "r": 7.9
+    },
+    {
+        "actors": [
+            {
+                "actor": "Chris Pratt",
+                "f": 7
+            },
+            {
+                "actor": "Dave Bautista",
+                "f": 5
+            },
+            {
+                "actor": "Vin Diesel",
+                "f": 8
+            },
+            {
+                "actor": "Zoe Saldana",
+                "f": 5
+            }
+        ],
+        "f": 2,
+        "r": 7.8
+    },
+    {
+        "actors": [
+            {
+                "actor": "Ian McKellen",
+                "f": 4
+            },
+            {
+                "actor": "Ken Stott",
+                "f": 3
+            },
+            {
+                "actor": "Martin Freeman",
+                "f": 3
+            },
+            {
+                "actor": "Richard Armitage",
+                "f": 3
+            }
+        ],
+        "f": 3,
+        "r": 7.67
+    },
+    {
+        "actors": [
+            {
+                "actor": "Geoffrey Rush",
+                "f": 4
+            },
+            {
+                "actor": "Johnny Depp",
+                "f": 12
+            },
+            {
+                "actor": "Keira Knightley",
+                "f": 5
+            },
+            {
+                "actor": "Orlando Bloom",
+                "f": 4
+            }
+        ],
+        "f": 2,
+        "r": 7.55
+    },
+    {
+        "actors": [
+            {
+                "actor": "Jeremy Renner",
+                "f": 6
+            },
+            {
+                "actor": "Paula Patton",
+                "f": 3
+            },
+            {
+                "actor": "Simon Pegg",
+                "f": 4
+            },
+            {
+                "actor": "Tom Cruise",
+                "f": 8
+            }
+        ],
+        "f": 1,
+        "r": 7.4
+    },
+    {
+        "actors": [
+            {
+                "actor": "Jeremy Renner",
+                "f": 6
+            },
+            {
+                "actor": "Rebecca Ferguson",
+                "f": 4
+            },
+            {
+                "actor": "Simon Pegg",
+                "f": 4
+            },
+            {
+                "actor": "Tom Cruise",
+                "f": 8
+            }
+        ],
+        "f": 1,
+        "r": 7.4
+    },
+    {
+        "actors": [
+            {
+                "actor": "Abigail Breslin",
+                "f": 3
+            },
+            {
+                "actor": "Emma Stone",
+                "f": 7
+            },
+            {
+                "actor": "Jesse Eisenberg",
+                "f": 5
+            },
+            {
+                "actor": "Woody Harrelson",
+                "f": 9
+            }
+        ],
+        "f": 2,
+        "r": 7.15
+    },
+    {
+        "actors": [
+            {
+                "actor": "Catherine Keener",
+                "f": 3
+            },
+            {
+                "actor": "Emma Stone",
+                "f": 7
+            },
+            {
+                "actor": "Nicolas Cage",
+                "f": 10
+            },
+            {
+                "actor": "Ryan Reynolds",
+                "f": 10
+            }
+        ],
+        "f": 2,
+        "r": 7.1
+    },
+    {
+        "actors": [
+            {
+                "actor": "Andy Samberg",
+                "f": 4
+            },
+            {
+                "actor": "Anna Faris",
+                "f": 4
+            },
+            {
+                "actor": "Bill Hader",
+                "f": 5
+            },
+            {
+                "actor": "James Caan",
+                "f": 3
+            }
+        ],
+        "f": 1,
+        "r": 6.9
+    },
+    {
+        "actors": [
+            {
+                "actor": "Bradley Cooper",
+                "f": 7
+            },
+            {
+                "actor": "Ed Helms",
+                "f": 5
+            },
+            {
+                "actor": "Justin Bartha",
+                "f": 3
+            },
+            {
+                "actor": "Zach Galifianakis",
+                "f": 3
+            }
+        ],
+        "f": 3,
+        "r": 6.67
+    },
+    {
+        "actors": [
+            {
+                "actor": "Jennifer Lawrence",
+                "f": 8
+            },
+            {
+                "actor": "Josh Hutcherson",
+                "f": 3
+            },
+            {
+                "actor": "Liam Hemsworth",
+                "f": 4
+            },
+            {
+                "actor": "Woody Harrelson",
+                "f": 9
+            }
+        ],
+        "f": 2,
+        "r": 6.6
+    },
+    {
+        "actors": [
+            {
+                "actor": "Adam Sandler",
+                "f": 11
+            },
+            {
+                "actor": "Andy Samberg",
+                "f": 4
+            },
+            {
+                "actor": "Kevin James",
+                "f": 6
+            },
+            {
+                "actor": "Selena Gomez",
+                "f": 3
+            }
+        ],
+        "f": 2,
+        "r": 6.5
+    },
+    {
+        "actors": [
+            {
+                "actor": "Amy Adams",
+                "f": 5
+            },
+            {
+                "actor": "Ben Affleck",
+                "f": 6
+            },
+            {
+                "actor": "Henry Cavill",
+                "f": 5
+            },
+            {
+                "actor": "Jesse Eisenberg",
+                "f": 5
+            }
+        ],
+        "f": 1,
+        "r": 6.4
+    },
+    {
+        "actors": [
+            {
+                "actor": "James McAvoy",
+                "f": 8
+            },
+            {
+                "actor": "Jennifer Lawrence",
+                "f": 8
+            },
+            {
+                "actor": "Michael Fassbender",
+                "f": 6
+            },
+            {
+                "actor": "Nicholas Hoult",
+                "f": 3
+            }
+        ],
+        "f": 2,
+        "r": 6.3
+    },
+    {
+        "actors": [
+            {
+                "actor": "Ben Barnes",
+                "f": 3
+            },
+            {
+                "actor": "Georgie Henley",
+                "f": 3
+            },
+            {
+                "actor": "Skandar Keynes",
+                "f": 3
+            },
+            {
+                "actor": "Will Poulter",
+                "f": 3
+            }
+        ],
+        "f": 1,
+        "r": 6.3
+    },
+    {
+        "actors": [
+            {
+                "actor": "Amy Adams",
+                "f": 5
+            },
+            {
+                "actor": "Ben Affleck",
+                "f": 6
+            },
+            {
+                "actor": "Gal Gadot",
+                "f": 4
+            },
+            {
+                "actor": "Henry Cavill",
+                "f": 5
+            }
+        ],
+        "f": 1,
+        "r": 6.3
+    },
+    {
+        "actors": [
+            {
+                "actor": "Jason Flemyng",
+                "f": 3
+            },
+            {
+                "actor": "Liam Neeson",
+                "f": 11
+            },
+            {
+                "actor": "Ralph Fiennes",
+                "f": 7
+            },
+            {
+                "actor": "Sam Worthington",
+                "f": 5
+            }
+        ],
+        "f": 1,
+        "r": 5.8
+    },
+    {
+        "actors": [
+            {
+                "actor": "Geena Davis",
+                "f": 3
+            },
+            {
+                "actor": "Hugh Laurie",
+                "f": 4
+            },
+            {
+                "actor": "Jonathan Lipnicki",
+                "f": 3
+            },
+            {
+                "actor": "Michael J. Fox",
+                "f": 4
+            }
+        ],
+        "f": 2,
+        "r": 5.7
+    },
+    {
+        "actors": [
+            {
+                "actor": "Edgar Ram\u00edrez",
+                "f": 3
+            },
+            {
+                "actor": "Liam Neeson",
+                "f": 11
+            },
+            {
+                "actor": "Ralph Fiennes",
+                "f": 7
+            },
+            {
+                "actor": "Sam Worthington",
+                "f": 5
+            }
+        ],
+        "f": 1,
+        "r": 5.7
+    },
+    {
+        "actors": [
+            {
+                "actor": "Adam Sandler",
+                "f": 11
+            },
+            {
+                "actor": "Chris Rock",
+                "f": 3
+            },
+            {
+                "actor": "David Spade",
+                "f": 3
+            },
+            {
+                "actor": "Kevin James",
+                "f": 6
+            }
+        ],
+        "f": 2,
+        "r": 5.65
+    },
+    {
+        "actors": [
+            {
+                "actor": "Betsy Russell",
+                "f": 4
+            },
+            {
+                "actor": "Cary Elwes",
+                "f": 4
+            },
+            {
+                "actor": "Costas Mandylor",
+                "f": 4
+            },
+            {
+                "actor": "Tobin Bell",
+                "f": 6
+            }
+        ],
+        "f": 1,
+        "r": 5.6
+    },
+    {
+        "actors": [
+            {
+                "actor": "David Cross",
+                "f": 3
+            },
+            {
+                "actor": "Jason Lee",
+                "f": 4
+            },
+            {
+                "actor": "Justin Long",
+                "f": 4
+            },
+            {
+                "actor": "Zachary Levi",
+                "f": 3
+            }
+        ],
+        "f": 1,
+        "r": 4.5
+    }
+]

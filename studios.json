@@ -1,0 +1,6178 @@
+[
+    {
+        "studio": "Alfran Productions",
+        "rating": 9.2
+    },
+    {
+        "studio": "The Coppola Company",
+        "rating": 9
+    },
+    {
+        "studio": "Isobel Griffiths",
+        "rating": 9
+    },
+    {
+        "studio": "The Saul Zaentz Company",
+        "rating": 8.8
+    },
+    {
+        "studio": "PEA",
+        "rating": 8.8
+    },
+    {
+        "studio": "Arturo Gonz\u00e1lez Producciones Cinematogr\u00e1ficas S.A.",
+        "rating": 8.8
+    },
+    {
+        "studio": "The Linson Company",
+        "rating": 8.8
+    },
+    {
+        "studio": "Taurus Film",
+        "rating": 8.8
+    },
+    {
+        "studio": "Knickerbocker Films",
+        "rating": 8.8
+    },
+    {
+        "studio": "Atman Entertainment",
+        "rating": 8.8
+    },
+    {
+        "studio": "Groucho II Film Partnership",
+        "rating": 8.7
+    },
+    {
+        "studio": "Lynda Obst Productions",
+        "rating": 8.6
+    },
+    {
+        "studio": "Darkwoods Productions",
+        "rating": 8.6
+    },
+    {
+        "studio": "Melampo Cinematografica",
+        "rating": 8.6
+    },
+    {
+        "studio": "Les Films du Dauphin",
+        "rating": 8.5
+    },
+    {
+        "studio": "TNDG",
+        "rating": 8.4
+    },
+    {
+        "studio": "Hawk Films",
+        "rating": 8.4
+    },
+    {
+        "studio": "Peregrine",
+        "rating": 8.4
+    },
+    {
+        "studio": "Producers Circle",
+        "rating": 8.4
+    },
+    {
+        "studio": "Visiona Romantica",
+        "rating": 8.3
+    },
+    {
+        "studio": "New Republic Pictures",
+        "rating": 8.3
+    },
+    {
+        "studio": "The Ladd Company",
+        "rating": 8.3
+    },
+    {
+        "studio": "B.H. Finance C.V.",
+        "rating": 8.3
+    },
+    {
+        "studio": "Neal Street Productions",
+        "rating": 8.3
+    },
+    {
+        "studio": "This Is That Productions",
+        "rating": 8.3
+    },
+    {
+        "studio": "Kanoon",
+        "rating": 8.3
+    },
+    {
+        "studio": "Zehnte Babelsberg Film",
+        "rating": 8.3
+    },
+    {
+        "studio": "DENTSU Music And Entertainment",
+        "rating": 8.3
+    },
+    {
+        "studio": "SLM Production Group",
+        "rating": 8.3
+    },
+    {
+        "studio": "Phoenix Pictures",
+        "rating": 8.2
+    },
+    {
+        "studio": "EMJAG Productions",
+        "rating": 8.2
+    },
+    {
+        "studio": "Filmtribe",
+        "rating": 8.2
+    },
+    {
+        "studio": "d-rights",
+        "rating": 8.2
+    },
+    {
+        "studio": "Tohokushinsha Film Corporation",
+        "rating": 8.2
+    },
+    {
+        "studio": "Buena Vista Home Entertainment",
+        "rating": 8.2
+    },
+    {
+        "studio": "Gordon Company",
+        "rating": 8.2
+    },
+    {
+        "studio": "Solaris Film",
+        "rating": 8.2
+    },
+    {
+        "studio": "Paramount Home Entertainment",
+        "rating": 8.2
+    },
+    {
+        "studio": "Syncopy",
+        "rating": 8.16
+    },
+    {
+        "studio": "Studio Ghibli",
+        "rating": 8.14
+    },
+    {
+        "studio": "Tokuma Shoten",
+        "rating": 8.13
+    },
+    {
+        "studio": "Arka Media Works",
+        "rating": 8.1
+    },
+    {
+        "studio": "Permut Presentations",
+        "rating": 8.1
+    },
+    {
+        "studio": "Hutch Parker Entertainment",
+        "rating": 8.1
+    },
+    {
+        "studio": "Think Studio",
+        "rating": 8.1
+    },
+    {
+        "studio": "Screen NSW",
+        "rating": 8.1
+    },
+    {
+        "studio": "Colos\u00e9 Producciones",
+        "rating": 8.1
+    },
+    {
+        "studio": "Super Cool ManChu",
+        "rating": 8.1
+    },
+    {
+        "studio": "Splendid Pictures",
+        "rating": 8.1
+    },
+    {
+        "studio": "Kemp Company",
+        "rating": 8.1
+    },
+    {
+        "studio": "Parkes/MacDonald Productions",
+        "rating": 8.1
+    },
+    {
+        "studio": "Pacific Standard",
+        "rating": 8.1
+    },
+    {
+        "studio": "8:38 Productions",
+        "rating": 8.1
+    },
+    {
+        "studio": "Artemple - Hollywood",
+        "rating": 8.1
+    },
+    {
+        "studio": "Inferno Distribution",
+        "rating": 8.1
+    },
+    {
+        "studio": "Hachiko",
+        "rating": 8.1
+    },
+    {
+        "studio": "Gaumont",
+        "rating": 8.1
+    },
+    {
+        "studio": "Turman-Foster Company",
+        "rating": 8.1
+    },
+    {
+        "studio": "Grand Army Entertainment",
+        "rating": 8.1
+    },
+    {
+        "studio": "Opperman Viner Chrystyn Entertainment",
+        "rating": 8.1
+    },
+    {
+        "studio": "ICEC",
+        "rating": 8.1
+    },
+    {
+        "studio": "Turnpike Films",
+        "rating": 8.1
+    },
+    {
+        "studio": "ICAA",
+        "rating": 8.1
+    },
+    {
+        "studio": "TV3",
+        "rating": 8.1
+    },
+    {
+        "studio": "Madhouse Entertainment",
+        "rating": 8.1
+    },
+    {
+        "studio": "Habitaci\u00f3n Cerrada, La",
+        "rating": 8.1
+    },
+    {
+        "studio": "Nibariki",
+        "rating": 8.1
+    },
+    {
+        "studio": "Icon Entertainment International",
+        "rating": 8.05
+    },
+    {
+        "studio": "Joint Effort",
+        "rating": 8.05
+    },
+    {
+        "studio": "Nippon Television Network Corporation",
+        "rating": 8.03
+    },
+    {
+        "studio": "Akira Committee Company Ltd.",
+        "rating": 8
+    },
+    {
+        "studio": "Kodansha",
+        "rating": 8
+    },
+    {
+        "studio": "Bristol Automotive",
+        "rating": 8
+    },
+    {
+        "studio": "Euro Film Funding",
+        "rating": 8
+    },
+    {
+        "studio": "Hong Kong Alpha Motion Pictures Co.",
+        "rating": 8
+    },
+    {
+        "studio": "Zanuck/Brown Productions",
+        "rating": 8
+    },
+    {
+        "studio": "Government of the Commonwealth of the Bahamas",
+        "rating": 8
+    },
+    {
+        "studio": "Casino Royale Productions",
+        "rating": 8
+    },
+    {
+        "studio": "Pacific Western",
+        "rating": 8
+    },
+    {
+        "studio": "Ascot Elite - Ascot Life!",
+        "rating": 8
+    },
+    {
+        "studio": "Mainichi Broadcasting System (MBS)",
+        "rating": 8
+    },
+    {
+        "studio": "Hemdale Film",
+        "rating": 8
+    },
+    {
+        "studio": "Sumitomo Corporation",
+        "rating": 8
+    },
+    {
+        "studio": "Bandai Entertainment Inc.",
+        "rating": 8
+    },
+    {
+        "studio": "Studio Aoi",
+        "rating": 8
+    },
+    {
+        "studio": "Queen Films",
+        "rating": 8
+    },
+    {
+        "studio": "International Traders",
+        "rating": 8
+    },
+    {
+        "studio": "Thunderbird Entertainment",
+        "rating": 8
+    },
+    {
+        "studio": "M Productions",
+        "rating": 8
+    },
+    {
+        "studio": "Mitsubishi",
+        "rating": 7.95
+    },
+    {
+        "studio": "Sikelia Productions",
+        "rating": 7.92
+    },
+    {
+        "studio": "La Cin\u00e9facture",
+        "rating": 7.9
+    },
+    {
+        "studio": "Barunson E&A",
+        "rating": 7.9
+    },
+    {
+        "studio": "MavroCine Pictures GmbH & Co. KG",
+        "rating": 7.9
+    },
+    {
+        "studio": "Frenesy Film Company",
+        "rating": 7.9
+    },
+    {
+        "studio": "Pandemonium",
+        "rating": 7.9
+    },
+    {
+        "studio": "Shueisha",
+        "rating": 7.9
+    },
+    {
+        "studio": "Bandai Namco Entertainment",
+        "rating": 7.9
+    },
+    {
+        "studio": "Sony Pictures Classics",
+        "rating": 7.9
+    },
+    {
+        "studio": "Piki Films",
+        "rating": 7.9
+    },
+    {
+        "studio": "Defender Films",
+        "rating": 7.9
+    },
+    {
+        "studio": "Xenolinguistics",
+        "rating": 7.9
+    },
+    {
+        "studio": "Lava Bear Films",
+        "rating": 7.9
+    },
+    {
+        "studio": "T-Street Productions",
+        "rating": 7.9
+    },
+    {
+        "studio": "VIZ Media",
+        "rating": 7.9
+    },
+    {
+        "studio": "Studio Fuga",
+        "rating": 7.9
+    },
+    {
+        "studio": "Motion Picture Associates",
+        "rating": 7.9
+    },
+    {
+        "studio": "Leonine",
+        "rating": 7.9
+    },
+    {
+        "studio": "Water's End Productions",
+        "rating": 7.9
+    },
+    {
+        "studio": "M.Y.R.A. Entertainment",
+        "rating": 7.9
+    },
+    {
+        "studio": "Memento Films International",
+        "rating": 7.9
+    },
+    {
+        "studio": "CJ Entertainment",
+        "rating": 7.85
+    },
+    {
+        "studio": "WingNut Films",
+        "rating": 7.84
+    },
+    {
+        "studio": "Rocket Science",
+        "rating": 7.8
+    },
+    {
+        "studio": "David L. Wolper Productions",
+        "rating": 7.8
+    },
+    {
+        "studio": "Translux",
+        "rating": 7.8
+    },
+    {
+        "studio": "The Quaker Oats Company",
+        "rating": 7.8
+    },
+    {
+        "studio": "American Entertainment Partners L.P.",
+        "rating": 7.8
+    },
+    {
+        "studio": "Toff Guy Films",
+        "rating": 7.8
+    },
+    {
+        "studio": "Gran Via",
+        "rating": 7.8
+    },
+    {
+        "studio": "Double Infinity Productions",
+        "rating": 7.8
+    },
+    {
+        "studio": "Amercent Films",
+        "rating": 7.8
+    },
+    {
+        "studio": "Amblin Partners",
+        "rating": 7.77
+    },
+    {
+        "studio": "Studio 4\u00b0C",
+        "rating": 7.75
+    },
+    {
+        "studio": "Renn Productions",
+        "rating": 7.7
+    },
+    {
+        "studio": "Maximum Effort",
+        "rating": 7.7
+    },
+    {
+        "studio": "Monkeypaw Productions",
+        "rating": 7.7
+    },
+    {
+        "studio": "Price",
+        "rating": 7.7
+    },
+    {
+        "studio": "Anonymous Content",
+        "rating": 7.7
+    },
+    {
+        "studio": "Patalex IV Productions Limited",
+        "rating": 7.7
+    },
+    {
+        "studio": "Elcajo Productions",
+        "rating": 7.7
+    },
+    {
+        "studio": "Anabasis N.V.",
+        "rating": 7.7
+    },
+    {
+        "studio": "B23",
+        "rating": 7.7
+    },
+    {
+        "studio": "Cowboy Films",
+        "rating": 7.7
+    },
+    {
+        "studio": "Scottish Screen",
+        "rating": 7.7
+    },
+    {
+        "studio": "UK Film Council",
+        "rating": 7.7
+    },
+    {
+        "studio": "Slate Films",
+        "rating": 7.7
+    },
+    {
+        "studio": "Tatfilm",
+        "rating": 7.7
+    },
+    {
+        "studio": "Watermark Pictures",
+        "rating": 7.7
+    },
+    {
+        "studio": "The Yomiuri Shimbun",
+        "rating": 7.7
+    },
+    {
+        "studio": "Hakuhodo DY Media Partners",
+        "rating": 7.7
+    },
+    {
+        "studio": "Lawson",
+        "rating": 7.7
+    },
+    {
+        "studio": "Taikei Office",
+        "rating": 7.7
+    },
+    {
+        "studio": "Asahi Soft Drinks Company",
+        "rating": 7.7
+    },
+    {
+        "studio": "IFP Westcoast Erste",
+        "rating": 7.7
+    },
+    {
+        "studio": "Jersey Films",
+        "rating": 7.7
+    },
+    {
+        "studio": "Dune Entertainment III",
+        "rating": 7.65
+    },
+    {
+        "studio": "Vendian Entertainment",
+        "rating": 7.65
+    },
+    {
+        "studio": "Cinema 84",
+        "rating": 7.65
+    },
+    {
+        "studio": "Pixar",
+        "rating": 7.64
+    },
+    {
+        "studio": "Virtual Studios",
+        "rating": 7.6
+    },
+    {
+        "studio": "Hear/Say Productions",
+        "rating": 7.6
+    },
+    {
+        "studio": "22 & Green",
+        "rating": 7.6
+    },
+    {
+        "studio": "Saw Productions Inc.",
+        "rating": 7.6
+    },
+    {
+        "studio": "Le Grisbi Productions",
+        "rating": 7.6
+    },
+    {
+        "studio": "Crave Films",
+        "rating": 7.6
+    },
+    {
+        "studio": "Bazelevs Production",
+        "rating": 7.6
+    },
+    {
+        "studio": "Shifting Gears Productions",
+        "rating": 7.6
+    },
+    {
+        "studio": "Cond\u00e9 Nast Entertainment",
+        "rating": 7.6
+    },
+    {
+        "studio": "Grade A Entertainment",
+        "rating": 7.6
+    },
+    {
+        "studio": "Gerber Pictures",
+        "rating": 7.6
+    },
+    {
+        "studio": "Starbucks Entertainment",
+        "rating": 7.6
+    },
+    {
+        "studio": "Outlier Society Productions",
+        "rating": 7.6
+    },
+    {
+        "studio": "New Leaf Literary & Media",
+        "rating": 7.6
+    },
+    {
+        "studio": "Jor kwang Films",
+        "rating": 7.6
+    },
+    {
+        "studio": "GDH 559",
+        "rating": 7.6
+    },
+    {
+        "studio": "One Community",
+        "rating": 7.6
+    },
+    {
+        "studio": "Orange Sky Golden Harvest",
+        "rating": 7.6
+    },
+    {
+        "studio": "Live Nation Productions",
+        "rating": 7.6
+    },
+    {
+        "studio": "Hong Kong Stuntman Association",
+        "rating": 7.6
+    },
+    {
+        "studio": "Paragon Films Ltd.",
+        "rating": 7.6
+    },
+    {
+        "studio": "Cor Cordium Productions",
+        "rating": 7.6
+    },
+    {
+        "studio": "Highwayman Films",
+        "rating": 7.6
+    },
+    {
+        "studio": "Screen Australia",
+        "rating": 7.57
+    },
+    {
+        "studio": "TMS Entertainment",
+        "rating": 7.55
+    },
+    {
+        "studio": "Silver Screen Partners IV",
+        "rating": 7.53
+    },
+    {
+        "studio": "Heyday Films",
+        "rating": 7.52
+    },
+    {
+        "studio": "Toho Animation",
+        "rating": 7.5
+    },
+    {
+        "studio": "Ikiru Films",
+        "rating": 7.5
+    },
+    {
+        "studio": "Lord Miller",
+        "rating": 7.5
+    },
+    {
+        "studio": "A Band Apart",
+        "rating": 7.5
+    },
+    {
+        "studio": "Farah Films & Management",
+        "rating": 7.5
+    },
+    {
+        "studio": "Geffen Pictures",
+        "rating": 7.5
+    },
+    {
+        "studio": "Mad Hatter Entertainment",
+        "rating": 7.5
+    },
+    {
+        "studio": "Blacklab Entertainment",
+        "rating": 7.5
+    },
+    {
+        "studio": "Wolfhound Pictures",
+        "rating": 7.5
+    },
+    {
+        "studio": "Castelao Productions",
+        "rating": 7.5
+    },
+    {
+        "studio": "Film Victoria",
+        "rating": 7.5
+    },
+    {
+        "studio": "ShivHans Pictures",
+        "rating": 7.5
+    },
+    {
+        "studio": "Nouvelles \u00c9ditions de Films (NEF)",
+        "rating": 7.5
+    },
+    {
+        "studio": "VIP Medienfonds 4",
+        "rating": 7.5
+    },
+    {
+        "studio": "Rising Star",
+        "rating": 7.5
+    },
+    {
+        "studio": "BONES",
+        "rating": 7.5
+    },
+    {
+        "studio": "Icon Productions",
+        "rating": 7.5
+    },
+    {
+        "studio": "Miramax",
+        "rating": 7.49
+    },
+    {
+        "studio": "A24",
+        "rating": 7.45
+    },
+    {
+        "studio": "Castle Rock Entertainment",
+        "rating": 7.44
+    },
+    {
+        "studio": "Fox Searchlight Pictures",
+        "rating": 7.44
+    },
+    {
+        "studio": "DNA Films",
+        "rating": 7.43
+    },
+    {
+        "studio": "Scion Films",
+        "rating": 7.43
+    },
+    {
+        "studio": "Appian Way",
+        "rating": 7.43
+    },
+    {
+        "studio": "Zwart Arbeid",
+        "rating": 7.4
+    },
+    {
+        "studio": "Undisputed 3 Productions",
+        "rating": 7.4
+    },
+    {
+        "studio": "The Film Department",
+        "rating": 7.4
+    },
+    {
+        "studio": "Rodar y Rodar",
+        "rating": 7.4
+    },
+    {
+        "studio": "Riche-Ludwig Productions",
+        "rating": 7.4
+    },
+    {
+        "studio": "Wanda Pictures",
+        "rating": 7.4
+    },
+    {
+        "studio": "Elara Pictures",
+        "rating": 7.4
+    },
+    {
+        "studio": "Evil Twins",
+        "rating": 7.4
+    },
+    {
+        "studio": "Warp Films",
+        "rating": 7.4
+    },
+    {
+        "studio": "3Foot7",
+        "rating": 7.4
+    },
+    {
+        "studio": "China Movie Channel",
+        "rating": 7.4
+    },
+    {
+        "studio": "Odin",
+        "rating": 7.4
+    },
+    {
+        "studio": "Fairview Entertainment",
+        "rating": 7.4
+    },
+    {
+        "studio": "DNA Productions",
+        "rating": 7.4
+    },
+    {
+        "studio": "DefyNite Films",
+        "rating": 7.4
+    },
+    {
+        "studio": "MJW Films",
+        "rating": 7.4
+    },
+    {
+        "studio": "IAC Films",
+        "rating": 7.4
+    },
+    {
+        "studio": "Nordisk Film",
+        "rating": 7.4
+    },
+    {
+        "studio": "Madhouse",
+        "rating": 7.4
+    },
+    {
+        "studio": "Shirogumi",
+        "rating": 7.4
+    },
+    {
+        "studio": "Robot Communications",
+        "rating": 7.4
+    },
+    {
+        "studio": "Virgin Produced",
+        "rating": 7.4
+    },
+    {
+        "studio": "Di Novi Pictures",
+        "rating": 7.4
+    },
+    {
+        "studio": "Pandora Pictures",
+        "rating": 7.4
+    },
+    {
+        "studio": "Gaylord Films",
+        "rating": 7.4
+    },
+    {
+        "studio": "Iris Productions",
+        "rating": 7.4
+    },
+    {
+        "studio": "Pole Star",
+        "rating": 7.4
+    },
+    {
+        "studio": "Hobby Films",
+        "rating": 7.4
+    },
+    {
+        "studio": "Stanley Kubrick Productions",
+        "rating": 7.4
+    },
+    {
+        "studio": "Boy of the Year",
+        "rating": 7.4
+    },
+    {
+        "studio": "Intermedia",
+        "rating": 7.4
+    },
+    {
+        "studio": "Osiris Films",
+        "rating": 7.4
+    },
+    {
+        "studio": "Dieter Geissler Filmproduktion",
+        "rating": 7.4
+    },
+    {
+        "studio": "Bavaria Film",
+        "rating": 7.4
+    },
+    {
+        "studio": "Producers Sales Organization (PSO)",
+        "rating": 7.4
+    },
+    {
+        "studio": "WDR",
+        "rating": 7.4
+    },
+    {
+        "studio": "Bavaria Studios",
+        "rating": 7.4
+    },
+    {
+        "studio": "Laika Entertainment",
+        "rating": 7.38
+    },
+    {
+        "studio": "Pascal Pictures",
+        "rating": 7.38
+    },
+    {
+        "studio": "Big Talk Productions",
+        "rating": 7.37
+    },
+    {
+        "studio": "Walt Disney Productions",
+        "rating": 7.36
+    },
+    {
+        "studio": "3 Arts Entertainment",
+        "rating": 7.33
+    },
+    {
+        "studio": "Bad Robot",
+        "rating": 7.33
+    },
+    {
+        "studio": "Reliance Entertainment",
+        "rating": 7.31
+    },
+    {
+        "studio": "Warner Bros. Animation",
+        "rating": 7.31
+    },
+    {
+        "studio": "Bull Productions",
+        "rating": 7.3
+    },
+    {
+        "studio": "Mandalay Pictures",
+        "rating": 7.3
+    },
+    {
+        "studio": "Imagine Rights",
+        "rating": 7.3
+    },
+    {
+        "studio": "City on a Hill Productions",
+        "rating": 7.3
+    },
+    {
+        "studio": "The Curiosity Company",
+        "rating": 7.3
+    },
+    {
+        "studio": "Mission Pictures International",
+        "rating": 7.3
+    },
+    {
+        "studio": "Film Roman",
+        "rating": 7.3
+    },
+    {
+        "studio": "PPW Films",
+        "rating": 7.3
+    },
+    {
+        "studio": "LD Entertainment",
+        "rating": 7.3
+    },
+    {
+        "studio": "Rough Draft Feature Animation",
+        "rating": 7.3
+    },
+    {
+        "studio": "Gracie Films",
+        "rating": 7.3
+    },
+    {
+        "studio": "Electric City Entertainment",
+        "rating": 7.3
+    },
+    {
+        "studio": "Kevin Downes Productions",
+        "rating": 7.3
+    },
+    {
+        "studio": "AKOM Production Company",
+        "rating": 7.3
+    },
+    {
+        "studio": "16:14 Entertainment",
+        "rating": 7.3
+    },
+    {
+        "studio": "Tim Burton Animation Company",
+        "rating": 7.3
+    },
+    {
+        "studio": "Will Vinton Studios",
+        "rating": 7.3
+    },
+    {
+        "studio": "Panorama Global",
+        "rating": 7.3
+    },
+    {
+        "studio": "Demarest Films",
+        "rating": 7.3
+    },
+    {
+        "studio": "Helena Productions",
+        "rating": 7.3
+    },
+    {
+        "studio": "Torridon Films",
+        "rating": 7.3
+    },
+    {
+        "studio": "Soho VFX",
+        "rating": 7.3
+    },
+    {
+        "studio": "PalmStar Media",
+        "rating": 7.3
+    },
+    {
+        "studio": "High Bridge Entertainment",
+        "rating": 7.3
+    },
+    {
+        "studio": "Woods Entertainment",
+        "rating": 7.3
+    },
+    {
+        "studio": "Leverage Entertainment",
+        "rating": 7.3
+    },
+    {
+        "studio": "Paramount Pictures International",
+        "rating": 7.3
+    },
+    {
+        "studio": "Nervous Tick",
+        "rating": 7.3
+    },
+    {
+        "studio": "Delphi II Productions",
+        "rating": 7.3
+    },
+    {
+        "studio": "Chatrone",
+        "rating": 7.3
+    },
+    {
+        "studio": "Radiant Productions",
+        "rating": 7.3
+    },
+    {
+        "studio": "Reel FX Creative Studios",
+        "rating": 7.3
+    },
+    {
+        "studio": "RKO Radio Pictures",
+        "rating": 7.3
+    },
+    {
+        "studio": "Goalpost Pictures",
+        "rating": 7.3
+    },
+    {
+        "studio": "Hemdale Film Corporation",
+        "rating": 7.3
+    },
+    {
+        "studio": "Fox Films Ltd.",
+        "rating": 7.3
+    },
+    {
+        "studio": "Winkler Films",
+        "rating": 7.3
+    },
+    {
+        "studio": "Zero Gravity Management",
+        "rating": 7.3
+    },
+    {
+        "studio": "Jaret Entertainment",
+        "rating": 7.3
+    },
+    {
+        "studio": "Patalex Productions",
+        "rating": 7.3
+    },
+    {
+        "studio": "22 & Indiana Pictures",
+        "rating": 7.3
+    },
+    {
+        "studio": "Mad Chance Productions",
+        "rating": 7.3
+    },
+    {
+        "studio": "Karol Film Productions",
+        "rating": 7.3
+    },
+    {
+        "studio": "Fizz Sound Creation",
+        "rating": 7.3
+    },
+    {
+        "studio": "Phantasma Films",
+        "rating": 7.3
+    },
+    {
+        "studio": "Edgar Rice Burroughs Inc.",
+        "rating": 7.3
+    },
+    {
+        "studio": "Sony Pictures Television",
+        "rating": 7.3
+    },
+    {
+        "studio": "Lightstorm Entertainment",
+        "rating": 7.28
+    },
+    {
+        "studio": "Lucasfilm Ltd.",
+        "rating": 7.26
+    },
+    {
+        "studio": "87Eleven",
+        "rating": 7.25
+    },
+    {
+        "studio": "Black Label Media",
+        "rating": 7.23
+    },
+    {
+        "studio": "Avi Arad Productions",
+        "rating": 7.23
+    },
+    {
+        "studio": "Walt Disney Animation Studios",
+        "rating": 7.23
+    },
+    {
+        "studio": "Second Mate Productions",
+        "rating": 7.2
+    },
+    {
+        "studio": "Team Gorilla",
+        "rating": 7.2
+    },
+    {
+        "studio": "Realies Pictures",
+        "rating": 7.2
+    },
+    {
+        "studio": "Dexter Studios",
+        "rating": 7.2
+    },
+    {
+        "studio": "Lotte Entertainment",
+        "rating": 7.2
+    },
+    {
+        "studio": "Michigan Venture Capital",
+        "rating": 7.2
+    },
+    {
+        "studio": "Pariah Entertainment Group",
+        "rating": 7.2
+    },
+    {
+        "studio": "BA Entertainment",
+        "rating": 7.2
+    },
+    {
+        "studio": "Megabox Plus M",
+        "rating": 7.2
+    },
+    {
+        "studio": "Hong Film",
+        "rating": 7.2
+    },
+    {
+        "studio": "Gobierno de Colombia",
+        "rating": 7.2
+    },
+    {
+        "studio": "Gidden Media",
+        "rating": 7.2
+    },
+    {
+        "studio": "Quadrant Pictures",
+        "rating": 7.2
+    },
+    {
+        "studio": "M7 Filmproduktion",
+        "rating": 7.2
+    },
+    {
+        "studio": "RT Features",
+        "rating": 7.2
+    },
+    {
+        "studio": "Cloudy Productions",
+        "rating": 7.2
+    },
+    {
+        "studio": "Wayfarer Entertainment",
+        "rating": 7.2
+    },
+    {
+        "studio": "Weinstock Productions",
+        "rating": 7.2
+    },
+    {
+        "studio": "Masulpiri Films",
+        "rating": 7.2
+    },
+    {
+        "studio": "Bom Film Productions",
+        "rating": 7.2
+    },
+    {
+        "studio": "Toei Animation",
+        "rating": 7.2
+    },
+    {
+        "studio": "Blind Wink",
+        "rating": 7.2
+    },
+    {
+        "studio": "MFPV Film",
+        "rating": 7.2
+    },
+    {
+        "studio": "Big Primate Pictures",
+        "rating": 7.2
+    },
+    {
+        "studio": "Maiden Voyage Pictures",
+        "rating": 7.2
+    },
+    {
+        "studio": "Kiwi Media Group",
+        "rating": 7.2
+    },
+    {
+        "studio": "Parts and Labor",
+        "rating": 7.2
+    },
+    {
+        "studio": "Warner Premiere",
+        "rating": 7.18
+    },
+    {
+        "studio": "Kinberg Genre",
+        "rating": 7.17
+    },
+    {
+        "studio": "TC Productions",
+        "rating": 7.15
+    },
+    {
+        "studio": "MadRiver Pictures",
+        "rating": 7.15
+    },
+    {
+        "studio": "Atresmedia",
+        "rating": 7.15
+    },
+    {
+        "studio": "Shin-Ei Animation",
+        "rating": 7.15
+    },
+    {
+        "studio": "Chungeorahm Film",
+        "rating": 7.15
+    },
+    {
+        "studio": "Nostromo Pictures",
+        "rating": 7.15
+    },
+    {
+        "studio": "StudioCanal",
+        "rating": 7.14
+    },
+    {
+        "studio": "New Regency Pictures",
+        "rating": 7.14
+    },
+    {
+        "studio": "Bold Films",
+        "rating": 7.13
+    },
+    {
+        "studio": "Carolco Pictures",
+        "rating": 7.13
+    },
+    {
+        "studio": "The Donners' Company",
+        "rating": 7.12
+    },
+    {
+        "studio": "The Weinstein Company",
+        "rating": 7.12
+    },
+    {
+        "studio": "Colorado Office of Film, Television & Media",
+        "rating": 7.1
+    },
+    {
+        "studio": "TMS Comics",
+        "rating": 7.1
+    },
+    {
+        "studio": "Phenomena",
+        "rating": 7.1
+    },
+    {
+        "studio": "Franklin Entertainment",
+        "rating": 7.1
+    },
+    {
+        "studio": "B-Reel Films",
+        "rating": 7.1
+    },
+    {
+        "studio": "Square Peg",
+        "rating": 7.1
+    },
+    {
+        "studio": "GMM Pictures Co.",
+        "rating": 7.1
+    },
+    {
+        "studio": "GMM Tai Hub (GTH)",
+        "rating": 7.1
+    },
+    {
+        "studio": "Sego Entertainment",
+        "rating": 7.1
+    },
+    {
+        "studio": "Sneaky Shark",
+        "rating": 7.1
+    },
+    {
+        "studio": "Perfect Storm Entertainment",
+        "rating": 7.1
+    },
+    {
+        "studio": "Happinet Pictures",
+        "rating": 7.1
+    },
+    {
+        "studio": "Tube Pictures",
+        "rating": 7.1
+    },
+    {
+        "studio": "Mikona Productions GmbH & Co. KG",
+        "rating": 7.1
+    },
+    {
+        "studio": "Bad Hombre Films",
+        "rating": 7.1
+    },
+    {
+        "studio": "Pioneer Stilking Films",
+        "rating": 7.1
+    },
+    {
+        "studio": "Abu Dhabi Film Commission",
+        "rating": 7.1
+    },
+    {
+        "studio": "Channel 4 Television Corporation",
+        "rating": 7.1
+    },
+    {
+        "studio": "Moho Film",
+        "rating": 7.1
+    },
+    {
+        "studio": "WWE Studios",
+        "rating": 7.1
+    },
+    {
+        "studio": "Wigram Productions",
+        "rating": 7.1
+    },
+    {
+        "studio": "Scott Rudin Productions",
+        "rating": 7.1
+    },
+    {
+        "studio": "SnowPiercer",
+        "rating": 7.1
+    },
+    {
+        "studio": "Seoul Broadcasting System (SBS)",
+        "rating": 7.1
+    },
+    {
+        "studio": "Opus Pictures",
+        "rating": 7.1
+    },
+    {
+        "studio": "Closed on Mondays Entertainment",
+        "rating": 7.1
+    },
+    {
+        "studio": "Cineclick Asia",
+        "rating": 7.1
+    },
+    {
+        "studio": "TIK Film",
+        "rating": 7.1
+    },
+    {
+        "studio": "RVK Studios",
+        "rating": 7.1
+    },
+    {
+        "studio": "Alcon Entertainment",
+        "rating": 7.1
+    },
+    {
+        "studio": "Leverage",
+        "rating": 7.1
+    },
+    {
+        "studio": "Starz Animation",
+        "rating": 7.1
+    },
+    {
+        "studio": "The New South Wales Government",
+        "rating": 7.1
+    },
+    {
+        "studio": "Arc Productions",
+        "rating": 7.1
+    },
+    {
+        "studio": "Boston Investments",
+        "rating": 7.1
+    },
+    {
+        "studio": "Angry Films",
+        "rating": 7.1
+    },
+    {
+        "studio": "CJ Venture Investment",
+        "rating": 7.1
+    },
+    {
+        "studio": "Beijing Diqi Yinxiang Entertainment",
+        "rating": 7.1
+    },
+    {
+        "studio": "Cowell Investment Capital Co.",
+        "rating": 7.1
+    },
+    {
+        "studio": "Showbox",
+        "rating": 7.1
+    },
+    {
+        "studio": "IMM Venture Capital",
+        "rating": 7.1
+    },
+    {
+        "studio": "Knowledge & Creation Ventures",
+        "rating": 7.1
+    },
+    {
+        "studio": "M-Venture Investment",
+        "rating": 7.1
+    },
+    {
+        "studio": "OCN",
+        "rating": 7.1
+    },
+    {
+        "studio": "DC Entertainment",
+        "rating": 7.08
+    },
+    {
+        "studio": "Film4 Productions",
+        "rating": 7.08
+    },
+    {
+        "studio": "Marc Platt Productions",
+        "rating": 7.07
+    },
+    {
+        "studio": "Mandarin Films Distribution Co.",
+        "rating": 7.05
+    },
+    {
+        "studio": "Orange Corp",
+        "rating": 7.05
+    },
+    {
+        "studio": "Pearl Studio",
+        "rating": 7.05
+    },
+    {
+        "studio": "Ministero per i Beni e le Attivit\u00e0 Culturali",
+        "rating": 7.05
+    },
+    {
+        "studio": "Fuqua Films",
+        "rating": 7.05
+    },
+    {
+        "studio": "Marvel Studios",
+        "rating": 7.03
+    },
+    {
+        "studio": "Sycamore Pictures",
+        "rating": 7
+    },
+    {
+        "studio": "Warner Bros.",
+        "rating": 7
+    },
+    {
+        "studio": "Pariah",
+        "rating": 7
+    },
+    {
+        "studio": "Slap Happy Productions (II)",
+        "rating": 7
+    },
+    {
+        "studio": "Right Coast",
+        "rating": 7
+    },
+    {
+        "studio": "Smoke House Pictures",
+        "rating": 7
+    },
+    {
+        "studio": "Rahway Road Productions",
+        "rating": 7
+    },
+    {
+        "studio": "Andalasia Productions",
+        "rating": 7
+    },
+    {
+        "studio": "Don Carmody Productions",
+        "rating": 7
+    },
+    {
+        "studio": "Third Act Productions",
+        "rating": 7
+    },
+    {
+        "studio": "Warner Bros. Entertainment",
+        "rating": 7
+    },
+    {
+        "studio": "Beijing Joy Pictures",
+        "rating": 7
+    },
+    {
+        "studio": "Newmarket Capital Group",
+        "rating": 7
+    },
+    {
+        "studio": "Light Chaser Animation Studios",
+        "rating": 7
+    },
+    {
+        "studio": "Storyville Films",
+        "rating": 7
+    },
+    {
+        "studio": "JHF (Jonah Hill Films)",
+        "rating": 7
+    },
+    {
+        "studio": "Larger Than Life Productions",
+        "rating": 7
+    },
+    {
+        "studio": "75 Year Plan Productions",
+        "rating": 7
+    },
+    {
+        "studio": "Mandarin Motion Pictures Limited",
+        "rating": 7
+    },
+    {
+        "studio": "Wanda Media Co.",
+        "rating": 7
+    },
+    {
+        "studio": "Newman/Tooley Films",
+        "rating": 7
+    },
+    {
+        "studio": "Tianjin Maoyan Weying Media",
+        "rating": 7
+    },
+    {
+        "studio": "Imperative Entertainment",
+        "rating": 7
+    },
+    {
+        "studio": "Shanghai Bona",
+        "rating": 7
+    },
+    {
+        "studio": "Zhejiang Hengdian Film Production",
+        "rating": 7
+    },
+    {
+        "studio": "3 Art Entertainment",
+        "rating": 7
+    },
+    {
+        "studio": "Mutant Enemy Productions",
+        "rating": 7
+    },
+    {
+        "studio": "Grosvenor Park Films LLP",
+        "rating": 7
+    },
+    {
+        "studio": "Vincent Newman Entertainment",
+        "rating": 7
+    },
+    {
+        "studio": "Wendy Finerman Productions",
+        "rating": 7
+    },
+    {
+        "studio": "Aurum Producciones",
+        "rating": 7
+    },
+    {
+        "studio": "Arthur Sarkissian Productions",
+        "rating": 7
+    },
+    {
+        "studio": "Branded Entertainment/Batfilm Productions",
+        "rating": 7
+    },
+    {
+        "studio": "The Entertainer Production Company",
+        "rating": 7
+    },
+    {
+        "studio": "Lonely Film Productions GmbH & Co. KG.",
+        "rating": 7
+    },
+    {
+        "studio": "Robert Simonds Productions",
+        "rating": 7
+    },
+    {
+        "studio": "Beijing Jinyi Jiayi Film Distribution",
+        "rating": 7
+    },
+    {
+        "studio": "Beijing Dadi Century Limited",
+        "rating": 7
+    },
+    {
+        "studio": "Stephen J. Cannell Productions",
+        "rating": 7
+    },
+    {
+        "studio": "Walt Disney Pictures",
+        "rating": 6.99
+    },
+    {
+        "studio": "Chernin Entertainment",
+        "rating": 6.98
+    },
+    {
+        "studio": "Alibaba Pictures Group",
+        "rating": 6.98
+    },
+    {
+        "studio": "Silver Pictures",
+        "rating": 6.97
+    },
+    {
+        "studio": "DC Comics",
+        "rating": 6.97
+    },
+    {
+        "studio": "Fox International Productions",
+        "rating": 6.97
+    },
+    {
+        "studio": "Huayi Brothers Pictures",
+        "rating": 6.96
+    },
+    {
+        "studio": "Dune Films",
+        "rating": 6.95
+    },
+    {
+        "studio": "Mimran Schur Pictures",
+        "rating": 6.95
+    },
+    {
+        "studio": "Mace Neufeld Productions",
+        "rating": 6.95
+    },
+    {
+        "studio": "Netter Productions",
+        "rating": 6.95
+    },
+    {
+        "studio": "Focus Features",
+        "rating": 6.95
+    },
+    {
+        "studio": "Lonetree Entertainment",
+        "rating": 6.95
+    },
+    {
+        "studio": "Scott Free Productions",
+        "rating": 6.94
+    },
+    {
+        "studio": "Touchstone Pictures",
+        "rating": 6.93
+    },
+    {
+        "studio": "Panoramic Pictures",
+        "rating": 6.9
+    },
+    {
+        "studio": "Rideback",
+        "rating": 6.9
+    },
+    {
+        "studio": "ImageMovers",
+        "rating": 6.9
+    },
+    {
+        "studio": "Shogakukan Production",
+        "rating": 6.9
+    },
+    {
+        "studio": "Rodeo FX",
+        "rating": 6.9
+    },
+    {
+        "studio": "Vendome Pictures",
+        "rating": 6.9
+    },
+    {
+        "studio": "Asatsu DK",
+        "rating": 6.9
+    },
+    {
+        "studio": "Raffaella Productions",
+        "rating": 6.9
+    },
+    {
+        "studio": "Major Studio Partners",
+        "rating": 6.9
+    },
+    {
+        "studio": "Peninsula Films",
+        "rating": 6.9
+    },
+    {
+        "studio": "Aggregate Films",
+        "rating": 6.9
+    },
+    {
+        "studio": "Access Entertainment",
+        "rating": 6.9
+    },
+    {
+        "studio": "Access Industries",
+        "rating": 6.9
+    },
+    {
+        "studio": "Ivanhoe Pictures",
+        "rating": 6.9
+    },
+    {
+        "studio": "Tom de Mol Productions",
+        "rating": 6.9
+    },
+    {
+        "studio": "Red Granite Pictures",
+        "rating": 6.9
+    },
+    {
+        "studio": "Pierrot",
+        "rating": 6.9
+    },
+    {
+        "studio": "Orion Pictures",
+        "rating": 6.9
+    },
+    {
+        "studio": "Look to the Sky Films",
+        "rating": 6.9
+    },
+    {
+        "studio": "Victory Square Technologies",
+        "rating": 6.9
+    },
+    {
+        "studio": "Grid Animation",
+        "rating": 6.9
+    },
+    {
+        "studio": "CNC",
+        "rating": 6.9
+    },
+    {
+        "studio": "W9",
+        "rating": 6.9
+    },
+    {
+        "studio": "Soci\u00e9t\u00e9 Nouvelle de Cin\u00e9matographie (SNC)",
+        "rating": 6.9
+    },
+    {
+        "studio": "Realmbuilders Productions",
+        "rating": 6.9
+    },
+    {
+        "studio": "Belvision",
+        "rating": 6.9
+    },
+    {
+        "studio": "Cristaldi Pictures",
+        "rating": 6.9
+    },
+    {
+        "studio": "SND",
+        "rating": 6.9
+    },
+    {
+        "studio": "Perpetual Motion Pictures",
+        "rating": 6.9
+    },
+    {
+        "studio": "Title Media",
+        "rating": 6.9
+    },
+    {
+        "studio": "TV Asahi",
+        "rating": 6.9
+    },
+    {
+        "studio": "Pin High Productions",
+        "rating": 6.9
+    },
+    {
+        "studio": "21st Century Film Corporation",
+        "rating": 6.9
+    },
+    {
+        "studio": "Code Red Productions",
+        "rating": 6.9
+    },
+    {
+        "studio": "Unified Pictures",
+        "rating": 6.9
+    },
+    {
+        "studio": "See-Saw Films",
+        "rating": 6.9
+    },
+    {
+        "studio": "Lammas Park",
+        "rating": 6.9
+    },
+    {
+        "studio": "Moot Point (Dragged) Productions",
+        "rating": 6.9
+    },
+    {
+        "studio": "Hollywood Gang Productions",
+        "rating": 6.9
+    },
+    {
+        "studio": "East Light Media",
+        "rating": 6.9
+    },
+    {
+        "studio": "Casey Silver Productions",
+        "rating": 6.9
+    },
+    {
+        "studio": "Very Special Projects",
+        "rating": 6.9
+    },
+    {
+        "studio": "Mott Street Pictures",
+        "rating": 6.9
+    },
+    {
+        "studio": "Rooks Nest Entertainment",
+        "rating": 6.9
+    },
+    {
+        "studio": "Nimar Studios",
+        "rating": 6.9
+    },
+    {
+        "studio": "Cinestate",
+        "rating": 6.9
+    },
+    {
+        "studio": "Young Gang",
+        "rating": 6.9
+    },
+    {
+        "studio": "Pulse Films",
+        "rating": 6.9
+    },
+    {
+        "studio": "Upload Films",
+        "rating": 6.9
+    },
+    {
+        "studio": "GNK Productions",
+        "rating": 6.9
+    },
+    {
+        "studio": "M6 Studio",
+        "rating": 6.9
+    },
+    {
+        "studio": "Marvel Entertainment",
+        "rating": 6.88
+    },
+    {
+        "studio": "GK Films",
+        "rating": 6.88
+    },
+    {
+        "studio": "Color Force",
+        "rating": 6.88
+    },
+    {
+        "studio": "Walden Media",
+        "rating": 6.87
+    },
+    {
+        "studio": "CatchPlay",
+        "rating": 6.85
+    },
+    {
+        "studio": "Right of Way Films",
+        "rating": 6.85
+    },
+    {
+        "studio": "BBC Films",
+        "rating": 6.85
+    },
+    {
+        "studio": "Spyglass Entertainment",
+        "rating": 6.85
+    },
+    {
+        "studio": "Monarchy Enterprises S.a.r.l.",
+        "rating": 6.85
+    },
+    {
+        "studio": "Endeavor Content",
+        "rating": 6.83
+    },
+    {
+        "studio": "Closest to the Hole Productions",
+        "rating": 6.83
+    },
+    {
+        "studio": "Pacific Data Images",
+        "rating": 6.83
+    },
+    {
+        "studio": "Stage 6 Films",
+        "rating": 6.83
+    },
+    {
+        "studio": "Bad Hat Harry Productions",
+        "rating": 6.83
+    },
+    {
+        "studio": "Cruel & Unusual Films",
+        "rating": 6.83
+    },
+    {
+        "studio": "Paramount",
+        "rating": 6.81
+    },
+    {
+        "studio": "Hero Entertainment Group",
+        "rating": 6.8
+    },
+    {
+        "studio": "Hollywood Gold",
+        "rating": 6.8
+    },
+    {
+        "studio": "Production Capital",
+        "rating": 6.8
+    },
+    {
+        "studio": "Hemisphere Media Capital",
+        "rating": 6.8
+    },
+    {
+        "studio": "Prana Studios",
+        "rating": 6.8
+    },
+    {
+        "studio": "Sean Bailey Productions",
+        "rating": 6.8
+    },
+    {
+        "studio": "Animal Kingdom",
+        "rating": 6.8
+    },
+    {
+        "studio": "Northern Lights Films",
+        "rating": 6.8
+    },
+    {
+        "studio": "Two Flints",
+        "rating": 6.8
+    },
+    {
+        "studio": "Flower Films",
+        "rating": 6.8
+    },
+    {
+        "studio": "Hoosegow Productions",
+        "rating": 6.8
+    },
+    {
+        "studio": "Sunjive Studios",
+        "rating": 6.8
+    },
+    {
+        "studio": "Deeper Water Films",
+        "rating": 6.8
+    },
+    {
+        "studio": "Full Clip Productions",
+        "rating": 6.8
+    },
+    {
+        "studio": "Red Dune Films",
+        "rating": 6.8
+    },
+    {
+        "studio": "Whitaker Entertainment",
+        "rating": 6.8
+    },
+    {
+        "studio": "FilmDistrict",
+        "rating": 6.8
+    },
+    {
+        "studio": "Boss Collaboration",
+        "rating": 6.8
+    },
+    {
+        "studio": "Tom DeSanto/Don Murphy Production",
+        "rating": 6.8
+    },
+    {
+        "studio": "Red Hawk Entertainment",
+        "rating": 6.8
+    },
+    {
+        "studio": "Quad Productions",
+        "rating": 6.8
+    },
+    {
+        "studio": "Caramel Films",
+        "rating": 6.8
+    },
+    {
+        "studio": "Main Journey",
+        "rating": 6.8
+    },
+    {
+        "studio": "Alliance Films",
+        "rating": 6.8
+    },
+    {
+        "studio": "Starlite Films",
+        "rating": 6.8
+    },
+    {
+        "studio": "BCL Finance Group",
+        "rating": 6.8
+    },
+    {
+        "studio": "SSS Entertainment",
+        "rating": 6.8
+    },
+    {
+        "studio": "Provocator",
+        "rating": 6.8
+    },
+    {
+        "studio": "Blizzard Entertainment",
+        "rating": 6.8
+    },
+    {
+        "studio": "Plan B Entertainment",
+        "rating": 6.8
+    },
+    {
+        "studio": "B24",
+        "rating": 6.8
+    },
+    {
+        "studio": "Haunted Movies",
+        "rating": 6.8
+    },
+    {
+        "studio": "Ollin Studio",
+        "rating": 6.8
+    },
+    {
+        "studio": "Laura Ziskin Productions",
+        "rating": 6.8
+    },
+    {
+        "studio": "LivePlanet",
+        "rating": 6.8
+    },
+    {
+        "studio": "20th Century Fox Animation",
+        "rating": 6.8
+    },
+    {
+        "studio": "Bergsten Music",
+        "rating": 6.8
+    },
+    {
+        "studio": "AG Studios",
+        "rating": 6.8
+    },
+    {
+        "studio": "Lighthouse Management + Media",
+        "rating": 6.8
+    },
+    {
+        "studio": "Class 5 Films",
+        "rating": 6.8
+    },
+    {
+        "studio": "Mogambo Films",
+        "rating": 6.8
+    },
+    {
+        "studio": "Screen Queensland",
+        "rating": 6.8
+    },
+    {
+        "studio": "Esparza / Katz Productions",
+        "rating": 6.8
+    },
+    {
+        "studio": "Hengdian Chinese Film Production Co.",
+        "rating": 6.8
+    },
+    {
+        "studio": "Beijing Weiyingshidai Culture & Media",
+        "rating": 6.8
+    },
+    {
+        "studio": "Q Productions",
+        "rating": 6.8
+    },
+    {
+        "studio": "Free State Pictures",
+        "rating": 6.8
+    },
+    {
+        "studio": "Allspark Pictures",
+        "rating": 6.8
+    },
+    {
+        "studio": "Tucker Tooley Entertainment",
+        "rating": 6.8
+    },
+    {
+        "studio": "Malpaso Productions",
+        "rating": 6.8
+    },
+    {
+        "studio": "THN Nominees",
+        "rating": 6.8
+    },
+    {
+        "studio": "Kontsept Film Company",
+        "rating": 6.78
+    },
+    {
+        "studio": "DreamWorks Animation",
+        "rating": 6.78
+    },
+    {
+        "studio": "Latina Pictures",
+        "rating": 6.77
+    },
+    {
+        "studio": "American Zoetrope",
+        "rating": 6.77
+    },
+    {
+        "studio": "Allison Shearmur Productions",
+        "rating": 6.77
+    },
+    {
+        "studio": "Illumination Entertainment",
+        "rating": 6.76
+    },
+    {
+        "studio": "Toho Company, Ltd.",
+        "rating": 6.76
+    },
+    {
+        "studio": "1492 Pictures",
+        "rating": 6.75
+    },
+    {
+        "studio": "Jerry Bruckheimer Films",
+        "rating": 6.75
+    },
+    {
+        "studio": "Many Rivers Productions",
+        "rating": 6.75
+    },
+    {
+        "studio": "Working Title Films",
+        "rating": 6.75
+    },
+    {
+        "studio": "Imagenation Abu Dhabi FZ",
+        "rating": 6.75
+    },
+    {
+        "studio": "Village Roadshow Pictures",
+        "rating": 6.75
+    },
+    {
+        "studio": "Intrepid Pictures",
+        "rating": 6.75
+    },
+    {
+        "studio": "Gloria Sanchez Productions",
+        "rating": 6.75
+    },
+    {
+        "studio": "Avery Pix",
+        "rating": 6.75
+    },
+    {
+        "studio": "Tim Burton Productions",
+        "rating": 6.74
+    },
+    {
+        "studio": "Evergreen Media Group",
+        "rating": 6.73
+    },
+    {
+        "studio": "Brandywine Productions",
+        "rating": 6.73
+    },
+    {
+        "studio": "Warner Bros. Pictures",
+        "rating": 6.73
+    },
+    {
+        "studio": "TriStar Pictures",
+        "rating": 6.73
+    },
+    {
+        "studio": "Bay Films",
+        "rating": 6.73
+    },
+    {
+        "studio": "G-BASE",
+        "rating": 6.72
+    },
+    {
+        "studio": "Creative Wealth Media Finance",
+        "rating": 6.72
+    },
+    {
+        "studio": "20th Century Fox",
+        "rating": 6.71
+    },
+    {
+        "studio": "Government of Australia",
+        "rating": 6.7
+    },
+    {
+        "studio": "Skylark Productions",
+        "rating": 6.7
+    },
+    {
+        "studio": "TGIM Films",
+        "rating": 6.7
+    },
+    {
+        "studio": "Movistar+",
+        "rating": 6.7
+    },
+    {
+        "studio": "Stuber Productions",
+        "rating": 6.7
+    },
+    {
+        "studio": "Bedford Falls Productions",
+        "rating": 6.7
+    },
+    {
+        "studio": "Street Entertainment",
+        "rating": 6.7
+    },
+    {
+        "studio": "Starlight Culture Entertainment Group",
+        "rating": 6.7
+    },
+    {
+        "studio": "Lucky Strike Film Studios",
+        "rating": 6.7
+    },
+    {
+        "studio": "Wild Things Productions",
+        "rating": 6.7
+    },
+    {
+        "studio": "Panorama Films",
+        "rating": 6.7
+    },
+    {
+        "studio": "Rough House Pictures",
+        "rating": 6.7
+    },
+    {
+        "studio": "MWM Studios",
+        "rating": 6.7
+    },
+    {
+        "studio": "Fuji Eight Company Ltd.",
+        "rating": 6.7
+    },
+    {
+        "studio": "Studio 8",
+        "rating": 6.7
+    },
+    {
+        "studio": "ZHIV Productions",
+        "rating": 6.7
+    },
+    {
+        "studio": "Colombia Pictures",
+        "rating": 6.7
+    },
+    {
+        "studio": "AGC Studios",
+        "rating": 6.7
+    },
+    {
+        "studio": "Daybreak",
+        "rating": 6.7
+    },
+    {
+        "studio": "DC Films",
+        "rating": 6.7
+    },
+    {
+        "studio": "Epsilon Motion Pictures",
+        "rating": 6.7
+    },
+    {
+        "studio": "St. Petersburg Clearwater Film Commission",
+        "rating": 6.7
+    },
+    {
+        "studio": "SCOPE Pictures",
+        "rating": 6.7
+    },
+    {
+        "studio": "Film i V\u00e4st",
+        "rating": 6.7
+    },
+    {
+        "studio": "Red Hour",
+        "rating": 6.7
+    },
+    {
+        "studio": "AMedia",
+        "rating": 6.7
+    },
+    {
+        "studio": "Knightsbridge Entertainment",
+        "rating": 6.7
+    },
+    {
+        "studio": "Mark Canton Productions",
+        "rating": 6.7
+    },
+    {
+        "studio": "Envision Entertainment",
+        "rating": 6.7
+    },
+    {
+        "studio": "Boies/Schiller Film Group",
+        "rating": 6.7
+    },
+    {
+        "studio": "WarParty Films",
+        "rating": 6.7
+    },
+    {
+        "studio": "Paradox Film Group",
+        "rating": 6.7
+    },
+    {
+        "studio": "Big Red Films",
+        "rating": 6.7
+    },
+    {
+        "studio": "Thematic Entertainment",
+        "rating": 6.7
+    },
+    {
+        "studio": "Buena Vista International",
+        "rating": 6.7
+    },
+    {
+        "studio": "Apeitda",
+        "rating": 6.7
+    },
+    {
+        "studio": "Edver Films",
+        "rating": 6.7
+    },
+    {
+        "studio": "Simon Kinberg Productions",
+        "rating": 6.7
+    },
+    {
+        "studio": "Alpha Core",
+        "rating": 6.7
+    },
+    {
+        "studio": "Warner Animation Group",
+        "rating": 6.7
+    },
+    {
+        "studio": "Matt Tolmach Productions",
+        "rating": 6.7
+    },
+    {
+        "studio": "Kurtzman/Orci",
+        "rating": 6.7
+    },
+    {
+        "studio": "Orca Entertainment Group",
+        "rating": 6.7
+    },
+    {
+        "studio": "Tribeca Productions",
+        "rating": 6.7
+    },
+    {
+        "studio": "WarnerBros Thailand",
+        "rating": 6.7
+    },
+    {
+        "studio": "Dayday Films",
+        "rating": 6.7
+    },
+    {
+        "studio": "Alphaville Films",
+        "rating": 6.7
+    },
+    {
+        "studio": "QED International",
+        "rating": 6.7
+    },
+    {
+        "studio": "Blue Sky Studios",
+        "rating": 6.69
+    },
+    {
+        "studio": "Affirm Films",
+        "rating": 6.68
+    },
+    {
+        "studio": "Mid Atlantic Films",
+        "rating": 6.68
+    },
+    {
+        "studio": "TSG Entertainment",
+        "rating": 6.68
+    },
+    {
+        "studio": "Stillking Films",
+        "rating": 6.66
+    },
+    {
+        "studio": "Green Hat Films",
+        "rating": 6.65
+    },
+    {
+        "studio": "Living Films",
+        "rating": 6.65
+    },
+    {
+        "studio": "Shangri-La Entertainment",
+        "rating": 6.65
+    },
+    {
+        "studio": "AGBO",
+        "rating": 6.65
+    },
+    {
+        "studio": "uFund",
+        "rating": 6.65
+    },
+    {
+        "studio": "Union Investment Partners",
+        "rating": 6.65
+    },
+    {
+        "studio": "Evolution Entertainment",
+        "rating": 6.65
+    },
+    {
+        "studio": "Cross Creek Pictures",
+        "rating": 6.63
+    },
+    {
+        "studio": "Revolution Sun Studios",
+        "rating": 6.63
+    },
+    {
+        "studio": "Davis Films",
+        "rating": 6.63
+    },
+    {
+        "studio": "Original Film",
+        "rating": 6.63
+    },
+    {
+        "studio": "Weed Road Pictures",
+        "rating": 6.62
+    },
+    {
+        "studio": "Bona Film Group",
+        "rating": 6.62
+    },
+    {
+        "studio": "RatPac-Dune Entertainment",
+        "rating": 6.61
+    },
+    {
+        "studio": "The Ink Factory",
+        "rating": 6.6
+    },
+    {
+        "studio": "Film Fireworks Production",
+        "rating": 6.6
+    },
+    {
+        "studio": "ODB Films",
+        "rating": 6.6
+    },
+    {
+        "studio": "Captivate Entertainment",
+        "rating": 6.6
+    },
+    {
+        "studio": "Braven Films",
+        "rating": 6.6
+    },
+    {
+        "studio": "Element Pictures",
+        "rating": 6.6
+    },
+    {
+        "studio": "GAME FREAK",
+        "rating": 6.6
+    },
+    {
+        "studio": "Film Rites",
+        "rating": 6.6
+    },
+    {
+        "studio": "Nintendo",
+        "rating": 6.6
+    },
+    {
+        "studio": "Hunter Killer Productions",
+        "rating": 6.6
+    },
+    {
+        "studio": "Saw 2 Productions",
+        "rating": 6.6
+    },
+    {
+        "studio": "Got Films",
+        "rating": 6.6
+    },
+    {
+        "studio": "LEGO",
+        "rating": 6.6
+    },
+    {
+        "studio": "Animal Logic",
+        "rating": 6.6
+    },
+    {
+        "studio": "Don Simpson/Jerry Bruckheimer Films",
+        "rating": 6.6
+    },
+    {
+        "studio": "China Film Co.",
+        "rating": 6.6
+    },
+    {
+        "studio": "Theobald Film Productions",
+        "rating": 6.6
+    },
+    {
+        "studio": "Double Feature Films",
+        "rating": 6.6
+    },
+    {
+        "studio": "Merry Christmas",
+        "rating": 6.6
+    },
+    {
+        "studio": "Bidangil Pictures",
+        "rating": 6.6
+    },
+    {
+        "studio": "The Pok\u00e9mon Company",
+        "rating": 6.6
+    },
+    {
+        "studio": "Carmel Entertainment Group",
+        "rating": 6.6
+    },
+    {
+        "studio": "Destination Films",
+        "rating": 6.6
+    },
+    {
+        "studio": "PCMA Productions",
+        "rating": 6.6
+    },
+    {
+        "studio": "Hishow Entertainment",
+        "rating": 6.6
+    },
+    {
+        "studio": "LC6 Productions",
+        "rating": 6.6
+    },
+    {
+        "studio": "Block 2 Pictures",
+        "rating": 6.6
+    },
+    {
+        "studio": "Outside Da Box",
+        "rating": 6.6
+    },
+    {
+        "studio": "Bleecker Street Films",
+        "rating": 6.6
+    },
+    {
+        "studio": "OCS",
+        "rating": 6.6
+    },
+    {
+        "studio": "TF1",
+        "rating": 6.6
+    },
+    {
+        "studio": "TMC",
+        "rating": 6.6
+    },
+    {
+        "studio": "Amazon Studios",
+        "rating": 6.6
+    },
+    {
+        "studio": "SprocketHeads",
+        "rating": 6.6
+    },
+    {
+        "studio": "Golden Mean",
+        "rating": 6.6
+    },
+    {
+        "studio": "Jet Tone Films",
+        "rating": 6.6
+    },
+    {
+        "studio": "Soundtrack New York",
+        "rating": 6.6
+    },
+    {
+        "studio": "Creatures",
+        "rating": 6.6
+    },
+    {
+        "studio": "Pearl Street Films",
+        "rating": 6.6
+    },
+    {
+        "studio": "Bona International Film Group",
+        "rating": 6.6
+    },
+    {
+        "studio": "Vesuvius Productions",
+        "rating": 6.6
+    },
+    {
+        "studio": "Double Negative",
+        "rating": 6.6
+    },
+    {
+        "studio": "Mythology Entertainment",
+        "rating": 6.6
+    },
+    {
+        "studio": "STX Films",
+        "rating": 6.6
+    },
+    {
+        "studio": "Disney Channel",
+        "rating": 6.6
+    },
+    {
+        "studio": "Kopelson Entertainment",
+        "rating": 6.6
+    },
+    {
+        "studio": "The Detective Agency",
+        "rating": 6.6
+    },
+    {
+        "studio": "Sil-Metropole Organisation Ltd.",
+        "rating": 6.6
+    },
+    {
+        "studio": "Overbrook Entertainment",
+        "rating": 6.58
+    },
+    {
+        "studio": "Escape Artists",
+        "rating": 6.58
+    },
+    {
+        "studio": "Denver and Delilah Productions",
+        "rating": 6.58
+    },
+    {
+        "studio": "Gotham Group",
+        "rating": 6.58
+    },
+    {
+        "studio": "Sierra/Affinity",
+        "rating": 6.58
+    },
+    {
+        "studio": "Next Entertainment World",
+        "rating": 6.57
+    },
+    {
+        "studio": "DreamWorks Pictures",
+        "rating": 6.57
+    },
+    {
+        "studio": "Nexus Factory",
+        "rating": 6.57
+    },
+    {
+        "studio": "Marv Films",
+        "rating": 6.57
+    },
+    {
+        "studio": "Thunder Road",
+        "rating": 6.57
+    },
+    {
+        "studio": "Good Universe",
+        "rating": 6.57
+    },
+    {
+        "studio": "FilmNation Entertainment",
+        "rating": 6.56
+    },
+    {
+        "studio": "21 Laps Entertainment",
+        "rating": 6.56
+    },
+    {
+        "studio": "Jerry Weintraub Productions",
+        "rating": 6.55
+    },
+    {
+        "studio": "Paramount Players",
+        "rating": 6.55
+    },
+    {
+        "studio": "Beagle Pug Films",
+        "rating": 6.55
+    },
+    {
+        "studio": "Samuel Goldwyn Films",
+        "rating": 6.55
+    },
+    {
+        "studio": "Sherwood Pictures",
+        "rating": 6.55
+    },
+    {
+        "studio": "New Line Cinema",
+        "rating": 6.54
+    },
+    {
+        "studio": "Relativity Media",
+        "rating": 6.54
+    },
+    {
+        "studio": "Provident Films",
+        "rating": 6.53
+    },
+    {
+        "studio": "Lawrence Gordon Productions",
+        "rating": 6.53
+    },
+    {
+        "studio": "KatzSmith Productions",
+        "rating": 6.53
+    },
+    {
+        "studio": "Fuji Television Network",
+        "rating": 6.53
+    },
+    {
+        "studio": "Skydance Media",
+        "rating": 6.52
+    },
+    {
+        "studio": "Regency Enterprises",
+        "rating": 6.52
+    },
+    {
+        "studio": "Lionsgate",
+        "rating": 6.51
+    },
+    {
+        "studio": "DENTSU",
+        "rating": 6.51
+    },
+    {
+        "studio": "Columbia Pictures",
+        "rating": 6.51
+    },
+    {
+        "studio": "Amblin Entertainment",
+        "rating": 6.51
+    },
+    {
+        "studio": "Mandate Pictures",
+        "rating": 6.5
+    },
+    {
+        "studio": "Curse Productions",
+        "rating": 6.5
+    },
+    {
+        "studio": "Buckaroo Entertainment",
+        "rating": 6.5
+    },
+    {
+        "studio": "Section Eight",
+        "rating": 6.5
+    },
+    {
+        "studio": "Carmel Entertainment",
+        "rating": 6.5
+    },
+    {
+        "studio": "Scythia Films",
+        "rating": 6.5
+    },
+    {
+        "studio": "Infinitum Nihil",
+        "rating": 6.5
+    },
+    {
+        "studio": "FortyFour Studios",
+        "rating": 6.5
+    },
+    {
+        "studio": "Piccadilly Pictures",
+        "rating": 6.5
+    },
+    {
+        "studio": "Brothers Dowdle Productions",
+        "rating": 6.5
+    },
+    {
+        "studio": "RedPeter Film",
+        "rating": 6.5
+    },
+    {
+        "studio": "The Halcyon Company",
+        "rating": 6.5
+    },
+    {
+        "studio": "Gulfstream Pictures",
+        "rating": 6.5
+    },
+    {
+        "studio": "Chris Morgan Productions",
+        "rating": 6.5
+    },
+    {
+        "studio": "Traveling Picture Show Company (TPSC)",
+        "rating": 6.5
+    },
+    {
+        "studio": "Exclusive Media",
+        "rating": 6.5
+    },
+    {
+        "studio": "Wonderland Sound and Vision",
+        "rating": 6.5
+    },
+    {
+        "studio": "New Regency Productions",
+        "rating": 6.5
+    },
+    {
+        "studio": "1984 Private Defense Contractors",
+        "rating": 6.5
+    },
+    {
+        "studio": "Da Vinci Media Ventures",
+        "rating": 6.5
+    },
+    {
+        "studio": "Legion M",
+        "rating": 6.5
+    },
+    {
+        "studio": "Mars Media Entertainment",
+        "rating": 6.5
+    },
+    {
+        "studio": "AR Films",
+        "rating": 6.5
+    },
+    {
+        "studio": "Double Dare You Productions",
+        "rating": 6.5
+    },
+    {
+        "studio": "Ozumi Films",
+        "rating": 6.5
+    },
+    {
+        "studio": "Fox 2000 Pictures",
+        "rating": 6.5
+    },
+    {
+        "studio": "K/O Paper Products",
+        "rating": 6.5
+    },
+    {
+        "studio": "Red Sky Studios",
+        "rating": 6.5
+    },
+    {
+        "studio": "FaithStep Films",
+        "rating": 6.5
+    },
+    {
+        "studio": "Silent Hill DCP Inc.",
+        "rating": 6.5
+    },
+    {
+        "studio": "Stories International",
+        "rating": 6.5
+    },
+    {
+        "studio": "Residaco",
+        "rating": 6.5
+    },
+    {
+        "studio": "Roth Films",
+        "rating": 6.5
+    },
+    {
+        "studio": "Silverbell Films",
+        "rating": 6.5
+    },
+    {
+        "studio": "West Coast Film Partners",
+        "rating": 6.5
+    },
+    {
+        "studio": "Digital Makeup Group",
+        "rating": 6.5
+    },
+    {
+        "studio": "DJ2 Entertainment",
+        "rating": 6.5
+    },
+    {
+        "studio": "SEGA",
+        "rating": 6.5
+    },
+    {
+        "studio": "Aldamisa Entertainment",
+        "rating": 6.5
+    },
+    {
+        "studio": "Blur Studios",
+        "rating": 6.5
+    },
+    {
+        "studio": "Solipsist Film",
+        "rating": 6.5
+    },
+    {
+        "studio": "Konami",
+        "rating": 6.5
+    },
+    {
+        "studio": "Propeler",
+        "rating": 6.5
+    },
+    {
+        "studio": "BNP Paribas",
+        "rating": 6.5
+    },
+    {
+        "studio": "Belga Films",
+        "rating": 6.5
+    },
+    {
+        "studio": "River Road Entertainment",
+        "rating": 6.5
+    },
+    {
+        "studio": "MTV Films",
+        "rating": 6.5
+    },
+    {
+        "studio": "Ghostcorps",
+        "rating": 6.5
+    },
+    {
+        "studio": "Fundamental Films",
+        "rating": 6.5
+    },
+    {
+        "studio": "Feigco Entertainment",
+        "rating": 6.5
+    },
+    {
+        "studio": "Gulf Film",
+        "rating": 6.5
+    },
+    {
+        "studio": "Novo Pictures",
+        "rating": 6.5
+    },
+    {
+        "studio": "Rogue Marble",
+        "rating": 6.5
+    },
+    {
+        "studio": "Keep Your Head",
+        "rating": 6.5
+    },
+    {
+        "studio": "WV Films III",
+        "rating": 6.5
+    },
+    {
+        "studio": "MRC",
+        "rating": 6.49
+    },
+    {
+        "studio": "LStar Capital",
+        "rating": 6.49
+    },
+    {
+        "studio": "Parkes+MacDonald Image Nation",
+        "rating": 6.48
+    },
+    {
+        "studio": "Atmosphere Entertainment MM",
+        "rating": 6.48
+    },
+    {
+        "studio": "The Safran Company",
+        "rating": 6.48
+    },
+    {
+        "studio": "De Line Pictures",
+        "rating": 6.47
+    },
+    {
+        "studio": "Seven Bucks Productions",
+        "rating": 6.47
+    },
+    {
+        "studio": "Medienboard Berlin-Brandenburg",
+        "rating": 6.47
+    },
+    {
+        "studio": "CBS Films",
+        "rating": 6.47
+    },
+    {
+        "studio": "Lin Pictures",
+        "rating": 6.47
+    },
+    {
+        "studio": "Marvel Enterprises",
+        "rating": 6.45
+    },
+    {
+        "studio": "Black Bear Pictures",
+        "rating": 6.45
+    },
+    {
+        "studio": "Marza Animation Planet",
+        "rating": 6.45
+    },
+    {
+        "studio": "Josephson Entertainment",
+        "rating": 6.45
+    },
+    {
+        "studio": "Mikros Image",
+        "rating": 6.45
+    },
+    {
+        "studio": "M6",
+        "rating": 6.45
+    },
+    {
+        "studio": "Point Grey Pictures",
+        "rating": 6.45
+    },
+    {
+        "studio": "Province of British Columbia Production Services Tax Credit",
+        "rating": 6.45
+    },
+    {
+        "studio": "TF1 Films Production",
+        "rating": 6.45
+    },
+    {
+        "studio": "M6 Films",
+        "rating": 6.45
+    },
+    {
+        "studio": "Genre Films",
+        "rating": 6.45
+    },
+    {
+        "studio": "Blumhouse Productions",
+        "rating": 6.44
+    },
+    {
+        "studio": "Studio Babelsberg",
+        "rating": 6.42
+    },
+    {
+        "studio": "Mel's Cite du Cinema",
+        "rating": 6.4
+    },
+    {
+        "studio": "Gold Circle Films",
+        "rating": 6.4
+    },
+    {
+        "studio": "Eclectic Pictures",
+        "rating": 6.4
+    },
+    {
+        "studio": "France 2 Cin\u00e9ma",
+        "rating": 6.4
+    },
+    {
+        "studio": "Bluegrass Films",
+        "rating": 6.4
+    },
+    {
+        "studio": "Carmel Productions",
+        "rating": 6.4
+    },
+    {
+        "studio": "Charades",
+        "rating": 6.4
+    },
+    {
+        "studio": "Logical Pictures",
+        "rating": 6.4
+    },
+    {
+        "studio": "C2M Productions",
+        "rating": 6.4
+    },
+    {
+        "studio": "HHHH",
+        "rating": 6.4
+    },
+    {
+        "studio": "Truenorth Productions",
+        "rating": 6.4
+    },
+    {
+        "studio": "BNP Paribas Fortis Film Finance",
+        "rating": 6.4
+    },
+    {
+        "studio": "France T\u00e9l\u00e9visions",
+        "rating": 6.4
+    },
+    {
+        "studio": "Cave 76 Productions",
+        "rating": 6.4
+    },
+    {
+        "studio": "Taxshelter. be",
+        "rating": 6.4
+    },
+    {
+        "studio": "Cine Bazar",
+        "rating": 6.4
+    },
+    {
+        "studio": "Monkey Pack Films",
+        "rating": 6.4
+    },
+    {
+        "studio": "M.E.S. Productions",
+        "rating": 6.4
+    },
+    {
+        "studio": "Insurge Pictures",
+        "rating": 6.4
+    },
+    {
+        "studio": "Savvy Media Holdings",
+        "rating": 6.4
+    },
+    {
+        "studio": "Red Crown Productions",
+        "rating": 6.4
+    },
+    {
+        "studio": "Royal Viking Entertainment",
+        "rating": 6.4
+    },
+    {
+        "studio": "L\u00e9gende Films",
+        "rating": 6.4
+    },
+    {
+        "studio": "Anton",
+        "rating": 6.4
+    },
+    {
+        "studio": "Roadside Attractions",
+        "rating": 6.4
+    },
+    {
+        "studio": "Warner Bros. Japan",
+        "rating": 6.4
+    },
+    {
+        "studio": "WideAwake",
+        "rating": 6.4
+    },
+    {
+        "studio": "Illumination Productions",
+        "rating": 6.4
+    },
+    {
+        "studio": "H2S2 Filmproduktionsgesellschaft",
+        "rating": 6.4
+    },
+    {
+        "studio": "Cruise/Wagner Productions",
+        "rating": 6.4
+    },
+    {
+        "studio": "Cutting Edge Group",
+        "rating": 6.4
+    },
+    {
+        "studio": "Tencent Pictures",
+        "rating": 6.4
+    },
+    {
+        "studio": "Iron Horse Entertainment",
+        "rating": 6.4
+    },
+    {
+        "studio": "Robert Cort Productions",
+        "rating": 6.4
+    },
+    {
+        "studio": "Playtone",
+        "rating": 6.4
+    },
+    {
+        "studio": "Vinson Films",
+        "rating": 6.4
+    },
+    {
+        "studio": "Shine Box Media Group",
+        "rating": 6.4
+    },
+    {
+        "studio": "Bandito Brothers",
+        "rating": 6.4
+    },
+    {
+        "studio": "Electronic Arts",
+        "rating": 6.4
+    },
+    {
+        "studio": "Liveplanet",
+        "rating": 6.4
+    },
+    {
+        "studio": "Cin\u00e9mage 12",
+        "rating": 6.4
+    },
+    {
+        "studio": "Neon",
+        "rating": 6.4
+    },
+    {
+        "studio": "Digital Riot Media",
+        "rating": 6.4
+    },
+    {
+        "studio": "Echo Lake Entertainment",
+        "rating": 6.4
+    },
+    {
+        "studio": "A113",
+        "rating": 6.4
+    },
+    {
+        "studio": "Lantern Entertainment",
+        "rating": 6.4
+    },
+    {
+        "studio": "Broken Road Productions",
+        "rating": 6.4
+    },
+    {
+        "studio": "Mars Films",
+        "rating": 6.4
+    },
+    {
+        "studio": "Qu\u00e9bec Production Services Tax Credit",
+        "rating": 6.4
+    },
+    {
+        "studio": "Khalabo Ink Society",
+        "rating": 6.4
+    },
+    {
+        "studio": "Warner Bros. Digital Networks",
+        "rating": 6.4
+    },
+    {
+        "studio": "United Plankton Pictures",
+        "rating": 6.37
+    },
+    {
+        "studio": "Radar Pictures",
+        "rating": 6.37
+    },
+    {
+        "studio": "Smart Egg Pictures",
+        "rating": 6.37
+    },
+    {
+        "studio": "Metro-Goldwyn-Mayer",
+        "rating": 6.37
+    },
+    {
+        "studio": "QC Entertainment",
+        "rating": 6.37
+    },
+    {
+        "studio": "Sony Pictures",
+        "rating": 6.37
+    },
+    {
+        "studio": "Di Bonaventura Pictures",
+        "rating": 6.36
+    },
+    {
+        "studio": "Worldview Entertainment",
+        "rating": 6.35
+    },
+    {
+        "studio": "Orange Studio",
+        "rating": 6.35
+    },
+    {
+        "studio": "Universal Pictures",
+        "rating": 6.35
+    },
+    {
+        "studio": "Rovio Animation",
+        "rating": 6.35
+    },
+    {
+        "studio": "Rovio Entertainment",
+        "rating": 6.35
+    },
+    {
+        "studio": "SpectreVision",
+        "rating": 6.35
+    },
+    {
+        "studio": "Telecinco Cinema",
+        "rating": 6.35
+    },
+    {
+        "studio": "Diamond Film Productions",
+        "rating": 6.33
+    },
+    {
+        "studio": "Cin\u00e9+",
+        "rating": 6.31
+    },
+    {
+        "studio": "Atlas Entertainment",
+        "rating": 6.31
+    },
+    {
+        "studio": "Anchor Bay Films",
+        "rating": 6.3
+    },
+    {
+        "studio": "Principato-Young Entertainment",
+        "rating": 6.3
+    },
+    {
+        "studio": "Divide / Conquer",
+        "rating": 6.3
+    },
+    {
+        "studio": "Amazon Prime Video",
+        "rating": 6.3
+    },
+    {
+        "studio": "Lensbern Productions",
+        "rating": 6.3
+    },
+    {
+        "studio": "Little Big Pictures",
+        "rating": 6.3
+    },
+    {
+        "studio": "Sidus",
+        "rating": 6.3
+    },
+    {
+        "studio": "Argunov Studio",
+        "rating": 6.3
+    },
+    {
+        "studio": "Sony Pictures Animation",
+        "rating": 6.3
+    },
+    {
+        "studio": "The Canadian Film or Video Production Tax Credit (CPTC)",
+        "rating": 6.3
+    },
+    {
+        "studio": "Central Partnership",
+        "rating": 6.3
+    },
+    {
+        "studio": "Fresh Film",
+        "rating": 6.3
+    },
+    {
+        "studio": "Fuzzy Door Productions",
+        "rating": 6.3
+    },
+    {
+        "studio": "South Australian Film Corporation",
+        "rating": 6.3
+    },
+    {
+        "studio": "Mandeville Films",
+        "rating": 6.3
+    },
+    {
+        "studio": "UK Government's High End Television Tax Relief",
+        "rating": 6.3
+    },
+    {
+        "studio": "British Film Commission",
+        "rating": 6.3
+    },
+    {
+        "studio": "CineTel Films",
+        "rating": 6.3
+    },
+    {
+        "studio": "Brucks Entertainment",
+        "rating": 6.3
+    },
+    {
+        "studio": "Secret Machine Entertainment",
+        "rating": 6.3
+    },
+    {
+        "studio": "Imagi Animation Studios",
+        "rating": 6.3
+    },
+    {
+        "studio": "Seaside Entertainment",
+        "rating": 6.3
+    },
+    {
+        "studio": "Anka Film",
+        "rating": 6.3
+    },
+    {
+        "studio": "Steven Paul Production",
+        "rating": 6.3
+    },
+    {
+        "studio": "Grosvenor Park Productions",
+        "rating": 6.3
+    },
+    {
+        "studio": "Square Enix",
+        "rating": 6.3
+    },
+    {
+        "studio": "Arad Productions",
+        "rating": 6.3
+    },
+    {
+        "studio": "Tezuka Productions",
+        "rating": 6.3
+    },
+    {
+        "studio": "Weying Galaxy Entertainment",
+        "rating": 6.3
+    },
+    {
+        "studio": "Infinite Detective",
+        "rating": 6.3
+    },
+    {
+        "studio": "The Imaginarium",
+        "rating": 6.3
+    },
+    {
+        "studio": "Intermedia Films",
+        "rating": 6.3
+    },
+    {
+        "studio": "Ombra Films",
+        "rating": 6.3
+    },
+    {
+        "studio": "The Picture Company",
+        "rating": 6.3
+    },
+    {
+        "studio": "Oops Doughnuts Productions",
+        "rating": 6.3
+    },
+    {
+        "studio": "Hermanas Wachowski",
+        "rating": 6.3
+    },
+    {
+        "studio": "Team Todd",
+        "rating": 6.3
+    },
+    {
+        "studio": "C-2 Pictures",
+        "rating": 6.3
+    },
+    {
+        "studio": "Fond kino",
+        "rating": 6.3
+    },
+    {
+        "studio": "IMF Internationale Medien und Film GmbH & Co. 3. Produktions KG",
+        "rating": 6.3
+    },
+    {
+        "studio": "Mostow/Lieberman Productions",
+        "rating": 6.3
+    },
+    {
+        "studio": "Rocklock Films",
+        "rating": 6.3
+    },
+    {
+        "studio": "Anarchos Productions",
+        "rating": 6.3
+    },
+    {
+        "studio": "Entertainment One",
+        "rating": 6.3
+    },
+    {
+        "studio": "Legendary Pictures",
+        "rating": 6.29
+    },
+    {
+        "studio": "Canal+",
+        "rating": 6.28
+    },
+    {
+        "studio": "EuropaCorp",
+        "rating": 6.28
+    },
+    {
+        "studio": "Misher Films",
+        "rating": 6.27
+    },
+    {
+        "studio": "The Zanuck Company",
+        "rating": 6.27
+    },
+    {
+        "studio": "The Fyzz",
+        "rating": 6.26
+    },
+    {
+        "studio": "Centropolis Entertainment",
+        "rating": 6.25
+    },
+    {
+        "studio": "Twisted Pictures",
+        "rating": 6.24
+    },
+    {
+        "studio": "Imagine Entertainment",
+        "rating": 6.24
+    },
+    {
+        "studio": "The Kennedy/Marshall Company",
+        "rating": 6.24
+    },
+    {
+        "studio": "Participant Media",
+        "rating": 6.23
+    },
+    {
+        "studio": "Umedia",
+        "rating": 6.22
+    },
+    {
+        "studio": "Troublemaker Studios",
+        "rating": 6.22
+    },
+    {
+        "studio": "Nu Image",
+        "rating": 6.22
+    },
+    {
+        "studio": "Fire Axe Pictures",
+        "rating": 6.2
+    },
+    {
+        "studio": "Apulia Film Commission",
+        "rating": 6.2
+    },
+    {
+        "studio": "01 Distribution",
+        "rating": 6.2
+    },
+    {
+        "studio": "Rai Cinema",
+        "rating": 6.2
+    },
+    {
+        "studio": "Le Pacte",
+        "rating": 6.2
+    },
+    {
+        "studio": "Recorded Picture Company",
+        "rating": 6.2
+    },
+    {
+        "studio": "Archimede",
+        "rating": 6.2
+    },
+    {
+        "studio": "Fonds Eurimages du Conseil de l'Europe",
+        "rating": 6.2
+    },
+    {
+        "studio": "Strike Entertainment",
+        "rating": 6.2
+    },
+    {
+        "studio": "ACE Pictures Entertainment",
+        "rating": 6.2
+    },
+    {
+        "studio": "BRO Cinema",
+        "rating": 6.2
+    },
+    {
+        "studio": "BPER Banca",
+        "rating": 6.2
+    },
+    {
+        "studio": "Serbia Creates Film",
+        "rating": 6.2
+    },
+    {
+        "studio": "Mad Chance",
+        "rating": 6.2
+    },
+    {
+        "studio": "Riche Productions",
+        "rating": 6.2
+    },
+    {
+        "studio": "Junction Films",
+        "rating": 6.2
+    },
+    {
+        "studio": "Blitz Films",
+        "rating": 6.2
+    },
+    {
+        "studio": "Kushner/Wyman Productions",
+        "rating": 6.2
+    },
+    {
+        "studio": "Grive Productions",
+        "rating": 6.2
+    },
+    {
+        "studio": "Direzione Generale Cinema",
+        "rating": 6.2
+    },
+    {
+        "studio": "Fantefilm",
+        "rating": 6.2
+    },
+    {
+        "studio": "Amen Ra Films",
+        "rating": 6.2
+    },
+    {
+        "studio": "Ontario Creates",
+        "rating": 6.2
+    },
+    {
+        "studio": "Katalyst Films",
+        "rating": 6.2
+    },
+    {
+        "studio": "Current Entertainment",
+        "rating": 6.2
+    },
+    {
+        "studio": "Lazio Cinema International",
+        "rating": 6.2
+    },
+    {
+        "studio": "Lotus Production",
+        "rating": 6.2
+    },
+    {
+        "studio": "Trancas International Films",
+        "rating": 6.2
+    },
+    {
+        "studio": "STX Entertainment",
+        "rating": 6.2
+    },
+    {
+        "studio": "Regione Lazio",
+        "rating": 6.2
+    },
+    {
+        "studio": "Regione Puglia",
+        "rating": 6.2
+    },
+    {
+        "studio": "Regione Toscana",
+        "rating": 6.2
+    },
+    {
+        "studio": "Clubhouse Pictures",
+        "rating": 6.2
+    },
+    {
+        "studio": "Nick Wechsler Productions",
+        "rating": 6.2
+    },
+    {
+        "studio": "Toscana Promozione",
+        "rating": 6.2
+    },
+    {
+        "studio": "Unipol",
+        "rating": 6.2
+    },
+    {
+        "studio": "Teitler Film",
+        "rating": 6.2
+    },
+    {
+        "studio": "Kaplan/Perrone Entertainment",
+        "rating": 6.2
+    },
+    {
+        "studio": "Hivemind",
+        "rating": 6.2
+    },
+    {
+        "studio": "Starlight International Media",
+        "rating": 6.2
+    },
+    {
+        "studio": "Rolling Hills",
+        "rating": 6.2
+    },
+    {
+        "studio": "1212 Entertainment",
+        "rating": 6.2
+    },
+    {
+        "studio": "Hidden Empire Film Group",
+        "rating": 6.2
+    },
+    {
+        "studio": "Wallimage",
+        "rating": 6.2
+    },
+    {
+        "studio": "Wintergreen Productions",
+        "rating": 6.2
+    },
+    {
+        "studio": "Paradox Produksjon",
+        "rating": 6.2
+    },
+    {
+        "studio": "De Milo",
+        "rating": 6.2
+    },
+    {
+        "studio": "Toma 78",
+        "rating": 6.2
+    },
+    {
+        "studio": "LSG Productions",
+        "rating": 6.2
+    },
+    {
+        "studio": "5150 Action",
+        "rating": 6.2
+    },
+    {
+        "studio": "Mas Films",
+        "rating": 6.2
+    },
+    {
+        "studio": "Legend3D",
+        "rating": 6.2
+    },
+    {
+        "studio": "Instituto de la Cinematograf\u00eda y de las Artes Audiovisuales (ICAA)",
+        "rating": 6.2
+    },
+    {
+        "studio": "Hurwitz & Schlossberg Productions",
+        "rating": 6.2
+    },
+    {
+        "studio": "Ministry of Finance of Spain",
+        "rating": 6.2
+    },
+    {
+        "studio": "Ministerio de Cultura",
+        "rating": 6.2
+    },
+    {
+        "studio": "Hungarian National Film Fund",
+        "rating": 6.2
+    },
+    {
+        "studio": "Ruby Films",
+        "rating": 6.2
+    },
+    {
+        "studio": "SC Films Thailand Co.",
+        "rating": 6.2
+    },
+    {
+        "studio": "Raimi Productions",
+        "rating": 6.2
+    },
+    {
+        "studio": "Iyara Films",
+        "rating": 6.2
+    },
+    {
+        "studio": "China Film Group",
+        "rating": 6.2
+    },
+    {
+        "studio": "Sahamongkolfilm",
+        "rating": 6.2
+    },
+    {
+        "studio": "DeAPlaneta",
+        "rating": 6.2
+    },
+    {
+        "studio": "ARTE",
+        "rating": 6.2
+    },
+    {
+        "studio": "Disruption Entertainment",
+        "rating": 6.2
+    },
+    {
+        "studio": "ZDF",
+        "rating": 6.2
+    },
+    {
+        "studio": "Nadcon Film",
+        "rating": 6.2
+    },
+    {
+        "studio": "Mantecadas Salazar AIE",
+        "rating": 6.2
+    },
+    {
+        "studio": "Morgan Creek Productions",
+        "rating": 6.2
+    },
+    {
+        "studio": "XYZ Films",
+        "rating": 6.17
+    },
+    {
+        "studio": "Zide-Perry Productions",
+        "rating": 6.17
+    },
+    {
+        "studio": "Ghost House Pictures",
+        "rating": 6.17
+    },
+    {
+        "studio": "NPV Entertainment",
+        "rating": 6.15
+    },
+    {
+        "studio": "Temple Hill Entertainment",
+        "rating": 6.15
+    },
+    {
+        "studio": "Campbell Grobman Films",
+        "rating": 6.15
+    },
+    {
+        "studio": "Twisted Media",
+        "rating": 6.15
+    },
+    {
+        "studio": "Covert Media",
+        "rating": 6.15
+    },
+    {
+        "studio": "Huahua Media",
+        "rating": 6.14
+    },
+    {
+        "studio": "One Race",
+        "rating": 6.14
+    },
+    {
+        "studio": "Dune Entertainment",
+        "rating": 6.12
+    },
+    {
+        "studio": "Millennium Films",
+        "rating": 6.12
+    },
+    {
+        "studio": "United Artists",
+        "rating": 6.11
+    },
+    {
+        "studio": "Sunn Classic Pictures",
+        "rating": 6.1
+    },
+    {
+        "studio": "Highland Film Group",
+        "rating": 6.1
+    },
+    {
+        "studio": "127 Wall",
+        "rating": 6.1
+    },
+    {
+        "studio": "Nu Boyana Film Studios",
+        "rating": 6.1
+    },
+    {
+        "studio": "Dadi Film Group",
+        "rating": 6.1
+    },
+    {
+        "studio": "TinRes Entertainment",
+        "rating": 6.1
+    },
+    {
+        "studio": "Lakeview Entertainment",
+        "rating": 6.1
+    },
+    {
+        "studio": "Hammerstone Studios",
+        "rating": 6.1
+    },
+    {
+        "studio": "Templeton Media",
+        "rating": 6.1
+    },
+    {
+        "studio": "Bloom",
+        "rating": 6.1
+    },
+    {
+        "studio": "Black Rabbit Media",
+        "rating": 6.1
+    },
+    {
+        "studio": "Anima Pictures",
+        "rating": 6.1
+    },
+    {
+        "studio": "Desert Motion Pictures",
+        "rating": 6.1
+    },
+    {
+        "studio": "Thai Occidental Productions",
+        "rating": 6.1
+    },
+    {
+        "studio": "Sho Films",
+        "rating": 6.1
+    },
+    {
+        "studio": "Burek Films",
+        "rating": 6.1
+    },
+    {
+        "studio": "Solstice Productions",
+        "rating": 6.1
+    },
+    {
+        "studio": "Three Strange Angels",
+        "rating": 6.1
+    },
+    {
+        "studio": "Ex3 Productions",
+        "rating": 6.1
+    },
+    {
+        "studio": "Fipex Holding",
+        "rating": 6.1
+    },
+    {
+        "studio": "LuckyChap Entertainment",
+        "rating": 6.1
+    },
+    {
+        "studio": "Kroll & Co Entertainment",
+        "rating": 6.1
+    },
+    {
+        "studio": "Film 44",
+        "rating": 6.1
+    },
+    {
+        "studio": "K5 Film",
+        "rating": 6.1
+    },
+    {
+        "studio": "Karz Entertainment",
+        "rating": 6.1
+    },
+    {
+        "studio": "NeoReel",
+        "rating": 6.1
+    },
+    {
+        "studio": "Gary Sanchez Productions",
+        "rating": 6.1
+    },
+    {
+        "studio": "K5 International",
+        "rating": 6.1
+    },
+    {
+        "studio": "Columbus 81 Productions",
+        "rating": 6.1
+    },
+    {
+        "studio": "Sommers Company, The",
+        "rating": 6.1
+    },
+    {
+        "studio": "Scholastic Productions",
+        "rating": 6.1
+    },
+    {
+        "studio": "Point of No Return",
+        "rating": 6.1
+    },
+    {
+        "studio": "Road Pictures",
+        "rating": 6.1
+    },
+    {
+        "studio": "7 Bucks Entertainment",
+        "rating": 6.1
+    },
+    {
+        "studio": "ASAP Entertainment",
+        "rating": 6.1
+    },
+    {
+        "studio": "TAFT Entertainment Pictures",
+        "rating": 6.1
+    },
+    {
+        "studio": "Balboa Productions",
+        "rating": 6.1
+    },
+    {
+        "studio": "Screen Gems",
+        "rating": 6.08
+    },
+    {
+        "studio": "The Montecito Picture Company",
+        "rating": 6.07
+    },
+    {
+        "studio": "Dark Horse Entertainment",
+        "rating": 6.07
+    },
+    {
+        "studio": "IM Global",
+        "rating": 6.06
+    },
+    {
+        "studio": "20th Century Studios",
+        "rating": 6.05
+    },
+    {
+        "studio": "Ingenious Media",
+        "rating": 6.05
+    },
+    {
+        "studio": "BenderSpink",
+        "rating": 6.05
+    },
+    {
+        "studio": "Nuyorican Productions",
+        "rating": 6.05
+    },
+    {
+        "studio": "Platinum Dunes",
+        "rating": 6.04
+    },
+    {
+        "studio": "Davis Entertainment",
+        "rating": 6.04
+    },
+    {
+        "studio": "Nickelodeon Movies",
+        "rating": 6.04
+    },
+    {
+        "studio": "Deutscher Filmf\u00f6rderfonds",
+        "rating": 6.03
+    },
+    {
+        "studio": "Why Not Productions",
+        "rating": 6.03
+    },
+    {
+        "studio": "Moving Picture Company",
+        "rating": 6.01
+    },
+    {
+        "studio": "Paramount Animation",
+        "rating": 6
+    },
+    {
+        "studio": "Safehouse Pictures",
+        "rating": 6
+    },
+    {
+        "studio": "Orange Image",
+        "rating": 6
+    },
+    {
+        "studio": "Beijing Dengfeng International Culture",
+        "rating": 6
+    },
+    {
+        "studio": "OLM",
+        "rating": 6
+    },
+    {
+        "studio": "Aperture Entertainment",
+        "rating": 6
+    },
+    {
+        "studio": "G!Film Studio",
+        "rating": 6
+    },
+    {
+        "studio": "Beijing Dongfang International Cultural Communications Company",
+        "rating": 6
+    },
+    {
+        "studio": "TV Tokyo",
+        "rating": 6
+    },
+    {
+        "studio": "3Pas Studios",
+        "rating": 6
+    },
+    {
+        "studio": "Blinding Edge Pictures",
+        "rating": 6
+    },
+    {
+        "studio": "Handsomecharlie Films",
+        "rating": 6
+    },
+    {
+        "studio": "Radical Studios",
+        "rating": 6
+    },
+    {
+        "studio": "Warner Bros. Korea",
+        "rating": 6
+    },
+    {
+        "studio": "Exodus Productions",
+        "rating": 6
+    },
+    {
+        "studio": "Taken 3",
+        "rating": 6
+    },
+    {
+        "studio": "Exodus Film Group",
+        "rating": 6
+    },
+    {
+        "studio": "Prime Universe Productions",
+        "rating": 6
+    },
+    {
+        "studio": "Alcor Films",
+        "rating": 6
+    },
+    {
+        "studio": "Donner/Shuler-Donner Productions",
+        "rating": 6
+    },
+    {
+        "studio": "Riverstone Pictures",
+        "rating": 6
+    },
+    {
+        "studio": "Spring Era Film Company",
+        "rating": 6
+    },
+    {
+        "studio": "Nickelodeon Animation Studio",
+        "rating": 6
+    },
+    {
+        "studio": "Kerner Entertainment Company",
+        "rating": 6
+    },
+    {
+        "studio": "Volcano Films",
+        "rating": 6
+    },
+    {
+        "studio": "Daybreak Productions",
+        "rating": 6
+    },
+    {
+        "studio": "Red Wagon Entertainment",
+        "rating": 6
+    },
+    {
+        "studio": "Lewis Pictures",
+        "rating": 6
+    },
+    {
+        "studio": "Lightfuse & Gettaway",
+        "rating": 6
+    },
+    {
+        "studio": "Gama Entertainment Partners",
+        "rating": 6
+    },
+    {
+        "studio": "Tri G",
+        "rating": 6
+    },
+    {
+        "studio": "Shogakukan-Shueisha Productions",
+        "rating": 6
+    },
+    {
+        "studio": "Beijing Jingxi Culture",
+        "rating": 6
+    },
+    {
+        "studio": "Pantelion Films",
+        "rating": 6
+    },
+    {
+        "studio": "Goldmann Pictures",
+        "rating": 6
+    },
+    {
+        "studio": "Tower Hill Entertainment",
+        "rating": 6
+    },
+    {
+        "studio": "Chao Feng Pictures",
+        "rating": 6
+    },
+    {
+        "studio": "Beijing Century Media Culture",
+        "rating": 6
+    },
+    {
+        "studio": "Dark Castle Entertainment",
+        "rating": 5.98
+    },
+    {
+        "studio": "Atomic Monster",
+        "rating": 5.95
+    },
+    {
+        "studio": "Lions Gate Films",
+        "rating": 5.95
+    },
+    {
+        "studio": "Foresight Unlimited",
+        "rating": 5.95
+    },
+    {
+        "studio": "Scholastic Entertainment",
+        "rating": 5.95
+    },
+    {
+        "studio": "Nitrogen Studios Canada",
+        "rating": 5.95
+    },
+    {
+        "studio": "Danjaq",
+        "rating": 5.94
+    },
+    {
+        "studio": "Perfect World Pictures",
+        "rating": 5.94
+    },
+    {
+        "studio": "Hasbro",
+        "rating": 5.93
+    },
+    {
+        "studio": "Annapurna Pictures",
+        "rating": 5.92
+    },
+    {
+        "studio": "Summit Entertainment",
+        "rating": 5.92
+    },
+    {
+        "studio": "Kava Productions",
+        "rating": 5.9
+    },
+    {
+        "studio": "Hostel LLC",
+        "rating": 5.9
+    },
+    {
+        "studio": "Telenet",
+        "rating": 5.9
+    },
+    {
+        "studio": "The Hideaway Entertainment",
+        "rating": 5.9
+    },
+    {
+        "studio": "truTV",
+        "rating": 5.9
+    },
+    {
+        "studio": "BillBlock Media",
+        "rating": 5.9
+    },
+    {
+        "studio": "Joi Productions",
+        "rating": 5.9
+    },
+    {
+        "studio": "Saban Brands",
+        "rating": 5.9
+    },
+    {
+        "studio": "The Mark Gordon Company",
+        "rating": 5.9
+    },
+    {
+        "studio": "All Entertainment",
+        "rating": 5.9
+    },
+    {
+        "studio": "Flynn Picture Company",
+        "rating": 5.9
+    },
+    {
+        "studio": "Ninjas Runnin' Wild Productions",
+        "rating": 5.9
+    },
+    {
+        "studio": "Labyrinthe Films",
+        "rating": 5.9
+    },
+    {
+        "studio": "Proximus",
+        "rating": 5.9
+    },
+    {
+        "studio": "Funny or Die",
+        "rating": 5.9
+    },
+    {
+        "studio": "Universal International Pictures",
+        "rating": 5.9
+    },
+    {
+        "studio": "Hassell Free Production",
+        "rating": 5.9
+    },
+    {
+        "studio": "Atchafalaya Films",
+        "rating": 5.9
+    },
+    {
+        "studio": "Braven NL",
+        "rating": 5.9
+    },
+    {
+        "studio": "Le Vision Pictures",
+        "rating": 5.9
+    },
+    {
+        "studio": "10.80 Films",
+        "rating": 5.9
+    },
+    {
+        "studio": "Rodin Entertainment",
+        "rating": 5.9
+    },
+    {
+        "studio": "Stray Dog Films",
+        "rating": 5.9
+    },
+    {
+        "studio": "Galaxy Films",
+        "rating": 5.9
+    },
+    {
+        "studio": "CStar",
+        "rating": 5.9
+    },
+    {
+        "studio": "RTBF",
+        "rating": 5.9
+    },
+    {
+        "studio": "Lucasfilm Animation",
+        "rating": 5.9
+    },
+    {
+        "studio": "Klasky-Csupo",
+        "rating": 5.9
+    },
+    {
+        "studio": "Rumble Entertainment",
+        "rating": 5.9
+    },
+    {
+        "studio": "Visible Pictures",
+        "rating": 5.9
+    },
+    {
+        "studio": "Well Go USA Entertainment",
+        "rating": 5.9
+    },
+    {
+        "studio": "606 Films",
+        "rating": 5.9
+    },
+    {
+        "studio": "Ozla Productions",
+        "rating": 5.9
+    },
+    {
+        "studio": "Lotus Entertainment",
+        "rating": 5.9
+    },
+    {
+        "studio": "Gold Star Films",
+        "rating": 5.9
+    },
+    {
+        "studio": "Tinker Productions",
+        "rating": 5.9
+    },
+    {
+        "studio": "Harbor Light Entertainment",
+        "rating": 5.9
+    },
+    {
+        "studio": "Lleju Productions",
+        "rating": 5.9
+    },
+    {
+        "studio": "Babieka Films",
+        "rating": 5.9
+    },
+    {
+        "studio": "Global Medien KG",
+        "rating": 5.9
+    },
+    {
+        "studio": "Gramercy Pictures",
+        "rating": 5.9
+    },
+    {
+        "studio": "Narrative Capital",
+        "rating": 5.9
+    },
+    {
+        "studio": "Pride of Gypsies",
+        "rating": 5.9
+    },
+    {
+        "studio": "Prospect 3",
+        "rating": 5.9
+    },
+    {
+        "studio": "International Production Company",
+        "rating": 5.9
+    },
+    {
+        "studio": "Kennedy Miller Mitchell",
+        "rating": 5.9
+    },
+    {
+        "studio": "Raw Nerve",
+        "rating": 5.9
+    },
+    {
+        "studio": "Lunacy Productions",
+        "rating": 5.9
+    },
+    {
+        "studio": "IFC Midnight",
+        "rating": 5.9
+    },
+    {
+        "studio": "Dr D Studios",
+        "rating": 5.9
+    },
+    {
+        "studio": "C8 Films",
+        "rating": 5.9
+    },
+    {
+        "studio": "SofiTVcin\u00e9 6",
+        "rating": 5.9
+    },
+    {
+        "studio": "Legendary East",
+        "rating": 5.9
+    },
+    {
+        "studio": "TIK Films",
+        "rating": 5.88
+    },
+    {
+        "studio": "Revolution Studios",
+        "rating": 5.87
+    },
+    {
+        "studio": "Lakeshore Entertainment",
+        "rating": 5.87
+    },
+    {
+        "studio": "Vertigo Entertainment",
+        "rating": 5.86
+    },
+    {
+        "studio": "River Bay Films",
+        "rating": 5.85
+    },
+    {
+        "studio": "Silvertongue Films",
+        "rating": 5.85
+    },
+    {
+        "studio": "Eon Productions",
+        "rating": 5.83
+    },
+    {
+        "studio": "Happy Madison Productions",
+        "rating": 5.83
+    },
+    {
+        "studio": "PingPongFilm",
+        "rating": 5.8
+    },
+    {
+        "studio": "Lovely Productions",
+        "rating": 5.8
+    },
+    {
+        "studio": "Frakas Productions",
+        "rating": 5.8
+    },
+    {
+        "studio": "Fantastic Films",
+        "rating": 5.8
+    },
+    {
+        "studio": "Farewell Productions",
+        "rating": 5.8
+    },
+    {
+        "studio": "Canana Films",
+        "rating": 5.8
+    },
+    {
+        "studio": "Mystery Clock Cinema",
+        "rating": 5.8
+    },
+    {
+        "studio": "Oddfellows Entertainment",
+        "rating": 5.8
+    },
+    {
+        "studio": "Texas Chainsaw Productions",
+        "rating": 5.8
+    },
+    {
+        "studio": "Sketch Films",
+        "rating": 5.8
+    },
+    {
+        "studio": "Rogue Pictures",
+        "rating": 5.8
+    },
+    {
+        "studio": "Panorama Media",
+        "rating": 5.8
+    },
+    {
+        "studio": "No Trace Camping",
+        "rating": 5.8
+    },
+    {
+        "studio": "Vortex/Henkel/Hooper",
+        "rating": 5.8
+    },
+    {
+        "studio": "Darko Entertainment",
+        "rating": 5.8
+    },
+    {
+        "studio": "The Third Floor",
+        "rating": 5.8
+    },
+    {
+        "studio": "Cinesite Animation",
+        "rating": 5.8
+    },
+    {
+        "studio": "Dylan Sellers Productions",
+        "rating": 5.8
+    },
+    {
+        "studio": "CS2 Films",
+        "rating": 5.8
+    },
+    {
+        "studio": "Tyler Perry Studios",
+        "rating": 5.8
+    },
+    {
+        "studio": "Automatik Entertainment",
+        "rating": 5.78
+    },
+    {
+        "studio": "Impact Pictures",
+        "rating": 5.77
+    },
+    {
+        "studio": "Bron Studios",
+        "rating": 5.77
+    },
+    {
+        "studio": "Dino De Laurentiis Company",
+        "rating": 5.75
+    },
+    {
+        "studio": "Wrigley Pictures",
+        "rating": 5.75
+    },
+    {
+        "studio": "Gold/Miller Productions",
+        "rating": 5.75
+    },
+    {
+        "studio": "Constantin Film",
+        "rating": 5.74
+    },
+    {
+        "studio": "Next Entertainment",
+        "rating": 5.73
+    },
+    {
+        "studio": "DMG Entertainment",
+        "rating": 5.73
+    },
+    {
+        "studio": "Cott Productions",
+        "rating": 5.7
+    },
+    {
+        "studio": "Valiant Entertainment",
+        "rating": 5.7
+    },
+    {
+        "studio": "Franklin/Waterman Productions",
+        "rating": 5.7
+    },
+    {
+        "studio": "Giant Pictures",
+        "rating": 5.7
+    },
+    {
+        "studio": "Furia de Titanes II, A.I.E.",
+        "rating": 5.7
+    },
+    {
+        "studio": "Cinema Group",
+        "rating": 5.7
+    },
+    {
+        "studio": "Angeles Entertainment Group",
+        "rating": 5.7
+    },
+    {
+        "studio": "Fosun Group Forever Pictures",
+        "rating": 5.7
+    },
+    {
+        "studio": "2.0 Entertainment",
+        "rating": 5.7
+    },
+    {
+        "studio": "Saban Films",
+        "rating": 5.7
+    },
+    {
+        "studio": "Chartoff-Winkler Productions",
+        "rating": 5.7
+    },
+    {
+        "studio": "WTC Productions",
+        "rating": 5.7
+    },
+    {
+        "studio": "Ad Hominem Enterprises",
+        "rating": 5.7
+    },
+    {
+        "studio": "Signature Entertainment",
+        "rating": 5.7
+    },
+    {
+        "studio": "Great Oaks Entertainment",
+        "rating": 5.7
+    },
+    {
+        "studio": "ME2 Productions",
+        "rating": 5.7
+    },
+    {
+        "studio": "Cecchi Gori Group Tiger Cinematografica",
+        "rating": 5.7
+    },
+    {
+        "studio": "Rice Films",
+        "rating": 5.7
+    },
+    {
+        "studio": "ESPN",
+        "rating": 5.7
+    },
+    {
+        "studio": "Hands-on Producers",
+        "rating": 5.7
+    },
+    {
+        "studio": "Mediapro",
+        "rating": 5.7
+    },
+    {
+        "studio": "Televisi\u00f3n Abierta",
+        "rating": 5.7
+    },
+    {
+        "studio": "Yannix Technology Corporation",
+        "rating": 5.7
+    },
+    {
+        "studio": "Alpha Pictures",
+        "rating": 5.7
+    },
+    {
+        "studio": "DMC Film",
+        "rating": 5.7
+    },
+    {
+        "studio": "Ubisoft Motion Pictures",
+        "rating": 5.7
+    },
+    {
+        "studio": "Ubisoft",
+        "rating": 5.7
+    },
+    {
+        "studio": "Inverness Productions",
+        "rating": 5.7
+    },
+    {
+        "studio": "Gatlin",
+        "rating": 5.7
+    },
+    {
+        "studio": "Hal Roach Studios",
+        "rating": 5.7
+    },
+    {
+        "studio": "Drybake Final Score",
+        "rating": 5.7
+    },
+    {
+        "studio": "Brad Grey Pictures",
+        "rating": 5.67
+    },
+    {
+        "studio": "Offspring Entertainment",
+        "rating": 5.65
+    },
+    {
+        "studio": "Lipsync Productions",
+        "rating": 5.65
+    },
+    {
+        "studio": "Solana Films",
+        "rating": 5.65
+    },
+    {
+        "studio": "Will Packer Productions",
+        "rating": 5.64
+    },
+    {
+        "studio": "Double Negative (DNEG)",
+        "rating": 5.63
+    },
+    {
+        "studio": "UFA",
+        "rating": 5.63
+    },
+    {
+        "studio": "Sparkle Roll Media",
+        "rating": 5.63
+    },
+    {
+        "studio": "Jason T. Reed Productions",
+        "rating": 5.6
+    },
+    {
+        "studio": "Jeepers Creepers II",
+        "rating": 5.6
+    },
+    {
+        "studio": "Good Fear",
+        "rating": 5.6
+    },
+    {
+        "studio": "Valhalla Motion Pictures",
+        "rating": 5.6
+    },
+    {
+        "studio": "Good Machine",
+        "rating": 5.6
+    },
+    {
+        "studio": "Aurora Alliance Films",
+        "rating": 5.6
+    },
+    {
+        "studio": "Apelles Entertainment",
+        "rating": 5.6
+    },
+    {
+        "studio": "Gravity Pictures",
+        "rating": 5.6
+    },
+    {
+        "studio": "Flagship Entertainment Group",
+        "rating": 5.6
+    },
+    {
+        "studio": "Maeday Productions",
+        "rating": 5.6
+    },
+    {
+        "studio": "West Madison Entertainment",
+        "rating": 5.6
+    },
+    {
+        "studio": "Brownstone Productions",
+        "rating": 5.6
+    },
+    {
+        "studio": "Marro Films",
+        "rating": 5.6
+    },
+    {
+        "studio": "The Department of Trade and Industry of South Africa",
+        "rating": 5.6
+    },
+    {
+        "studio": "Kungfuman Culture Media",
+        "rating": 5.6
+    },
+    {
+        "studio": "UpperRoom Productions",
+        "rating": 5.6
+    },
+    {
+        "studio": "Hamilton Entertainment",
+        "rating": 5.6
+    },
+    {
+        "studio": "Senator Film",
+        "rating": 5.6
+    },
+    {
+        "studio": "Freerunning",
+        "rating": 5.6
+    },
+    {
+        "studio": "HartBeat Productions",
+        "rating": 5.6
+    },
+    {
+        "studio": "Cowtown Cinema Ventures",
+        "rating": 5.6
+    },
+    {
+        "studio": "Art Pictures Studio",
+        "rating": 5.6
+    },
+    {
+        "studio": "Vodorod Film Company",
+        "rating": 5.6
+    },
+    {
+        "studio": "Cinema Seven Productions",
+        "rating": 5.6
+    },
+    {
+        "studio": "Gone North Productions",
+        "rating": 5.6
+    },
+    {
+        "studio": "Silver State Production Services",
+        "rating": 5.6
+    },
+    {
+        "studio": "SJ Heat Productions",
+        "rating": 5.6
+    },
+    {
+        "studio": "SJ Pictures",
+        "rating": 5.6
+    },
+    {
+        "studio": "Big Screen Productions",
+        "rating": 5.6
+    },
+    {
+        "studio": "Team Downey",
+        "rating": 5.6
+    },
+    {
+        "studio": "Conundrum Entertainment",
+        "rating": 5.6
+    },
+    {
+        "studio": "Charenton Productions Limited",
+        "rating": 5.6
+    },
+    {
+        "studio": "Inside Track Films",
+        "rating": 5.6
+    },
+    {
+        "studio": "Kut Productions",
+        "rating": 5.6
+    },
+    {
+        "studio": "Lonlink Productions",
+        "rating": 5.6
+    },
+    {
+        "studio": "On the Day",
+        "rating": 5.6
+    },
+    {
+        "studio": "Darren Star Productions",
+        "rating": 5.6
+    },
+    {
+        "studio": "HBO",
+        "rating": 5.6
+    },
+    {
+        "studio": "Metropolitan Filmexport",
+        "rating": 5.6
+    },
+    {
+        "studio": "Serendipity Productions",
+        "rating": 5.6
+    },
+    {
+        "studio": "Estudios Churubusco Azteca S.A.",
+        "rating": 5.6
+    },
+    {
+        "studio": "Media Transactions",
+        "rating": 5.6
+    },
+    {
+        "studio": "Melbarken",
+        "rating": 5.6
+    },
+    {
+        "studio": "Sunswept Entertainment",
+        "rating": 5.57
+    },
+    {
+        "studio": "CC Capital Arts Entertainment SRL",
+        "rating": 5.55
+    },
+    {
+        "studio": "Moonlighting Films",
+        "rating": 5.55
+    },
+    {
+        "studio": "EFO Films",
+        "rating": 5.53
+    },
+    {
+        "studio": "Wayans Bros. Entertainment",
+        "rating": 5.53
+    },
+    {
+        "studio": "Viddywell",
+        "rating": 5.5
+    },
+    {
+        "studio": "Reveal Entertainment",
+        "rating": 5.5
+    },
+    {
+        "studio": "Endgame Entertainment",
+        "rating": 5.5
+    },
+    {
+        "studio": "Code Red",
+        "rating": 5.5
+    },
+    {
+        "studio": "Thaba Media",
+        "rating": 5.5
+    },
+    {
+        "studio": "Fremantle Productions",
+        "rating": 5.5
+    },
+    {
+        "studio": "Belga Productions",
+        "rating": 5.5
+    },
+    {
+        "studio": "CB Films",
+        "rating": 5.5
+    },
+    {
+        "studio": "Uncharted",
+        "rating": 5.5
+    },
+    {
+        "studio": "Azari Media",
+        "rating": 5.5
+    },
+    {
+        "studio": "DCS",
+        "rating": 5.5
+    },
+    {
+        "studio": "Outlaw Sinema",
+        "rating": 5.5
+    },
+    {
+        "studio": "Breaking In Pictures",
+        "rating": 5.5
+    },
+    {
+        "studio": "Karbonshark",
+        "rating": 5.5
+    },
+    {
+        "studio": "WeBros Entertainment",
+        "rating": 5.5
+    },
+    {
+        "studio": "Beijing Skywheel Entertainment Co.",
+        "rating": 5.5
+    },
+    {
+        "studio": "Kasdan Pictures",
+        "rating": 5.5
+    },
+    {
+        "studio": "WV Films II",
+        "rating": 5.5
+    },
+    {
+        "studio": "lavender pictures",
+        "rating": 5.5
+    },
+    {
+        "studio": "Enderby Entertainment",
+        "rating": 5.5
+    },
+    {
+        "studio": "Practical Pictures",
+        "rating": 5.5
+    },
+    {
+        "studio": "Parallel Zide",
+        "rating": 5.5
+    },
+    {
+        "studio": "Pendle Mountain Productions",
+        "rating": 5.5
+    },
+    {
+        "studio": "Dimension Films",
+        "rating": 5.46
+    },
+    {
+        "studio": "Artists First",
+        "rating": 5.45
+    },
+    {
+        "studio": "Disney Television Animation",
+        "rating": 5.45
+    },
+    {
+        "studio": "42",
+        "rating": 5.45
+    },
+    {
+        "studio": "Setient Pictures",
+        "rating": 5.4
+    },
+    {
+        "studio": "Midwinter Productions Inc.",
+        "rating": 5.4
+    },
+    {
+        "studio": "RK films",
+        "rating": 5.4
+    },
+    {
+        "studio": "Intellectual Properties Worldwide",
+        "rating": 5.4
+    },
+    {
+        "studio": "Secret Hideout",
+        "rating": 5.4
+    },
+    {
+        "studio": "Dark Universe",
+        "rating": 5.4
+    },
+    {
+        "studio": "Vantage Holdings",
+        "rating": 5.4
+    },
+    {
+        "studio": "Agora Entertainment",
+        "rating": 5.4
+    },
+    {
+        "studio": "Kinology",
+        "rating": 5.4
+    },
+    {
+        "studio": "Filmscope Entertainment",
+        "rating": 5.4
+    },
+    {
+        "studio": "Sean Daniel Company",
+        "rating": 5.4
+    },
+    {
+        "studio": "Forward Pass",
+        "rating": 5.4
+    },
+    {
+        "studio": "COTA Films",
+        "rating": 5.4
+    },
+    {
+        "studio": "Goldcrest",
+        "rating": 5.4
+    },
+    {
+        "studio": "Aja / Levasseur Productions",
+        "rating": 5.4
+    },
+    {
+        "studio": "Artina Films",
+        "rating": 5.4
+    },
+    {
+        "studio": "Saturn Films",
+        "rating": 5.4
+    },
+    {
+        "studio": "First Street Films",
+        "rating": 5.4
+    },
+    {
+        "studio": "Convergence Productions Pty",
+        "rating": 5.4
+    },
+    {
+        "studio": "Chako Film Company",
+        "rating": 5.4
+    },
+    {
+        "studio": "Salty Pictures",
+        "rating": 5.4
+    },
+    {
+        "studio": "Pyramania",
+        "rating": 5.4
+    },
+    {
+        "studio": "The Stone Quarry",
+        "rating": 5.4
+    },
+    {
+        "studio": "Metrol Technology",
+        "rating": 5.33
+    },
+    {
+        "studio": "Head Gear Films",
+        "rating": 5.33
+    },
+    {
+        "studio": "Likely Story",
+        "rating": 5.3
+    },
+    {
+        "studio": "Universal Animation Studios",
+        "rating": 5.3
+    },
+    {
+        "studio": "Global Road Entertainment",
+        "rating": 5.3
+    },
+    {
+        "studio": "Zeta Cinema",
+        "rating": 5.3
+    },
+    {
+        "studio": "La Gran Superproducci\u00f3n",
+        "rating": 5.3
+    },
+    {
+        "studio": "Whitebeard Films",
+        "rating": 5.3
+    },
+    {
+        "studio": "French Tax Credit",
+        "rating": 5.3
+    },
+    {
+        "studio": "EMG Management",
+        "rating": 5.3
+    },
+    {
+        "studio": "Emperor Motion Pictures",
+        "rating": 5.3
+    },
+    {
+        "studio": "Electric Entertainment",
+        "rating": 5.3
+    },
+    {
+        "studio": "CalMaple Films",
+        "rating": 5.3
+    },
+    {
+        "studio": "Canada Film Capital",
+        "rating": 5.3
+    },
+    {
+        "studio": "Ehman Productions",
+        "rating": 5.3
+    },
+    {
+        "studio": "Image Nation",
+        "rating": 5.3
+    },
+    {
+        "studio": "FGM Entertainment",
+        "rating": 5.3
+    },
+    {
+        "studio": "Wattpad",
+        "rating": 5.3
+    },
+    {
+        "studio": "Frayed Pages Entertainment",
+        "rating": 5.3
+    },
+    {
+        "studio": "CAPCOM",
+        "rating": 5.3
+    },
+    {
+        "studio": "Cinema Fund",
+        "rating": 5.3
+    },
+    {
+        "studio": "Voltage Pictures",
+        "rating": 5.25
+    },
+    {
+        "studio": "Shanghai Film Group",
+        "rating": 5.2
+    },
+    {
+        "studio": "Hasbro Studios",
+        "rating": 5.2
+    },
+    {
+        "studio": "Heyi Pictures Company",
+        "rating": 5.2
+    },
+    {
+        "studio": "Bottom Line Entertainment",
+        "rating": 5.2
+    },
+    {
+        "studio": "Material Pictures",
+        "rating": 5.2
+    },
+    {
+        "studio": "Vengeance Productions Pty. Ltd.",
+        "rating": 5.2
+    },
+    {
+        "studio": "GH One",
+        "rating": 5.2
+    },
+    {
+        "studio": "Fox Atomic",
+        "rating": 5.2
+    },
+    {
+        "studio": "Tom DeSanto & Don Murphy Production",
+        "rating": 5.2
+    },
+    {
+        "studio": "Crystal Sky Pictures",
+        "rating": 5.2
+    },
+    {
+        "studio": "Shinework Media",
+        "rating": 5.2
+    },
+    {
+        "studio": "Taihe Entertainment",
+        "rating": 5.2
+    },
+    {
+        "studio": "Encore Films",
+        "rating": 5.2
+    },
+    {
+        "studio": "Boyana Film Studios",
+        "rating": 5.2
+    },
+    {
+        "studio": "Burning Sky Films",
+        "rating": 5.2
+    },
+    {
+        "studio": "Archstone Pictures",
+        "rating": 5.2
+    },
+    {
+        "studio": "Tea Shop & Film Company",
+        "rating": 5.2
+    },
+    {
+        "studio": "Rox Productions",
+        "rating": 5.2
+    },
+    {
+        "studio": "Movie Power",
+        "rating": 5.2
+    },
+    {
+        "studio": "Maple Cage Productions",
+        "rating": 5.2
+    },
+    {
+        "studio": "Ian Bryce Productions",
+        "rating": 5.2
+    },
+    {
+        "studio": "Michael De Luca Productions",
+        "rating": 5.17
+    },
+    {
+        "studio": "China Film Group Corporation",
+        "rating": 5.15
+    },
+    {
+        "studio": "Planet Productions",
+        "rating": 5.15
+    },
+    {
+        "studio": "Windfall Productions",
+        "rating": 5.1
+    },
+    {
+        "studio": "Big Cinema House",
+        "rating": 5.1
+    },
+    {
+        "studio": "Parkside Pictures",
+        "rating": 5.1
+    },
+    {
+        "studio": "Signature Pictures",
+        "rating": 5.1
+    },
+    {
+        "studio": "Cinema Sunshine",
+        "rating": 5.1
+    },
+    {
+        "studio": "Presidio",
+        "rating": 5.1
+    },
+    {
+        "studio": "Tadross Media Group",
+        "rating": 5.1
+    },
+    {
+        "studio": "Dream Team Films",
+        "rating": 5.1
+    },
+    {
+        "studio": "Musashino Ad",
+        "rating": 5.1
+    },
+    {
+        "studio": "CTV International",
+        "rating": 5.1
+    },
+    {
+        "studio": "Artisan Entertainment",
+        "rating": 5.1
+    },
+    {
+        "studio": "RSVP Entertainment",
+        "rating": 5.1
+    },
+    {
+        "studio": "Open Road Films",
+        "rating": 5.06
+    },
+    {
+        "studio": "Sean S. Cunningham Films",
+        "rating": 5.05
+    },
+    {
+        "studio": "Smart Entertainment",
+        "rating": 5.05
+    },
+    {
+        "studio": "Phantom Four",
+        "rating": 5.05
+    },
+    {
+        "studio": "Crystal Lake Entertainment",
+        "rating": 5.05
+    },
+    {
+        "studio": "Brookstreet Pictures",
+        "rating": 5
+    },
+    {
+        "studio": "Outerbanks Entertainment",
+        "rating": 5
+    },
+    {
+        "studio": "Craven-Maddalena Films",
+        "rating": 5
+    },
+    {
+        "studio": "Kirk Shaw Productions",
+        "rating": 5
+    },
+    {
+        "studio": "Kalis Productions GmbH & Co. Zweite KG",
+        "rating": 5
+    },
+    {
+        "studio": "Our House Films",
+        "rating": 5
+    },
+    {
+        "studio": "Room 101",
+        "rating": 5
+    },
+    {
+        "studio": "Walt Disney Animation Japan",
+        "rating": 5
+    },
+    {
+        "studio": "Aboretum Productions",
+        "rating": 5
+    },
+    {
+        "studio": "Movie Trailer House",
+        "rating": 4.9
+    },
+    {
+        "studio": "Rogovin Brothers",
+        "rating": 4.9
+    },
+    {
+        "studio": "TSBD Productions",
+        "rating": 4.9
+    },
+    {
+        "studio": "Total Entertainment",
+        "rating": 4.9
+    },
+    {
+        "studio": "Dragonfly Entertainment",
+        "rating": 4.9
+    },
+    {
+        "studio": "Elevated Films",
+        "rating": 4.9
+    },
+    {
+        "studio": "Wonderfilm Media",
+        "rating": 4.9
+    },
+    {
+        "studio": "Camp Grey",
+        "rating": 4.9
+    },
+    {
+        "studio": "Lionsgate Premiere",
+        "rating": 4.9
+    },
+    {
+        "studio": "Artem Entertainment",
+        "rating": 4.9
+    },
+    {
+        "studio": "Sobras International Pictures",
+        "rating": 4.9
+    },
+    {
+        "studio": "TSBD Canada Productions",
+        "rating": 4.9
+    },
+    {
+        "studio": "TSBD Louisiana",
+        "rating": 4.9
+    },
+    {
+        "studio": "Pimienta",
+        "rating": 4.9
+    },
+    {
+        "studio": "Daniel Grodnik Productions",
+        "rating": 4.9
+    },
+    {
+        "studio": "Imprint Entertainment",
+        "rating": 4.87
+    },
+    {
+        "studio": "Universal 1440 Entertainment",
+        "rating": 4.85
+    },
+    {
+        "studio": "Maverick Films",
+        "rating": 4.85
+    },
+    {
+        "studio": "Trimark Pictures",
+        "rating": 4.8
+    },
+    {
+        "studio": "CTM Films",
+        "rating": 4.8
+    },
+    {
+        "studio": "Cedar Park Entertainment",
+        "rating": 4.8
+    },
+    {
+        "studio": "Capital Arts Entertainment",
+        "rating": 4.8
+    },
+    {
+        "studio": "Faster Horse Pictures",
+        "rating": 4.8
+    },
+    {
+        "studio": "Borden & Rosenbush Entertainment",
+        "rating": 4.8
+    },
+    {
+        "studio": "SquareOne Entertainment",
+        "rating": 4.8
+    },
+    {
+        "studio": "Kodiak Pictures",
+        "rating": 4.8
+    },
+    {
+        "studio": "Giving Films",
+        "rating": 4.8
+    },
+    {
+        "studio": "Myriad Pictures",
+        "rating": 4.75
+    },
+    {
+        "studio": "Russian Film Group",
+        "rating": 4.7
+    },
+    {
+        "studio": "Buffalo 8 Productions",
+        "rating": 4.7
+    },
+    {
+        "studio": "Roserock Films",
+        "rating": 4.7
+    },
+    {
+        "studio": "Lime Studios",
+        "rating": 4.7
+    },
+    {
+        "studio": "Gap Financing",
+        "rating": 4.7
+    },
+    {
+        "studio": "Fetisoff Illusion",
+        "rating": 4.7
+    },
+    {
+        "studio": "China International Picture",
+        "rating": 4.7
+    },
+    {
+        "studio": "Lawrence Bender Productions",
+        "rating": 4.7
+    },
+    {
+        "studio": "Addictive Pictures",
+        "rating": 4.7
+    },
+    {
+        "studio": "GFA Entertainment",
+        "rating": 4.7
+    },
+    {
+        "studio": "Redbox Entertainment",
+        "rating": 4.7
+    },
+    {
+        "studio": "Bagdasarian Productions",
+        "rating": 4.67
+    },
+    {
+        "studio": "Ukrainian State Film Agency",
+        "rating": 4.6
+    },
+    {
+        "studio": "22h22",
+        "rating": 4.6
+    },
+    {
+        "studio": "Notorious Films",
+        "rating": 4.6
+    },
+    {
+        "studio": "Media Max Productions",
+        "rating": 4.6
+    },
+    {
+        "studio": "SE Film Production",
+        "rating": 4.6
+    },
+    {
+        "studio": "Dolphin Entertainment",
+        "rating": 4.6
+    },
+    {
+        "studio": "Frozen Flame Pictures",
+        "rating": 4.6
+    },
+    {
+        "studio": "International Cinema",
+        "rating": 4.6
+    },
+    {
+        "studio": "Mattel Entertainment",
+        "rating": 4.6
+    },
+    {
+        "studio": "Black Lion Pictures",
+        "rating": 4.6
+    },
+    {
+        "studio": "Bad Beaver Productions",
+        "rating": 4.6
+    },
+    {
+        "studio": "Haaja & Arwo Design",
+        "rating": 4.6
+    },
+    {
+        "studio": "Ascot Elite Entertainment Group",
+        "rating": 4.6
+    },
+    {
+        "studio": "EastWest Productions",
+        "rating": 4.6
+    },
+    {
+        "studio": "Eight 35",
+        "rating": 4.6
+    },
+    {
+        "studio": "Seven 52",
+        "rating": 4.6
+    },
+    {
+        "studio": "Wild Tribe Films",
+        "rating": 4.6
+    },
+    {
+        "studio": "Stereo D",
+        "rating": 4.5
+    },
+    {
+        "studio": "Vertical Entertainment",
+        "rating": 4.4
+    },
+    {
+        "studio": "Pure Flix Productions",
+        "rating": 4.4
+    },
+    {
+        "studio": "Twirly Films Limited",
+        "rating": 4.4
+    },
+    {
+        "studio": "Six Entertainment",
+        "rating": 4.4
+    },
+    {
+        "studio": "Leomus Pictures",
+        "rating": 4.4
+    },
+    {
+        "studio": "Potato Eater Productions",
+        "rating": 4.4
+    },
+    {
+        "studio": "CTB Film Company",
+        "rating": 4.35
+    },
+    {
+        "studio": "Summerstorm Entertainment",
+        "rating": 4.3
+    },
+    {
+        "studio": "Company Films",
+        "rating": 4.3
+    },
+    {
+        "studio": "Film Camp",
+        "rating": 4.3
+    },
+    {
+        "studio": "H.S.M. Entertainment",
+        "rating": 4.3
+    },
+    {
+        "studio": "Buffalo Gal Pictures",
+        "rating": 4.3
+    },
+    {
+        "studio": "Invico Capital",
+        "rating": 4.2
+    },
+    {
+        "studio": "Bridgegate Pictures",
+        "rating": 4.2
+    },
+    {
+        "studio": "Minds Eye Entertainment",
+        "rating": 4.2
+    },
+    {
+        "studio": "TKBC",
+        "rating": 4.2
+    },
+    {
+        "studio": "Anarchy Post (ADR recording)",
+        "rating": 4.2
+    },
+    {
+        "studio": "VMI Worldwide",
+        "rating": 4.2
+    },
+    {
+        "studio": "Creativity Capital",
+        "rating": 4.2
+    },
+    {
+        "studio": "Pineapple Lasagne Productions",
+        "rating": 4.1
+    },
+    {
+        "studio": "Landay Entertainment",
+        "rating": 4.1
+    },
+    {
+        "studio": "Atlantic Films",
+        "rating": 4.1
+    },
+    {
+        "studio": "Trigger Street Productions",
+        "rating": 4.1
+    },
+    {
+        "studio": "HanWay Films",
+        "rating": 4.1
+    },
+    {
+        "studio": "Bonanza Studios",
+        "rating": 4
+    },
+    {
+        "studio": "First Channel",
+        "rating": 4
+    },
+    {
+        "studio": "Russia 1",
+        "rating": 4
+    },
+    {
+        "studio": "Main Road Post",
+        "rating": 4
+    },
+    {
+        "studio": "Village Studios",
+        "rating": 3.9
+    },
+    {
+        "studio": "Ansgar Media",
+        "rating": 3.9
+    },
+    {
+        "studio": "Cartel Pictures",
+        "rating": 3.9
+    },
+    {
+        "studio": "Renovatio Entertainment",
+        "rating": 3.9
+    },
+    {
+        "studio": "Scoundrel Media",
+        "rating": 3.9
+    },
+    {
+        "studio": "Infinity Films",
+        "rating": 3.9
+    },
+    {
+        "studio": "Enjoy Movies",
+        "rating": 3.9
+    },
+    {
+        "studio": "MACRO",
+        "rating": 3.8
+    },
+    {
+        "studio": "Wallaz",
+        "rating": 3.8
+    },
+    {
+        "studio": "Fuse Box Films",
+        "rating": 3.8
+    },
+    {
+        "studio": "Slice Production Studios",
+        "rating": 3.8
+    },
+    {
+        "studio": "Marctropolis-Film",
+        "rating": 3.8
+    },
+    {
+        "studio": "Gran Via Productions",
+        "rating": 3.65
+    },
+    {
+        "studio": "High Octane Pictures",
+        "rating": 3.65
+    },
+    {
+        "studio": "Mad Kiwi Films Ltd",
+        "rating": 3.5
+    },
+    {
+        "studio": "Devilworks",
+        "rating": 3.5
+    },
+    {
+        "studio": "Downtown Filmes",
+        "rating": 3.3
+    },
+    {
+        "studio": "Record TV",
+        "rating": 3.3
+    },
+    {
+        "studio": "Origin Films",
+        "rating": 3.2
+    },
+    {
+        "studio": "Stoney Lake Entertainment",
+        "rating": 3.1
+    },
+    {
+        "studio": "Acme Rocket Fuel",
+        "rating": 2.9
+    },
+    {
+        "studio": "The Asylum",
+        "rating": 2.9
+    },
+    {
+        "studio": "Green Olive Films",
+        "rating": 2.9
+    },
+    {
+        "studio": "Double Tree Entertainment",
+        "rating": 2.9
+    },
+    {
+        "studio": "Monumental Pictures",
+        "rating": 2.8
+    },
+    {
+        "studio": "Clear Angle Studios",
+        "rating": 2.8
+    },
+    {
+        "studio": "The Really Useful Group",
+        "rating": 2.8
+    },
+    {
+        "studio": "World Film Magic",
+        "rating": 2.5
+    },
+    {
+        "studio": "Star Overseas",
+        "rating": 2.5
+    },
+    {
+        "studio": "Westwood Artists International Inc.",
+        "rating": 2.4
+    },
+    {
+        "studio": "Industrial Light & Magic",
+        "rating": 2
+    },
+    {
+        "studio": "B25",
+        "rating": 0
+    },
+    {
+        "studio": "Villeneuve Films",
+        "rating": 0
+    },
+    {
+        "studio": "Zak Productions",
+        "rating": 0
+    },
+    {
+        "studio": "Digital Domain",
+        "rating": 0
+    },
+    {
+        "studio": "Trixter Film",
+        "rating": 0
+    },
+    {
+        "studio": "Cinesite",
+        "rating": 0
+    }
+]
