@@ -1,8 +1,8 @@
 <template>
   <div class="chartContainer">
     <p></p>
-    <YearSelector @year="setYearFrom"/>
-    <YearSelector @year="setYearTo"/>
+    <YearSelector @year="setYearFrom" v-bind:yr="this.from"/>
+    <YearSelector @year="setYearTo" v-bind:yr="this.to"/>
     <p></p>
     <canvas :id="chartId"></canvas>
   </div>
@@ -11,14 +11,12 @@
 <script>
 import YearSelector from './YearSelector'
 import Chart from 'chart.js'
+import Vue from 'vue'
 import { movies } from './Utils.js'
 
 var cvs
 var ctx
 var charts = {}
-
-var from = 2020
-var to = 2020
 
 export default {
 
@@ -33,7 +31,7 @@ export default {
         cvs = document.getElementById(this.chartId)
         ctx = cvs.getContext('2d')
 
-        var data = movies(from, to)
+        var data = movies(this.from, this.to)
 
         charts[this.chartId] = new Chart(ctx, {
             type: 'line',
@@ -79,18 +77,25 @@ export default {
         },
 
         renderMovies() {
-            this.renderChart(movies(from, to))
+            this.renderChart(movies(this.from, this.to))
         },
 
         setYearFrom(year) {
-            from = year
+            this.from = year
             this.renderMovies()
         },
 
         setYearTo(year) {
-            to = year
+            this.to = year
             this.renderMovies()
         },
+    },
+
+    data() {
+        return {
+            from: 2020,
+            to: 2020
+        }
     }
 }
 
