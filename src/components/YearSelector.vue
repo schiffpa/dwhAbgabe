@@ -1,5 +1,5 @@
 <template>
-    <select class="select" @change="update()">
+    <select class="select" @click="update()">
         <option v-for="year in years" :key="year">
           {{ year }}
         </option>
@@ -9,14 +9,19 @@
 <script>
 export default {
 
+    props: ["yr"],
+
     mounted() {
-        this.$el.selectedIndex = 1
+        this.$el.value = this.yr 
     },
     
     methods: {
         update() {
             this.selected = this.$el.options[this.$el.selectedIndex].value
             this.$emit('year', this.selected)
+        },
+        getYears() {
+            console.log('salam')
         }
     },
 

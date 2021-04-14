@@ -20,7 +20,7 @@ export const delta = (sorted, out) => {
 
     for (let i = 0; i < sorted.length; i++)
         out.datasets[0].pointBackgroundColor.push(
-            'hsl(' + Math.round(sorted[i].budget * 256 / delta) + ', 100%, 70%)'
+            'rgba(255, 255, 0,' + sorted[i].budget / delta + ')'
         )
 }
 
