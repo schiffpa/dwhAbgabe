@@ -3,7 +3,7 @@ import dash_html_components as html
 import json
 import requests
 
-API_KEY = "fd8b017cb08c608a532146943f5b2113"
+API_KEY = "XXX" #TODO: insert KEY
 
 def durationDrop():
     # future automate with select genres
