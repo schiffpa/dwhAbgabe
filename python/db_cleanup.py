@@ -94,7 +94,7 @@ def load_To_Mongo():
 def load_from_Mongo(write_to_csv=True):
 
     client = MongoClient(
-        "mongodb+srv://paul:paulhwrdwh@movies.6kuoq.mongodb.net/Movies?retryWrites=true&w=majority")
+        "mongodb+srv://XXX:YYYYY@movies.6kuoq.mongodb.net/Movies?retryWrites=true&w=majority") # import user and pwd
     db = client["Movies"]
 
     moviesdf = pd.DataFrame(list(db["Movies"].find()))
